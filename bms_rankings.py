@@ -15,7 +15,7 @@ import logging
 # -----------------------
 MAX_WORKERS = 4
 RETRY_LIMIT = 3
-REQUEST_DELAY_RANGE = (0.8, 1.6)
+REQUEST_DELAY = (0.6, 1.4)
 IST = pytz.timezone("Asia/Kolkata")
 
 # -----------------------
@@ -30,23 +30,25 @@ os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(TRASH_DIR, exist_ok=True)
 
 RANKING_FILE = f"{DATA_DIR}/{date_str}_Rankings.json"
-FAILURE_FILE = f"{TRASH_DIR}/failures_{date_str}.json"
 LOG_FILE = f"{TRASH_DIR}/run_{date_str}.log"
+FAILURE_FILE = f"{TRASH_DIR}/failures_{date_str}.json"
 
 # -----------------------
 # LOGGING SETUP
 # -----------------------
-logging.basicConfig(
-    filename=LOG_FILE,
-    level=logging.INFO,
-    format="%(asctime)s | %(levelname)s | %(message)s",
-)
+logger = logging.getLogger("BMS")
+logger.setLevel(logging.INFO)
 
-console = logging.StreamHandler()
-console.setLevel(logging.INFO)
-logging.getLogger("").addHandler(console)
+file_handler = logging.FileHandler(LOG_FILE, encoding="utf-8")
+file_handler.setFormatter(logging.Formatter("%(asctime)s | %(levelname)s | %(message)s"))
 
-logging.info(f"🚀 Starting run for {date_str}")
+console_handler = logging.StreamHandler()
+console_handler.setFormatter(logging.Formatter("%(message)s"))
+
+logger.addHandler(file_handler)
+logger.addHandler(console_handler)
+
+logger.info(f"\n🚀 Starting run for {date_str}\n")
 
 # -----------------------
 # USER AGENTS
@@ -68,7 +70,7 @@ class Identity:
     def __init__(self):
         self.ua = random.choice(USER_AGENTS)
         self.scraper = cloudscraper.create_scraper(
-            browser={"browser": "chrome", "platform": "windows"}
+            browser={"browser": "chrome", "platform": "windows", "desktop": True}
         )
         self.warm_session()
 
@@ -84,14 +86,14 @@ class Identity:
 
     def warm_session(self):
         try:
-            self.scraper.get(
+            r = self.scraper.get(
                 "https://in.bookmyshow.com/",
                 headers=self.headers(),
                 timeout=10
             )
-            logging.info("🌐 Session warmed")
+            logger.info("🌐 Session warmed")
         except Exception as e:
-            logging.warning(f"Warmup failed: {e}")
+            logger.warning(f"Warmup failed: {e}")
 
 def get_identity():
     if not hasattr(thread_local, "identity"):
@@ -111,16 +113,18 @@ def clean_title(title):
     return title.rsplit("(", 1)[0].strip()
 
 # -----------------------
-def fetch_movies_for_city(city):
+def fetch_movies_for_city(city, index, total):
     region_name = city.get("RegionName")
     region_code = city.get("RegionCode")
     url = f"https://in.bookmyshow.com/quickbook-search.bms?r={region_code}"
 
     ident = get_identity()
 
+    logger.info(f"[{index}/{total}] Fetching {region_name} ({region_code})")
+
     for attempt in range(RETRY_LIMIT):
         try:
-            time.sleep(random.uniform(*REQUEST_DELAY_RANGE))
+            time.sleep(random.uniform(*REQUEST_DELAY))
 
             response = ident.scraper.get(
                 url,
@@ -128,10 +132,10 @@ def fetch_movies_for_city(city):
                 timeout=15
             )
 
-            logging.info(f"[{region_name}] Status {response.status_code}")
+            logger.info(f"   ↳ Status {response.status_code}")
 
             if response.status_code in (403, 429):
-                logging.warning(f"[{region_name}] Blocked ({response.status_code}) attempt {attempt+1}")
+                logger.warning(f"   ⚠ Blocked ({response.status_code}) retry {attempt+1}")
                 reset_identity()
                 ident = get_identity()
                 time.sleep(2 ** attempt)
@@ -147,14 +151,12 @@ def fetch_movies_for_city(city):
                 if hit.get("TYPE") == "MT" and "TITLE" in hit
             ]
 
-            logging.info(f"[{region_name}] Movies found: {len(movies)}")
-
+            logger.info(f"   ✓ Found {len(movies)} movies")
             ranked = {f"rank{i+1}": title for i, title in enumerate(movies[:8])}
             return region_name, ranked
 
         except Exception as e:
-            logging.error(f"[{region_name}] Error: {e}")
-
+            logger.error(f"   ❌ Error: {e}")
             if attempt == RETRY_LIMIT - 1:
                 with lock:
                     failures.append({
@@ -169,31 +171,39 @@ def fetch_movies_for_city(city):
 # -----------------------
 def main():
     cities = load_cities()
+    total = len(cities)
 
     all_rankings = {}
     movie_points = defaultdict(int)
     movie_city_count = defaultdict(set)
 
-    logging.info(f"📌 Total cities: {len(cities)}")
+    logger.info(f"📌 Total cities: {total}\n")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = [executor.submit(fetch_movies_for_city, city) for city in cities]
+        futures = [
+            executor.submit(fetch_movies_for_city, city, i+1, total)
+            for i, city in enumerate(cities)
+        ]
 
         for future in as_completed(futures):
             region_name, ranked_movies = future.result()
 
             if ranked_movies:
                 all_rankings[region_name] = ranked_movies
-
                 for rank_key, movie_title in ranked_movies.items():
                     rank = int(rank_key.replace("rank", ""))
                     points = 9 - rank
                     movie_points[movie_title] += points
                     movie_city_count[movie_title].add(region_name)
 
+    # -----------------------
+    # Save Rankings
+    # -----------------------
     output = {
         "date": date_str,
-        "total_cities": len(cities),
+        "total_cities": total,
+        "success_cities": len(all_rankings),
+        "failed_cities": len(failures),
         "rankings": all_rankings
     }
 
@@ -208,14 +218,24 @@ def main():
                 "failures": failures
             }, f, indent=4, ensure_ascii=False)
 
+    # -----------------------
+    # Final Summary
+    # -----------------------
+    logger.info("\n🏆 Top 20 Trending Movies\n")
+
     top_movies = sorted(movie_points.items(), key=lambda x: x[1], reverse=True)[:20]
 
-    logging.info("🏆 Top 20 Summary:")
     for idx, (movie, points) in enumerate(top_movies, 1):
         cities_count = len(movie_city_count[movie])
-        logging.info(f"{idx}. {movie} | Points: {points} | Cities: {cities_count}")
+        logger.info(f"{idx:2d}. {movie:<30} | Points: {points:<4} | Cities: {cities_count}")
 
-    logging.info("✅ Run completed successfully")
+    success_rate = (len(all_rankings) / total * 100) if total else 0
+
+    logger.info("\n📊 Run Summary")
+    logger.info(f"   Success Cities : {len(all_rankings)}")
+    logger.info(f"   Failed Cities  : {len(failures)}")
+    logger.info(f"   Success Rate   : {round(success_rate,2)}%")
+    logger.info(f"\n✅ Rankings saved to {RANKING_FILE}\n")
 
 if __name__ == "__main__":
     main()
