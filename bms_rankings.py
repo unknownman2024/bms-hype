@@ -1,48 +1,81 @@
+import cloudscraper
 import json
-import os
 import random
 import time
-import threading
-from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
+import os
+import threading
+from datetime import datetime
+import pytz
+import logging
 
-import cloudscraper
-
-# =====================================================
+# -----------------------
 # CONFIG
-# =====================================================
-MAX_WORKERS = 4
-API_TIMEOUT = 12
-IST = timezone(timedelta(hours=5, minutes=30))
-DATE_CODE = datetime.now(IST).strftime("%Y%m%d")
-DATE_LABEL = datetime.now(IST).strftime("%d%m%Y")
+# -----------------------
+MAX_WORKERS = 4        # 🔥 reduced
+RETRY_LIMIT = 3
+IST = pytz.timezone("Asia/Kolkata")
+
+# -----------------------
+# DATE SETUP
+# -----------------------
+today = datetime.now(IST)
+date_str = today.strftime("%d%m%Y")
 
 DATA_DIR = "Data"
 TRASH_DIR = "Trash"
+
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(TRASH_DIR, exist_ok=True)
 
-RANK_FILE = f"{DATA_DIR}/{DATE_LABEL}_Rankings.json"
-FAIL_FILE = f"{TRASH_DIR}/failures_{DATE_LABEL}.json"
+RANKING_FILE = f"{DATA_DIR}/{date_str}_Rankings.json"
+LOG_FILE = f"{TRASH_DIR}/run_{date_str}.log"
+FAILURE_FILE = f"{TRASH_DIR}/failures_{date_str}.json"
 
-# =====================================================
+# -----------------------
+# LOGGING
+# -----------------------
+logging.basicConfig(
+    filename=LOG_FILE,
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+print(f"🚀 Starting run for {date_str}")
+
+# -----------------------
 # USER AGENTS
-# =====================================================
+# -----------------------
 USER_AGENTS = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/119 Safari/537.36",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/118 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 Chrome/121.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36",
 ]
 
 thread_local = threading.local()
+failures = []
+lock = threading.Lock()
 
+# -----------------------
+# Identity per thread
+# -----------------------
 class Identity:
     def __init__(self):
         self.ua = random.choice(USER_AGENTS)
         self.scraper = cloudscraper.create_scraper(
             browser={"browser": "chrome", "platform": "windows", "desktop": True}
         )
+
+        # 🔥 Warm homepage (important)
+        try:
+            self.scraper.get(
+                "https://in.bookmyshow.com/",
+                headers=self.headers(),
+                timeout=10
+            )
+        except:
+            pass
 
     def headers(self):
         return {
@@ -51,6 +84,7 @@ class Identity:
             "Accept-Language": "en-IN,en;q=0.9",
             "Origin": "https://in.bookmyshow.com",
             "Referer": "https://in.bookmyshow.com/",
+            "Connection": "keep-alive"
         }
 
 def get_identity():
@@ -62,130 +96,120 @@ def reset_identity():
     if hasattr(thread_local, "identity"):
         del thread_local.identity
 
-# =====================================================
-# FETCH VENUE DATA
-# =====================================================
-def fetch_venue(vcode):
+# -----------------------
+def load_cities(filename="allcities.json"):
+    with open(filename, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+def clean_title(title):
+    return title.rsplit("(", 1)[0].strip()
+
+# -----------------------
+def fetch_movies_for_city(city):
+    region_name = city.get("RegionName")
+    region_code = city.get("RegionCode")
+    url = f"https://in.bookmyshow.com/quickbook-search.bms?r={region_code}"
+
     ident = get_identity()
 
-    url = (
-        "https://in.bookmyshow.com/api/v2/mobile/showtimes/byvenue"
-        f"?venueCode={vcode}&dateCode={DATE_CODE}"
-    )
+    for attempt in range(RETRY_LIMIT):
+        try:
+            time.sleep(random.uniform(0.6, 1.4))  # softer pacing
 
-    try:
-        for attempt in range(3):
-            r = ident.scraper.get(url, headers=ident.headers(), timeout=API_TIMEOUT)
+            response = ident.scraper.get(
+                url,
+                headers=ident.headers(),
+                timeout=15
+            )
 
-            if r.status_code == 403:
+            if response.status_code == 403:
+                logging.warning(f"403 hit for {region_name}, resetting identity")
                 reset_identity()
+                ident = get_identity()
                 time.sleep(2 ** attempt)
                 continue
 
-            if not r.text.strip().startswith("{"):
-                raise Exception("Blocked")
+            if response.status_code == 429:
+                time.sleep(2 ** attempt)
+                continue
 
-            return r.json()
+            response.raise_for_status()
+            data = response.json()
 
-        return None
+            hits = data.get("hits", [])
+            movies = [
+                clean_title(hit["TITLE"])
+                for hit in hits
+                if hit.get("TYPE") == "MT" and "TITLE" in hit
+            ]
 
-    except:
-        return None
+            ranked = {f"rank{i+1}": title for i, title in enumerate(movies[:8])}
+            return region_name, ranked
 
-# =====================================================
-# PARSE & ACCUMULATE
-# =====================================================
-def process_venue(vcode, venue_meta):
-    data = fetch_venue(vcode)
-    if not data:
-        return None, vcode
+        except Exception as e:
+            if attempt == RETRY_LIMIT - 1:
+                with lock:
+                    failures.append({
+                        "region": region_name,
+                        "code": region_code,
+                        "error": str(e)
+                    })
+                logging.error(f"Failed {region_name}: {e}")
+                return region_name, {}
 
-    movies = []
+    return region_name, {}
 
-    sd = data.get("ShowDetails", [])
-    if not sd:
-        return [], None
+# -----------------------
+def main():
+    cities = load_cities()
 
-    for ev in sd[0].get("Event", []):
-        title = ev.get("EventTitle", "").strip()
-
-        for ch in ev.get("ChildEvents", []):
-            for sh in ch.get("ShowTimes", []):
-                if sh.get("ShowDateCode") != DATE_CODE:
-                    continue
-
-                total = sold = 0
-
-                for cat in sh.get("Categories", []):
-                    seats = int(cat.get("MaxSeats", 0))
-                    free = int(cat.get("SeatsAvail", 0))
-                    total += seats
-                    sold += seats - free
-
-                movies.append((title, sold))
-
-    return movies, None
-
-# =====================================================
-# MAIN
-# =====================================================
-if __name__ == "__main__":
-
-    with open("venues1.json", "r", encoding="utf-8") as f:
-        venues = json.load(f)
-
+    all_rankings = {}
     movie_points = defaultdict(int)
-    movie_cities = defaultdict(set)
-    failures = []
+    movie_city_count = defaultdict(set)
 
-    print(f"🚀 Starting ranking build for {DATE_LABEL}")
+    logging.info(f"Total cities: {len(cities)}")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        futures = {
-            executor.submit(process_venue, vcode, venues[vcode]): vcode
-            for vcode in venues
-        }
+        futures = [executor.submit(fetch_movies_for_city, city) for city in cities]
 
         for future in as_completed(futures):
-            movies, failed = future.result()
+            region_name, ranked_movies = future.result()
 
-            if failed:
-                failures.append(failed)
-                continue
+            if ranked_movies:
+                all_rankings[region_name] = ranked_movies
 
-            if not movies:
-                continue
+                for rank_key, movie_title in ranked_movies.items():
+                    rank = int(rank_key.replace("rank", ""))
+                    points = 9 - rank
+                    movie_points[movie_title] += points
+                    movie_city_count[movie_title].add(region_name)
 
-            for title, sold in movies:
-                movie_points[title] += sold
-
-    # =====================================================
-    # SORT RANKINGS
-    # =====================================================
-    sorted_movies = sorted(movie_points.items(), key=lambda x: x[1], reverse=True)
-
-    rankings = {}
-    for i, (movie, score) in enumerate(sorted_movies[:50], 1):
-        rankings[f"rank{i}"] = {
-            "movie": movie,
-            "score": score
-        }
-
+    # Save rankings
     output = {
-        "date": DATE_LABEL,
-        "total_movies": len(movie_points),
-        "rankings": rankings
+        "date": date_str,
+        "total_cities": len(cities),
+        "rankings": all_rankings
     }
 
-    with open(RANK_FILE, "w", encoding="utf-8") as f:
+    with open(RANKING_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, indent=4, ensure_ascii=False)
 
     if failures:
-        with open(FAIL_FILE, "w", encoding="utf-8") as f:
+        with open(FAILURE_FILE, "w", encoding="utf-8") as f:
             json.dump({
-                "date": DATE_LABEL,
+                "date": date_str,
                 "total_failures": len(failures),
-                "venues": failures
-            }, f, indent=4)
+                "failures": failures
+            }, f, indent=4, ensure_ascii=False)
 
-    print(f"✅ Done. Rankings saved to {RANK_FILE}")
+    # Top 20
+    top_movies = sorted(movie_points.items(), key=lambda x: x[1], reverse=True)[:20]
+
+    print("\n🏆 Top 20 Trending Movies\n")
+    for idx, (movie, points) in enumerate(top_movies, 1):
+        print(f"{idx:2d}. {movie:<30} | Points: {points}")
+
+    print(f"\n✅ Rankings saved to {RANKING_FILE}")
+
+if __name__ == "__main__":
+    main()
