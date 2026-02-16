@@ -13,8 +13,9 @@ import logging
 # -----------------------
 # CONFIG
 # -----------------------
-MAX_WORKERS = 4        # 🔥 reduced
+MAX_WORKERS = 4
 RETRY_LIMIT = 3
+REQUEST_DELAY_RANGE = (0.8, 1.6)
 IST = pytz.timezone("Asia/Kolkata")
 
 # -----------------------
@@ -25,24 +26,27 @@ date_str = today.strftime("%d%m%Y")
 
 DATA_DIR = "Data"
 TRASH_DIR = "Trash"
-
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(TRASH_DIR, exist_ok=True)
 
 RANKING_FILE = f"{DATA_DIR}/{date_str}_Rankings.json"
-LOG_FILE = f"{TRASH_DIR}/run_{date_str}.log"
 FAILURE_FILE = f"{TRASH_DIR}/failures_{date_str}.json"
+LOG_FILE = f"{TRASH_DIR}/run_{date_str}.log"
 
 # -----------------------
-# LOGGING
+# LOGGING SETUP
 # -----------------------
 logging.basicConfig(
     filename=LOG_FILE,
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
+    format="%(asctime)s | %(levelname)s | %(message)s",
 )
 
-print(f"🚀 Starting run for {date_str}")
+console = logging.StreamHandler()
+console.setLevel(logging.INFO)
+logging.getLogger("").addHandler(console)
+
+logging.info(f"🚀 Starting run for {date_str}")
 
 # -----------------------
 # USER AGENTS
@@ -64,18 +68,9 @@ class Identity:
     def __init__(self):
         self.ua = random.choice(USER_AGENTS)
         self.scraper = cloudscraper.create_scraper(
-            browser={"browser": "chrome", "platform": "windows", "desktop": True}
+            browser={"browser": "chrome", "platform": "windows"}
         )
-
-        # 🔥 Warm homepage (important)
-        try:
-            self.scraper.get(
-                "https://in.bookmyshow.com/",
-                headers=self.headers(),
-                timeout=10
-            )
-        except:
-            pass
+        self.warm_session()
 
     def headers(self):
         return {
@@ -86,6 +81,17 @@ class Identity:
             "Referer": "https://in.bookmyshow.com/",
             "Connection": "keep-alive"
         }
+
+    def warm_session(self):
+        try:
+            self.scraper.get(
+                "https://in.bookmyshow.com/",
+                headers=self.headers(),
+                timeout=10
+            )
+            logging.info("🌐 Session warmed")
+        except Exception as e:
+            logging.warning(f"Warmup failed: {e}")
 
 def get_identity():
     if not hasattr(thread_local, "identity"):
@@ -114,7 +120,7 @@ def fetch_movies_for_city(city):
 
     for attempt in range(RETRY_LIMIT):
         try:
-            time.sleep(random.uniform(0.6, 1.4))  # softer pacing
+            time.sleep(random.uniform(*REQUEST_DELAY_RANGE))
 
             response = ident.scraper.get(
                 url,
@@ -122,14 +128,12 @@ def fetch_movies_for_city(city):
                 timeout=15
             )
 
-            if response.status_code == 403:
-                logging.warning(f"403 hit for {region_name}, resetting identity")
+            logging.info(f"[{region_name}] Status {response.status_code}")
+
+            if response.status_code in (403, 429):
+                logging.warning(f"[{region_name}] Blocked ({response.status_code}) attempt {attempt+1}")
                 reset_identity()
                 ident = get_identity()
-                time.sleep(2 ** attempt)
-                continue
-
-            if response.status_code == 429:
                 time.sleep(2 ** attempt)
                 continue
 
@@ -143,10 +147,14 @@ def fetch_movies_for_city(city):
                 if hit.get("TYPE") == "MT" and "TITLE" in hit
             ]
 
+            logging.info(f"[{region_name}] Movies found: {len(movies)}")
+
             ranked = {f"rank{i+1}": title for i, title in enumerate(movies[:8])}
             return region_name, ranked
 
         except Exception as e:
+            logging.error(f"[{region_name}] Error: {e}")
+
             if attempt == RETRY_LIMIT - 1:
                 with lock:
                     failures.append({
@@ -154,7 +162,6 @@ def fetch_movies_for_city(city):
                         "code": region_code,
                         "error": str(e)
                     })
-                logging.error(f"Failed {region_name}: {e}")
                 return region_name, {}
 
     return region_name, {}
@@ -167,7 +174,7 @@ def main():
     movie_points = defaultdict(int)
     movie_city_count = defaultdict(set)
 
-    logging.info(f"Total cities: {len(cities)}")
+    logging.info(f"📌 Total cities: {len(cities)}")
 
     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = [executor.submit(fetch_movies_for_city, city) for city in cities]
@@ -184,7 +191,6 @@ def main():
                     movie_points[movie_title] += points
                     movie_city_count[movie_title].add(region_name)
 
-    # Save rankings
     output = {
         "date": date_str,
         "total_cities": len(cities),
@@ -202,14 +208,14 @@ def main():
                 "failures": failures
             }, f, indent=4, ensure_ascii=False)
 
-    # Top 20
     top_movies = sorted(movie_points.items(), key=lambda x: x[1], reverse=True)[:20]
 
-    print("\n🏆 Top 20 Trending Movies\n")
+    logging.info("🏆 Top 20 Summary:")
     for idx, (movie, points) in enumerate(top_movies, 1):
-        print(f"{idx:2d}. {movie:<30} | Points: {points}")
+        cities_count = len(movie_city_count[movie])
+        logging.info(f"{idx}. {movie} | Points: {points} | Cities: {cities_count}")
 
-    print(f"\n✅ Rankings saved to {RANKING_FILE}")
+    logging.info("✅ Run completed successfully")
 
 if __name__ == "__main__":
     main()
