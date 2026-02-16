@@ -1,0 +1,36 @@
+name: Daily BMS Rankings
+
+on:
+  schedule:
+    # 4:00 AM IST = 22:30 UTC (previous day)
+    - cron: "30 22 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run Script
+        run: |
+          python bms_rankings.py
+
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add Data Trash
+          git commit -m "Daily rankings update" || echo "No changes"
+          git push
