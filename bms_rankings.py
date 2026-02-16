@@ -21,17 +21,20 @@ IST = pytz.timezone("Asia/Kolkata")
 # -----------------------
 # DATE SETUP
 # -----------------------
-today = datetime.now(IST)
-date_str = today.strftime("%d%m%Y")
+now = datetime.now(IST)
+year_str = now.strftime("%Y")
+date_file_str = now.strftime("%Y-%m-%d")
+last_updated_str = now.strftime("%Y-%m-%d %H:%M IST")
 
-DATA_DIR = "Data"
-TRASH_DIR = "Trash"
+DATA_DIR = f"Data/{year_str}"
+TRASH_DIR = f"Trash/{year_str}"
+
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(TRASH_DIR, exist_ok=True)
 
-RANKING_FILE = f"{DATA_DIR}/{date_str}_Rankings.json"
-LOG_FILE = f"{TRASH_DIR}/run_{date_str}.log"
-FAILURE_FILE = f"{TRASH_DIR}/failures_{date_str}.json"
+RANKING_FILE = f"{DATA_DIR}/Rankings_{date_file_str}.json"
+FAILURE_FILE = f"{TRASH_DIR}/failures_{date_file_str}.json"
+LOG_FILE = f"{TRASH_DIR}/run_{date_file_str}.log"
 
 # -----------------------
 # LOGGING SETUP
@@ -48,7 +51,7 @@ console_handler.setFormatter(logging.Formatter("%(message)s"))
 logger.addHandler(file_handler)
 logger.addHandler(console_handler)
 
-logger.info(f"\n🚀 Starting run for {date_str}\n")
+logger.info(f"\n🚀 Starting run for {date_file_str}\n")
 
 # -----------------------
 # USER AGENTS
@@ -86,7 +89,7 @@ class Identity:
 
     def warm_session(self):
         try:
-            r = self.scraper.get(
+            self.scraper.get(
                 "https://in.bookmyshow.com/",
                 headers=self.headers(),
                 timeout=10
@@ -200,7 +203,8 @@ def main():
     # Save Rankings
     # -----------------------
     output = {
-        "date": date_str,
+        "date": date_file_str,
+        "last_updated": last_updated_str,
         "total_cities": total,
         "success_cities": len(all_rankings),
         "failed_cities": len(failures),
@@ -213,7 +217,8 @@ def main():
     if failures:
         with open(FAILURE_FILE, "w", encoding="utf-8") as f:
             json.dump({
-                "date": date_str,
+                "date": date_file_str,
+                "last_updated": last_updated_str,
                 "total_failures": len(failures),
                 "failures": failures
             }, f, indent=4, ensure_ascii=False)
