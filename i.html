@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BMS Hype – Trade Leaderboard</title>
+
+<style>
+:root{
+  --bg:#f6f7fb;
+  --card:#ffffff;
+  --border:#e5e7eb;
+  --border-soft:#f1f5f9;
+  --text:#111827;
+  --muted:#6b7280;
+  --primary:#d81f26;
+  --green:#16a34a;
+  --yellow:#f59e0b;
+  --red:#dc2626;
+  --radius:16px;
+  --shadow:0 18px 40px rgba(15,23,42,.08);
+  --shadow-sm:0 4px 14px rgba(15,23,42,.05);
+}
+
+*{
+  box-sizing:border-box;
+  font-family:"Poppins",system-ui,-apple-system,sans-serif;
+}
+
+body{
+  margin:0;
+  padding:12px;
+  background:
+    radial-gradient(900px 600px at -5% -5%, #ffe3e5 0%, transparent 60%),
+    radial-gradient(900px 600px at 110% 10%, #e3ebff 0%, transparent 60%),
+    var(--bg);
+  color:var(--text);
+  -webkit-font-smoothing:antialiased;
+}
+
+.container{
+  max-width:1220px;
+  margin:85px auto 40px;
+  padding:0 16px;
+}
+
+/* ================= TITLE ================= */
+
+.title{
+  font-size:22px;
+  font-weight:800;
+  letter-spacing:.1em;
+  text-transform:uppercase;
+  background:linear-gradient(90deg,#9f1d22,#d81f26,#ff6b6b);
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  margin-bottom:4px;
+}
+
+#metaInfo{
+  font-size:12px;
+  color:var(--muted);
+  font-weight:500;
+}
+
+/* ================= CONTROLS ================= */
+
+.topbar{
+  background:var(--card);
+  border:1px solid var(--border);
+  border-radius:var(--radius);
+  padding:14px 16px;
+  box-shadow:var(--shadow-sm);
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:14px;
+  margin-bottom:18px;
+}
+
+.controls{
+  display:flex;
+  gap:10px;
+  flex-wrap:wrap;
+}
+
+input{
+  height:34px;
+  padding:0 14px;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:#fff;
+  font-size:12px;
+  font-weight:500;
+  min-width:200px;
+  transition:.2s ease;
+  box-shadow:0 2px 8px rgba(0,0,0,.04);
+}
+
+input:focus{
+  outline:none;
+  border-color:var(--primary);
+  box-shadow:0 0 0 3px rgba(216,31,38,.15);
+}
+
+/* ================= TABLE ================= */
+
+.card{
+  background:var(--card);
+  border-radius:var(--radius);
+  border:1px solid var(--border);
+  box-shadow:var(--shadow);
+  overflow:auto;
+}
+
+table{
+  width:100%;
+  border-collapse:collapse;
+  table-layout:fixed;
+  font-variant-numeric:tabular-nums;
+}
+
+/* HEADER */
+thead th{
+  position:sticky;
+  top:0;
+  z-index:10;
+  background:#fff;
+  padding:12px 10px;
+  font-size:10.5px;
+  letter-spacing:.08em;
+  text-transform:uppercase;
+  font-weight:700;
+  color:#374151;
+  border-bottom:1px solid var(--border);
+  cursor:pointer;
+}
+
+/* BODY */
+tbody td{
+  padding:10px 12px;
+  font-size:13px;
+  font-weight:600;
+  border-bottom:1px solid var(--border-soft);
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+/* ROW HEIGHT */
+tbody tr{
+  height:44px;
+  transition:background .15s ease;
+}
+
+tbody tr:hover{
+  background:rgba(216,31,38,.04);
+}
+
+/* FIRST COLUMN */
+td:first-child,
+th:first-child{
+  text-align:left;
+  padding-left:18px;
+  width:28%;
+  font-weight:700;
+  letter-spacing:.2px;
+}
+
+/* NUMERIC ALIGNMENT */
+td:not(:first-child){
+  text-align:right;
+  padding-right:18px;
+}
+
+/* COLUMN WIDTH BALANCE */
+th:nth-child(n+2),
+td:nth-child(n+2){
+  width:8%;
+}
+
+/* ================= DOMINATION ================= */
+
+.dom{
+  font-weight:800;
+  letter-spacing:.4px;
+}
+
+.dom.red{color:var(--red);}
+.dom.yellow{color:var(--yellow);}
+.dom.green{color:var(--green);}
+
+/* ================= LOAD MORE ================= */
+
+.load-more{
+  display:block;
+  margin:24px auto 0;
+  height:38px;
+  padding:0 26px;
+  font-size:12px;
+  font-weight:700;
+  border-radius:999px;
+  border:1px solid var(--border);
+  background:#fff;
+  box-shadow:var(--shadow-sm);
+  cursor:pointer;
+  transition:.2s ease;
+}
+
+.load-more:hover{
+  transform:translateY(-1px);
+  box-shadow:0 10px 24px rgba(15,23,42,.12);
+}
+
+/* ================= MOBILE ================= */
+
+@media(max-width:950px){
+
+  .container{
+    margin-top:60px;
+  }
+
+  thead th,
+  tbody td{
+    padding:8px 8px !important;
+    font-size:11px !important;
+  }
+
+  td:first-child{
+    white-space:normal;
+    line-height:1.2;
+    width:38% !important;
+  }
+
+  .hide-mobile{
+    display:none !important;
+  }
+
+}
+
+</style>
+</head>
+<body>
+
+<div class="container">
+
+<div class="topbar">
+<div>
+<div class="title">🏆 BMS Hype – Trade Leaderboard</div>
+<div id="metaInfo" style="color:#6b7280;font-size:13px;margin-top:6px;"></div>
+</div>
+
+<div class="controls">
+<input type="date" id="datePicker">
+<input type="text" id="searchInput" placeholder="Search movie...">
+</div>
+</div>
+
+<div class="card">
+<table>
+<thead>
+<tr>
+<th onclick="sortBy('name')">Movie</th>
+<th onclick="sortBy('points')">Hype</th>
+<th onclick="sortBy('cities')">Cities</th>
+<th>Rank #1</th>
+<th class="hide-mobile">#2</th>
+<th class="hide-mobile">#3</th>
+<th onclick="sortBy('domination')">Impact%</th>
+</tr>
+</thead>
+<tbody id="tbody"></tbody>
+</table>
+</div>
+
+<button class="load-more" id="loadMoreBtn" onclick="loadMore()">Load More</button>
+
+</div>
+
+<script>
+let allMovies=[]
+let visibleCount=30
+let currentSort="points"
+let sortDirection="desc"
+
+const baseURL="https://cdn.jsdelivr.net/gh/unknownman2024/bms-hype@main/Data/"
+
+async function loadData(date){
+const year=date.split("-")[0]
+const url=`${baseURL}${year}/Rankings_${date}.json`
+const res=await fetch(url)
+const data=await res.json()
+
+document.getElementById("metaInfo").innerHTML=
+`Date: ${data.date} | Updated: ${data.last_updated} | Cities: ${data.success_cities}`
+
+processData(data)
+render()
+}
+
+function processData(data){
+const movieMap={}
+const maxPoints=data.success_cities*8
+
+for(const city in data.rankings){
+const ranks=data.rankings[city]
+for(const key in ranks){
+const movie=ranks[key]
+const rank=parseInt(key.replace("rank",""))
+const points=9-rank
+
+if(!movieMap[movie]){
+movieMap[movie]={
+name:movie,
+points:0,
+cities:new Set(),
+rankDist:{1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0}
+}
+}
+
+movieMap[movie].points+=points
+movieMap[movie].cities.add(city)
+movieMap[movie].rankDist[rank]++
+}
+}
+
+allMovies=Object.values(movieMap).map(m=>{
+return{
+...m,
+citiesCount:m.cities.size,
+domination:((m.points/maxPoints)*100)
+}
+})
+
+sortData()
+}
+
+function render(){
+const tbody=document.getElementById("tbody")
+tbody.innerHTML=""
+
+let filtered=allMovies.filter(m=>
+m.name.toLowerCase().includes(
+document.getElementById("searchInput").value.toLowerCase()
+)
+)
+
+if(filtered.length<=visibleCount){
+document.getElementById("loadMoreBtn").style.display="none"
+}else{
+document.getElementById("loadMoreBtn").style.display="block"
+}
+
+filtered.slice(0,visibleCount).forEach((m,i)=>{
+
+let domClass="red"
+if(m.domination>=30) domClass="green"
+else if(m.domination>=10) domClass="yellow"
+
+tbody.innerHTML+=`
+<tr>
+<td style="text-align:left;font-weight:600">${m.name}</td>
+<td>${m.points}</td>
+<td>${m.citiesCount}</td>
+<td>${m.rankDist[1]}</td>
+<td class="hide-mobile">${m.rankDist[2]}</td>
+<td class="hide-mobile">${m.rankDist[3]}</td>
+<td class="dom ${domClass}">${m.domination.toFixed(2)}%</td>
+</tr>`
+})
+}
+
+function loadMore(){
+visibleCount+=30
+render()
+}
+
+function sortBy(field){
+sortDirection = currentSort===field && sortDirection==="desc"?"asc":"desc"
+currentSort=field
+sortData()
+render()
+}
+
+function sortData(){
+allMovies.sort((a,b)=>{
+let A,B
+if(currentSort==="name"){A=a.name;B=b.name}
+if(currentSort==="points"){A=a.points;B=b.points}
+if(currentSort==="cities"){A=a.citiesCount;B=b.citiesCount}
+if(currentSort==="domination"){A=a.domination;B=b.domination}
+
+if(typeof A==="string"){
+return sortDirection==="asc"?A.localeCompare(B):B.localeCompare(A)
+}
+return sortDirection==="asc"?A-B:B-A
+})
+}
+
+document.getElementById("searchInput").addEventListener("input",()=>{visibleCount=30;render()})
+
+const today=new Date().toISOString().split("T")[0]
+document.getElementById("datePicker").value=today
+document.getElementById("datePicker").addEventListener("change",e=>{
+visibleCount=30
+loadData(e.target.value)
+})
+
+loadData(today)
+</script>
+
+</body>
+</html>
