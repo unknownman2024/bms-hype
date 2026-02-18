@@ -3,240 +3,199 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BMS Hype – Trade Leaderboard</title>
+<title>BMS Hype – Pro Financial Dashboard</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
 
 <style>
 :root{
-  --bg:#f6f7fb;
-  --card:#ffffff;
-  --border:#e5e7eb;
-  --border-soft:#f1f5f9;
-  --text:#111827;
-  --muted:#6b7280;
-  --primary:#d81f26;
-  --green:#16a34a;
-  --yellow:#f59e0b;
-  --red:#dc2626;
-  --radius:16px;
-  --shadow:0 18px 40px rgba(15,23,42,.08);
-  --shadow-sm:0 4px 14px rgba(15,23,42,.05);
+--bg:#f4f6fa;
+--card:#ffffff;
+--border:#e6eaf2;
+--text:#111827;
+--muted:#6b7280;
+--green:#16a34a;
+--red:#dc2626;
+--yellow:#f59e0b;
+--primary:#111827;
+--radius:14px;
+--shadow:0 20px 50px rgba(15,23,42,.08);
 }
 
-*{
-  box-sizing:border-box;
-  font-family:"Poppins",system-ui,-apple-system,sans-serif;
-}
+*{box-sizing:border-box;font-family:"Inter",sans-serif}
 
 body{
-  margin:0;
-  padding:12px;
-  background:
-    radial-gradient(900px 600px at -5% -5%, #ffe3e5 0%, transparent 60%),
-    radial-gradient(900px 600px at 110% 10%, #e3ebff 0%, transparent 60%),
-    var(--bg);
-  color:var(--text);
-  -webkit-font-smoothing:antialiased;
+margin:0;
+background:var(--bg);
+color:var(--text);
 }
 
 .container{
-  max-width:1220px;
-  margin:85px auto 40px;
-  padding:0 16px;
-}
-
-/* ================= TITLE ================= */
-
-.title{
-  font-size:22px;
-  font-weight:800;
-  letter-spacing:.1em;
-  text-transform:uppercase;
-  background:linear-gradient(90deg,#9f1d22,#d81f26,#ff6b6b);
-  -webkit-background-clip:text;
-  -webkit-text-fill-color:transparent;
-  margin-bottom:4px;
-}
-
-#metaInfo{
-  font-size:12px;
-  color:var(--muted);
-  font-weight:500;
-}
-
-/* ================= CONTROLS ================= */
-
-.topbar{
-  background:var(--card);
-  border:1px solid var(--border);
-  border-radius:var(--radius);
-  padding:14px 16px;
-  box-shadow:var(--shadow-sm);
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  flex-wrap:wrap;
-  gap:14px;
-  margin-bottom:18px;
-}
-
-.controls{
-  display:flex;
-  gap:10px;
-  flex-wrap:wrap;
-}
-
-input{
-  height:34px;
-  padding:0 14px;
-  border-radius:999px;
-  border:1px solid var(--border);
-  background:#fff;
-  font-size:12px;
-  font-weight:500;
-  min-width:200px;
-  transition:.2s ease;
-  box-shadow:0 2px 8px rgba(0,0,0,.04);
-}
-
-input:focus{
-  outline:none;
-  border-color:var(--primary);
-  box-shadow:0 0 0 3px rgba(216,31,38,.15);
-}
-
-/* ================= TABLE ================= */
-
-.card{
-  background:var(--card);
-  border-radius:var(--radius);
-  border:1px solid var(--border);
-  box-shadow:var(--shadow);
-  overflow:auto;
-}
-
-table{
-  width:100%;
-  border-collapse:collapse;
-  table-layout:fixed;
-  font-variant-numeric:tabular-nums;
+max-width:1300px;
+margin:70px auto 40px;
+padding:0 20px;
 }
 
 /* HEADER */
+
+.header{
+display:flex;
+justify-content:space-between;
+align-items:center;
+flex-wrap:wrap;
+margin-bottom:20px;
+gap:15px;
+}
+
+.title{
+font-size:22px;
+font-weight:800;
+letter-spacing:.05em;
+}
+
+.meta{
+font-size:12px;
+color:var(--muted);
+margin-top:4px;
+}
+
+.controls{
+display:flex;
+gap:8px;
+flex-wrap:wrap;
+}
+
+input,button{
+height:34px;
+padding:0 14px;
+border-radius:8px;
+border:1px solid var(--border);
+font-size:12px;
+font-weight:600;
+background:#fff;
+}
+
+button{
+cursor:pointer;
+transition:.2s ease;
+}
+
+button:hover{
+background:#f3f4f6;
+}
+
+button.primary{
+background:var(--primary);
+color:#fff;
+border:none;
+}
+
+.card{
+background:var(--card);
+border-radius:var(--radius);
+box-shadow:var(--shadow);
+overflow:auto;
+}
+
+/* TABLE */
+
+table{
+width:100%;
+border-collapse:collapse;
+font-variant-numeric:tabular-nums;
+}
+
 thead th{
-  position:sticky;
-  top:0;
-  z-index:10;
-  background:#fff;
-  padding:12px 10px;
-  font-size:10.5px;
-  letter-spacing:.08em;
-  text-transform:uppercase;
-  font-weight:700;
-  color:#374151;
-  border-bottom:1px solid var(--border);
-  cursor:pointer;
+font-size:11px;
+text-transform:uppercase;
+letter-spacing:.08em;
+padding:14px 10px;
+border-bottom:1px solid var(--border);
+cursor:pointer;
 }
 
-/* BODY */
 tbody td{
-  padding:10px 12px;
-  font-size:13px;
-  font-weight:600;
-  border-bottom:1px solid var(--border-soft);
-  white-space:nowrap;
-  overflow:hidden;
-  text-overflow:ellipsis;
+padding:12px 10px;
+font-size:13px;
+border-bottom:1px solid #f1f5f9;
 }
 
-/* ROW HEIGHT */
 tbody tr{
-  height:44px;
-  transition:background .15s ease;
+transition:.15s ease;
 }
 
 tbody tr:hover{
-  background:rgba(216,31,38,.04);
+background:#f9fafb;
 }
 
-/* FIRST COLUMN */
-td:first-child,
-th:first-child{
-  text-align:left;
-  padding-left:18px;
-  width:28%;
-  font-weight:700;
-  letter-spacing:.2px;
+.rank-col{
+font-weight:700;
+color:#6b7280;
 }
 
-/* NUMERIC ALIGNMENT */
-td:not(:first-child){
-  text-align:right;
-  padding-right:18px;
+.up{color:var(--green);font-size:11px;font-weight:600;}
+.down{color:var(--red);font-size:11px;font-weight:600;}
+.flat{color:#9ca3af;font-size:11px;}
+
+/* IMPACT BAR */
+
+.impact-wrap{
+display:flex;
+flex-direction:column;
+align-items:flex-end;
+gap:4px;
 }
 
-/* COLUMN WIDTH BALANCE */
-th:nth-child(n+2),
-td:nth-child(n+2){
-  width:8%;
+.impact-bar{
+width:90px;
+height:6px;
+background:#e5e7eb;
+border-radius:4px;
+overflow:hidden;
 }
 
-/* ================= DOMINATION ================= */
-
-.dom{
-  font-weight:800;
-  letter-spacing:.4px;
+.impact-bar div{
+height:100%;
+background:linear-gradient(90deg,#111827,#374151);
+transition:width .4s ease;
 }
 
-.dom.red{color:var(--red);}
-.dom.yellow{color:var(--yellow);}
-.dom.green{color:var(--green);}
-
-/* ================= LOAD MORE ================= */
+/* LOAD MORE */
 
 .load-more{
-  display:block;
-  margin:24px auto 0;
-  height:38px;
-  padding:0 26px;
-  font-size:12px;
-  font-weight:700;
-  border-radius:999px;
-  border:1px solid var(--border);
-  background:#fff;
-  box-shadow:var(--shadow-sm);
-  cursor:pointer;
-  transition:.2s ease;
+display:block;
+margin:20px auto;
+height:36px;
+padding:0 24px;
+border-radius:8px;
+border:1px solid var(--border);
+background:#fff;
+font-weight:600;
+cursor:pointer;
 }
 
-.load-more:hover{
-  transform:translateY(-1px);
-  box-shadow:0 10px 24px rgba(15,23,42,.12);
+/* TOAST */
+
+.toast{
+position:fixed;
+bottom:30px;
+right:30px;
+background:#111827;
+color:#fff;
+padding:12px 20px;
+border-radius:8px;
+opacity:0;
+transform:translateY(20px);
+transition:.3s ease;
 }
 
-/* ================= MOBILE ================= */
+.toast.show{
+opacity:1;
+transform:translateY(0);
+}
 
 @media(max-width:950px){
-
-  .container{
-    margin-top:60px;
-  }
-
-  thead th,
-  tbody td{
-    padding:8px 8px !important;
-    font-size:11px !important;
-  }
-
-  td:first-child{
-    white-space:normal;
-    line-height:1.2;
-    width:38% !important;
-  }
-
-  .hide-mobile{
-    display:none !important;
-  }
-
+thead th,tbody td{font-size:11px;padding:8px}
 }
 
 </style>
@@ -245,15 +204,17 @@ td:nth-child(n+2){
 
 <div class="container">
 
-<div class="topbar">
+<div class="header">
 <div>
-<div class="title">🏆 BMS Hype – Trade Leaderboard</div>
-<div id="metaInfo" style="color:#6b7280;font-size:13px;margin-top:6px;"></div>
+<div class="title">BMS Hype – Pro Dashboard</div>
+<div class="meta" id="metaInfo"></div>
 </div>
 
 <div class="controls">
 <input type="date" id="datePicker">
-<input type="text" id="searchInput" placeholder="Search movie...">
+<input type="text" id="searchInput" placeholder="Search movie">
+<button onclick="copyTweet()">Copy</button>
+<button class="primary" onclick="tweetNow()">Tweet</button>
 </div>
 </div>
 
@@ -261,13 +222,14 @@ td:nth-child(n+2){
 <table>
 <thead>
 <tr>
+<th>#</th>
 <th onclick="sortBy('name')">Movie</th>
 <th onclick="sortBy('points')">Hype</th>
 <th onclick="sortBy('cities')">Cities</th>
-<th>Rank #1</th>
-<th class="hide-mobile">#2</th>
-<th class="hide-mobile">#3</th>
-<th onclick="sortBy('domination')">Impact%</th>
+<th>Rank1</th>
+<th>#2</th>
+<th>#3</th>
+<th onclick="sortBy('domination')">Impact</th>
 </tr>
 </thead>
 <tbody id="tbody"></tbody>
@@ -278,35 +240,64 @@ td:nth-child(n+2){
 
 </div>
 
+<div class="toast" id="toast"></div>
+
 <script>
+
 let allMovies=[]
+let previousMap={}
 let visibleCount=30
 let currentSort="points"
 let sortDirection="desc"
 
 const baseURL="https://cdn.jsdelivr.net/gh/unknownman2024/bms-hype@main/Data/"
 
+/* LOAD DATA */
+
 async function loadData(date){
 const year=date.split("-")[0]
-const url=`${baseURL}${year}/Rankings_${date}.json`
-const res=await fetch(url)
+const res=await fetch(`${baseURL}${year}/Rankings_${date}.json`)
 const data=await res.json()
 
-document.getElementById("metaInfo").innerHTML=
-`Date: ${data.date} | Updated: ${data.last_updated} | Cities: ${data.success_cities}`
+metaInfo.innerHTML=`Date: ${data.date} | Updated: ${data.last_updated} | Cities: ${data.success_cities}`
 
+await loadPrevious(date)
 processData(data)
 render()
 }
+
+async function loadPrevious(date){
+let d=new Date(date)
+d.setDate(d.getDate()-1)
+let prev=d.toISOString().split("T")[0]
+
+try{
+const year=prev.split("-")[0]
+const res=await fetch(`${baseURL}${year}/Rankings_${prev}.json`)
+const data=await res.json()
+
+let map={}
+for(const city in data.rankings){
+for(const key in data.rankings[city]){
+const movie=data.rankings[city][key]
+const rank=parseInt(key.replace("rank",""))
+const points=9-rank
+if(!map[movie]) map[movie]=0
+map[movie]+=points
+}}
+previousMap=map
+}catch{previousMap={}}
+}
+
+/* PROCESS */
 
 function processData(data){
 const movieMap={}
 const maxPoints=data.success_cities*8
 
 for(const city in data.rankings){
-const ranks=data.rankings[city]
-for(const key in ranks){
-const movie=ranks[key]
+for(const key in data.rankings[city]){
+const movie=data.rankings[city][key]
 const rank=parseInt(key.replace("rank",""))
 const points=9-rank
 
@@ -315,100 +306,127 @@ movieMap[movie]={
 name:movie,
 points:0,
 cities:new Set(),
-rankDist:{1:0,2:0,3:0,4:0,5:0,6:0,7:0,8:0}
+rankDist:{1:0,2:0,3:0}
 }
 }
 
 movieMap[movie].points+=points
 movieMap[movie].cities.add(city)
-movieMap[movie].rankDist[rank]++
-}
-}
+if(rank<=3) movieMap[movie].rankDist[rank]++
+}}
 
-allMovies=Object.values(movieMap).map(m=>{
-return{
+allMovies=Object.values(movieMap).map(m=>({
 ...m,
 citiesCount:m.cities.size,
-domination:((m.points/maxPoints)*100)
-}
-})
+domination:(m.points/maxPoints)*100
+}))
 
 sortData()
 }
 
+/* RENDER */
+
 function render(){
+
 const tbody=document.getElementById("tbody")
 tbody.innerHTML=""
 
 let filtered=allMovies.filter(m=>
-m.name.toLowerCase().includes(
-document.getElementById("searchInput").value.toLowerCase()
-)
+m.name.toLowerCase().includes(searchInput.value.toLowerCase())
 )
 
-if(filtered.length<=visibleCount){
-document.getElementById("loadMoreBtn").style.display="none"
-}else{
-document.getElementById("loadMoreBtn").style.display="block"
-}
+if(filtered.length<=visibleCount) loadMoreBtn.style.display="none"
+else loadMoreBtn.style.display="block"
 
 filtered.slice(0,visibleCount).forEach((m,i)=>{
 
-let domClass="red"
-if(m.domination>=30) domClass="green"
-else if(m.domination>=10) domClass="yellow"
+let prev=previousMap[m.name]||0
+let diff=m.points-prev
+let arrow=`<div class="flat">—</div>`
+if(diff>0) arrow=`<div class="up">▲ +${diff}</div>`
+if(diff<0) arrow=`<div class="down">▼ ${diff}</div>`
 
 tbody.innerHTML+=`
 <tr>
-<td style="text-align:left;font-weight:600">${m.name}</td>
-<td>${m.points}</td>
+<td class="rank-col">${i+1}</td>
+<td>${m.name}</td>
+<td>${m.points}${arrow}</td>
 <td>${m.citiesCount}</td>
 <td>${m.rankDist[1]}</td>
-<td class="hide-mobile">${m.rankDist[2]}</td>
-<td class="hide-mobile">${m.rankDist[3]}</td>
-<td class="dom ${domClass}">${m.domination.toFixed(2)}%</td>
+<td>${m.rankDist[2]}</td>
+<td>${m.rankDist[3]}</td>
+<td>
+<div class="impact-wrap">
+<span>${m.domination.toFixed(2)}%</span>
+<div class="impact-bar">
+<div style="width:${m.domination}%"></div>
+</div>
+</div>
+</td>
 </tr>`
 })
 }
 
-function loadMore(){
-visibleCount+=30
-render()
-}
+/* SORT */
 
 function sortBy(field){
-sortDirection = currentSort===field && sortDirection==="desc"?"asc":"desc"
+sortDirection=currentSort===field&&sortDirection==="desc"?"asc":"desc"
 currentSort=field
-sortData()
-render()
+sortData();render()
 }
 
 function sortData(){
 allMovies.sort((a,b)=>{
-let A,B
-if(currentSort==="name"){A=a.name;B=b.name}
-if(currentSort==="points"){A=a.points;B=b.points}
-if(currentSort==="cities"){A=a.citiesCount;B=b.citiesCount}
-if(currentSort==="domination"){A=a.domination;B=b.domination}
-
-if(typeof A==="string"){
-return sortDirection==="asc"?A.localeCompare(B):B.localeCompare(A)
-}
+let A=a[currentSort==="cities"?"citiesCount":currentSort]
+let B=b[currentSort==="cities"?"citiesCount":currentSort]
 return sortDirection==="asc"?A-B:B-A
 })
 }
 
-document.getElementById("searchInput").addEventListener("input",()=>{visibleCount=30;render()})
+function loadMore(){visibleCount+=30;render()}
+
+/* COPY + TWEET */
+
+function generateTweetText(){
+let date=datePicker.value
+let top10=allMovies.slice(0,10)
+let text=`BMS Daily Hype - ${date}\n\n`
+top10.forEach((m,i)=>{
+text+=`${i+1}. #${m.name.replace(/\s+/g,"")} - ${m.points} | ${m.citiesCount} | ${m.domination.toFixed(2)}%\n`
+})
+return text
+}
+
+function copyTweet(){
+navigator.clipboard.writeText(generateTweetText())
+showToast("Copied to clipboard")
+}
+
+function tweetNow(){
+window.open("https://twitter.com/intent/tweet?text="+encodeURIComponent(generateTweetText()))
+}
+
+/* TOAST */
+
+function showToast(msg){
+toast.innerText=msg
+toast.classList.add("show")
+setTimeout(()=>toast.classList.remove("show"),2000)
+}
+
+/* INIT */
+
+searchInput.addEventListener("input",()=>{visibleCount=30;render()})
 
 const today=new Date().toISOString().split("T")[0]
-document.getElementById("datePicker").value=today
-document.getElementById("datePicker").addEventListener("change",e=>{
+datePicker.value=today
+datePicker.addEventListener("change",e=>{
 visibleCount=30
 loadData(e.target.value)
 })
 
 loadData(today)
-</script>
 
+</script>
 </body>
 </html>
