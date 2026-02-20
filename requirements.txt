@@ -1,2 +1,4 @@
 cloudscraper
 pytz
+requests
+requests_oauthlib
