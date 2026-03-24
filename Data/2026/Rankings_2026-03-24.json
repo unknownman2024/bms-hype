@@ -1,0 +1,2482 @@
+{
+    "date": "2026-03-24",
+    "last_updated": "2026-03-24 04:25 IST",
+    "total_cities": 1901,
+    "success_cities": 251,
+    "failed_cities": 0,
+    "rankings": {
+        "Seoni Malwa": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Tere Naam",
+            "rank4": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank5": "Hoppers",
+            "rank6": "Ishqan De Lekhe",
+            "rank7": "Border 2",
+            "rank8": "Ustaad Bhagat Singh"
+        },
+        "Serampore": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Project Hail Mary",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Mardaani 3"
+        },
+        "Shadnagar": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Shahada": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Shahjahanpur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Tere Naam",
+            "rank7": "Hoppers",
+            "rank8": "O' Romeo"
+        },
+        "Shahpur": {
+            "rank1": "Tumko Meri Kasam",
+            "rank2": "Haunted House 12D",
+            "rank3": "Naa Autograph",
+            "rank4": "Bale Bale Magadivoy",
+            "rank5": "Khosla Ka Ghosla",
+            "rank6": "Dune: Part Two",
+            "rank7": "Kurukshethram",
+            "rank8": "Mast Kalandar"
+        },
+        "Shajapur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Tere Naam",
+            "rank4": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank5": "Hoppers",
+            "rank6": "Ishqan De Lekhe",
+            "rank7": "Border 2",
+            "rank8": "Ustaad Bhagat Singh"
+        },
+        "Shamgarh": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Shamli": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Shankarampet": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Shankarpally": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Shela": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Sheorinarayan": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Hoppers",
+            "rank5": "Project Hail Mary",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Awarapan 2",
+            "rank8": "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+        },
+        "Shikaripur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Shikarpur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Hoppers",
+            "rank3": "The Raja Saab",
+            "rank4": "O' Romeo",
+            "rank5": "Thaai Kizhavi",
+            "rank6": "With Love",
+            "rank7": "Ishqan De Lekhe",
+            "rank8": "Bambukat 2"
+        },
+        "Shillong": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Project Hail Mary",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Avatar: Fire and Ash"
+        },
+        "Shimla": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "Hoppers",
+            "rank4": "Project Hail Mary",
+            "rank5": "Chimta"
+        },
+        "Shindkheda": {
+            "rank1": "Tumko Meri Kasam",
+            "rank2": "Haunted House 12D",
+            "rank3": "Naa Autograph",
+            "rank4": "Bale Bale Magadivoy",
+            "rank5": "Khosla Ka Ghosla",
+            "rank6": "Dune: Part Two",
+            "rank7": "Kurukshethram",
+            "rank8": "Mast Kalandar"
+        },
+        "Shirahatti": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Shirur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Shivamogga": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Shivpuri": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Tere Naam",
+            "rank4": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank5": "Hoppers",
+            "rank6": "Ishqan De Lekhe",
+            "rank7": "Border 2",
+            "rank8": "Ustaad Bhagat Singh"
+        },
+        "Shoranur": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Shrigonda": {
+            "rank1": "Hari Om",
+            "rank2": "2016 The End",
+            "rank3": "Patta Patta Singhan da Vairi",
+            "rank4": "Gobar",
+            "rank5": "Cholo Potol Tuli",
+            "rank6": "A Complete Unknown",
+            "rank7": "Maargazhi Raagam"
+        },
+        "Shrirampur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Shujalpur": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Shuklaganj": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Tere Naam",
+            "rank7": "Hoppers",
+            "rank8": "O' Romeo"
+        },
+        "Siddhpur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sidlaghatta": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Sihora": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Silchar": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Boong",
+            "rank3": "Project Hail Mary",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Roi Roi Binale",
+            "rank6": "The Kerala Story 2: Goes Beyond"
+        },
+        "Siliguri": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Project Hail Mary",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Mardaani 3"
+        },
+        "Silvassa": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sindhanur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Singapore": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Hoppers",
+            "rank3": "The Raja Saab",
+            "rank4": "O' Romeo",
+            "rank5": "Thaai Kizhavi",
+            "rank6": "With Love",
+            "rank7": "Ishqan De Lekhe",
+            "rank8": "Bambukat 2"
+        },
+        "Singarayakonda": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Sinnar": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Sira": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Sirmaur": {
+            "rank1": "Hari Om",
+            "rank2": "2016 The End",
+            "rank3": "Patta Patta Singhan da Vairi",
+            "rank4": "Gobar",
+            "rank5": "Cholo Potol Tuli",
+            "rank6": "A Complete Unknown",
+            "rank7": "Maargazhi Raagam"
+        },
+        "Sirohi": {
+            "rank1": "Ishqan De Lekhe",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Hoppers",
+            "rank7": "Tere Naam",
+            "rank8": "O' Romeo"
+        },
+        "Sirsa": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "O' Romeo",
+            "rank8": "Border 2"
+        },
+        "Sirsi": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Siruguppa": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Sitapur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Tere Naam",
+            "rank7": "Hoppers",
+            "rank8": "O' Romeo"
+        },
+        "Sivaganga": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Sivasagar": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Boong",
+            "rank3": "Project Hail Mary",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Roi Roi Binale",
+            "rank6": "The Kerala Story 2: Goes Beyond"
+        },
+        "Solan": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "Hoppers",
+            "rank4": "Project Hail Mary",
+            "rank5": "Chimta"
+        },
+        "Solapur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Solukhumbu": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Hoppers",
+            "rank3": "The Raja Saab",
+            "rank4": "O' Romeo",
+            "rank5": "Thaai Kizhavi",
+            "rank6": "Ishqan De Lekhe",
+            "rank7": "With Love",
+            "rank8": "Bambukat 2"
+        },
+        "Sompeta": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Songadh": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sonkatch": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Tere Naam",
+            "rank4": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank5": "Hoppers",
+            "rank6": "Ishqan De Lekhe",
+            "rank7": "Border 2",
+            "rank8": "Ustaad Bhagat Singh"
+        },
+        "Soron": {
+            "rank1": "Copperhead",
+            "rank2": "Film Star",
+            "rank3": "Kerala Cafe",
+            "rank4": "Shonk Sardari Da",
+            "rank5": "Vettaiyan - The Hunter",
+            "rank6": "Dui Maiya Ek Kanhaiya",
+            "rank7": "Max Payne",
+            "rank8": "10 Rupees"
+        },
+        "South 24 Parganas": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Project Hail Mary",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Mardaani 3"
+        },
+        "Sri Sathya Sai": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Srikakulam": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Srinagar": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "Awarapan 2",
+            "rank4": "Batt Koch",
+            "rank5": "Project Hail Mary",
+            "rank6": "Hoppers",
+            "rank7": "Dhurandhar",
+            "rank8": "Border 2"
+        },
+        "Srirangapatna": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Srivilliputhur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Sugauli": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank3": "Border 2",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Awarapan 2"
+        },
+        "Sujangarh": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Sultanabad": {
+            "rank1": "Hari Om",
+            "rank2": "2016 The End",
+            "rank3": "Patta Patta Singhan da Vairi",
+            "rank4": "Gobar",
+            "rank5": "Cholo Potol Tuli",
+            "rank6": "A Complete Unknown",
+            "rank7": "Maargazhi Raagam"
+        },
+        "Sukma": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Sultanpur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Tere Naam",
+            "rank7": "Hoppers",
+            "rank8": "O' Romeo"
+        },
+        "Sulthan Bathery": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Sumerpur": {
+            "rank1": "Ishqan De Lekhe",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Hoppers",
+            "rank7": "Tere Naam",
+            "rank8": "O' Romeo"
+        },
+        "Sundargarh": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ustaad Bhagat Singh",
+            "rank3": "Bara Badhu",
+            "rank4": "Project Hail Mary",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Awarapan 2",
+            "rank7": "The Kerala Story 2: Goes Beyond",
+            "rank8": "Kangula: Maa Kali Ra Danda Nacha"
+        },
+        "Supaul": {
+            "rank1": "Tumko Meri Kasam",
+            "rank2": "Haunted House 12D",
+            "rank3": "Naa Autograph",
+            "rank4": "Bale Bale Magadivoy",
+            "rank5": "Khosla Ka Ghosla",
+            "rank6": "Dune: Part Two",
+            "rank7": "Kurukshethram",
+            "rank8": "Mast Kalandar"
+        },
+        "Surajpur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Hoppers",
+            "rank5": "Project Hail Mary",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Awarapan 2",
+            "rank8": "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+        },
+        "Surat": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Surathkal": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Suri": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Project Hail Mary",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Mardaani 3"
+        },
+        "Suryapet": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Tadepalligudem": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "T.Narasapuram": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Tadikalapudi": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Tadipatri": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Talcher": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Taliparamba": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Tallarevu": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Tallapudi": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Tamluk": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Project Hail Mary",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Mardaani 3"
+        },
+        "Talwandi Bhai": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank5": "Aadu 3",
+            "rank6": "The Kerala Story 2: Goes Beyond",
+            "rank7": "Bambukat 2",
+            "rank8": "Hoppers"
+        },
+        "Tandur": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Tangutur": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Tangla": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Boong",
+            "rank3": "Project Hail Mary",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Roi Roi Binale",
+            "rank6": "The Kerala Story 2: Goes Beyond"
+        },
+        "Tarapur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Tanuku": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Tatipaka": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Tasgaon": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Tawang": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ustaad Bhagat Singh",
+            "rank3": "Aadu 3",
+            "rank4": "Ishqan De Lekhe",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "O' Romeo",
+            "rank7": "F1: The Movie",
+            "rank8": "Kenatha Kanom"
+        },
+        "Tekkali": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Tembhurni": {
+            "rank1": "Copperhead",
+            "rank2": "Film Star",
+            "rank3": "Kerala Cafe",
+            "rank4": "Shonk Sardari Da",
+            "rank5": "Vettaiyan - The Hunter",
+            "rank6": "Dui Maiya Ek Kanhaiya",
+            "rank7": "Max Payne",
+            "rank8": "10 Rupees"
+        },
+        "Tenkasi": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tenali": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Terdal": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Tezpur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Boong",
+            "rank3": "Project Hail Mary",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Roi Roi Binale",
+            "rank6": "The Kerala Story 2: Goes Beyond"
+        },
+        "Tezu": {
+            "rank1": "Tumko Meri Kasam",
+            "rank2": "Haunted House 12D",
+            "rank3": "Naa Autograph",
+            "rank4": "Bale Bale Magadivoy",
+            "rank5": "Khosla Ka Ghosla",
+            "rank6": "Dune: Part Two",
+            "rank7": "Kurukshethram",
+            "rank8": "Mast Kalandar"
+        },
+        "Thalayolaparambu": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Thalikulam": {
+            "rank1": "Hari Om",
+            "rank2": "2016 The End",
+            "rank3": "Patta Patta Singhan da Vairi",
+            "rank4": "Gobar",
+            "rank5": "Cholo Potol Tuli",
+            "rank6": "A Complete Unknown",
+            "rank7": "Maargazhi Raagam"
+        },
+        "Thallada": {
+            "rank1": "Tumko Meri Kasam",
+            "rank2": "Haunted House 12D",
+            "rank3": "Naa Autograph",
+            "rank4": "Bale Bale Magadivoy",
+            "rank5": "Khosla Ka Ghosla",
+            "rank6": "Dune: Part Two",
+            "rank7": "Kurukshethram",
+            "rank8": "Mast Kalandar"
+        },
+        "Thamarassery": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Thanipadi": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Thanjavur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tharad": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Theni": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Thimmapuram (Addu Road)": {
+            "rank1": "Copperhead",
+            "rank2": "Film Star",
+            "rank3": "Kerala Cafe",
+            "rank4": "Shonk Sardari Da",
+            "rank5": "Vettaiyan - The Hunter",
+            "rank6": "Dui Maiya Ek Kanhaiya",
+            "rank7": "Max Payne",
+            "rank8": "10 Rupees"
+        },
+        "Thirubuvanai": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Thirumalagiri": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Thiruttani": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Thiruthuraipoondi": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Thiruvalla": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Thiruvarur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Thodupuzha": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Thoothukudi": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Thottiyam": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Thriprayar": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Thrissur": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Thuraiyur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tilda Neora": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Hoppers",
+            "rank5": "Project Hail Mary",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Awarapan 2",
+            "rank8": "Demon Slayer: Kimetsu no Yaiba Infinity Castle"
+        },
+        "Tindivanam": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tinsukia": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Boong",
+            "rank3": "Project Hail Mary",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Roi Roi Binale",
+            "rank6": "The Kerala Story 2: Goes Beyond"
+        },
+        "Tiptur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Tiruchendur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tirukoilur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tirunelveli": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tirumakudalu Narasipura": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Tirupati": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Tirupattur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tirur": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Tiruvallur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tiruvannamalai": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tiruvuru": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Titagarh": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Project Hail Mary",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Mardaani 3"
+        },
+        "Titlagarh": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Tittakudi": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Tonk": {
+            "rank1": "Ishqan De Lekhe",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Hoppers",
+            "rank7": "Tere Naam",
+            "rank8": "O' Romeo"
+        },
+        "Toopran": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Trichy": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Trivandrum": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Tumakuru (Tumkur)": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Tumsar": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Turputallu": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Tura": {
+            "rank1": "Hari Om",
+            "rank2": "2016 The End",
+            "rank3": "Patta Patta Singhan da Vairi",
+            "rank4": "Gobar",
+            "rank5": "Cholo Potol Tuli",
+            "rank6": "A Complete Unknown",
+            "rank7": "Maargazhi Raagam"
+        },
+        "Udaipur": {
+            "rank1": "Ishqan De Lekhe",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Hoppers",
+            "rank7": "Tere Naam",
+            "rank8": "O' Romeo"
+        },
+        "Turuvekere": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Udgir": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Udhampur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "Awarapan 2",
+            "rank4": "Batt Koch",
+            "rank5": "Project Hail Mary",
+            "rank6": "Hoppers",
+            "rank7": "Dhurandhar",
+            "rank8": "Border 2"
+        },
+        "Ujhani": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Tere Naam",
+            "rank7": "Hoppers",
+            "rank8": "O' Romeo"
+        },
+        "Udumalpet": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Ujjain": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Tere Naam",
+            "rank4": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank5": "Hoppers",
+            "rank6": "Ishqan De Lekhe",
+            "rank7": "Border 2",
+            "rank8": "Ustaad Bhagat Singh"
+        },
+        "Ulikkal": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Ulundurpet": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Uluberia": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Project Hail Mary",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Mardaani 3"
+        },
+        "Umaria": {
+            "rank1": "Hari Om",
+            "rank2": "2016 The End",
+            "rank3": "Patta Patta Singhan da Vairi",
+            "rank4": "Gobar",
+            "rank5": "Cholo Potol Tuli",
+            "rank6": "A Complete Unknown",
+            "rank7": "Maargazhi Raagam"
+        },
+        "Umbergaon": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Umbraj": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Umerkote": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Umred": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Una": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "Hoppers",
+            "rank4": "Project Hail Mary",
+            "rank5": "Chimta"
+        },
+        "Una (Gujarat)": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Undavalli": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Unnao": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Tere Naam",
+            "rank7": "Hoppers",
+            "rank8": "O' Romeo"
+        },
+        "Uthamapalayam": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Uthiramerur": {
+            "rank1": "Copperhead",
+            "rank2": "Film Star",
+            "rank3": "Kerala Cafe",
+            "rank4": "Shonk Sardari Da",
+            "rank5": "Vettaiyan - The Hunter",
+            "rank6": "Dui Maiya Ek Kanhaiya",
+            "rank7": "Max Payne",
+            "rank8": "10 Rupees"
+        },
+        "Uthangarai": {
+            "rank1": "Hari Om",
+            "rank2": "2016 The End",
+            "rank3": "Patta Patta Singhan da Vairi",
+            "rank4": "Gobar",
+            "rank5": "Cholo Potol Tuli",
+            "rank6": "A Complete Unknown",
+            "rank7": "Maargazhi Raagam"
+        },
+        "Uttara Kannada": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Utraula": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Tere Naam",
+            "rank7": "Hoppers",
+            "rank8": "O' Romeo"
+        },
+        "Vadakara": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Uttarkashi": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ustaad Bhagat Singh",
+            "rank3": "Ishqan De Lekhe",
+            "rank4": "Hoppers",
+            "rank5": "Tere Naam",
+            "rank6": "The Kerala Story 2: Goes Beyond",
+            "rank7": "Project Hail Mary",
+            "rank8": "Aadu 3"
+        },
+        "Vadakkencherry": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Vadalur": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Vadanappally": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Vadodara": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vaduj": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Valanchery": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Vaijapur": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Valigonda": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Valluru": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vaniyambadi": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Valsad": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Varadaiahpalem": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Varadiyam": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Varanasi": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Tere Naam",
+            "rank7": "Hoppers",
+            "rank8": "O' Romeo"
+        },
+        "Vasind": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Vatsavai": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vazhapadi": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Varkala": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Veeraghattam": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Velanja": {
+            "rank1": "Copperhead",
+            "rank2": "Film Star",
+            "rank3": "Kerala Cafe",
+            "rank4": "Shonk Sardari Da",
+            "rank5": "Vettaiyan - The Hunter",
+            "rank6": "Dui Maiya Ek Kanhaiya",
+            "rank7": "Max Payne",
+            "rank8": "10 Rupees"
+        },
+        "Vellakoil": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Velangi": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vellampalli": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Velugodu": {
+            "rank1": "Copperhead",
+            "rank2": "Film Star",
+            "rank3": "Kerala Cafe",
+            "rank4": "Shonk Sardari Da",
+            "rank5": "Vettaiyan - The Hunter",
+            "rank6": "Dui Maiya Ek Kanhaiya",
+            "rank7": "Max Payne",
+            "rank8": "10 Rupees"
+        },
+        "Vellore": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Vempalli": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vemulawada": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Venkatapuram": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Vengurla": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Veraval": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vettaikaranpudur": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Vettavalam": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Vidisha": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "The Kerala Story 2: Goes Beyond",
+            "rank3": "Tere Naam",
+            "rank4": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank5": "Hoppers",
+            "rank6": "Ishqan De Lekhe",
+            "rank7": "Border 2",
+            "rank8": "Ustaad Bhagat Singh"
+        },
+        "Vijapur": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Behadd",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Hoppers",
+            "rank6": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank7": "Aadu 3",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vijayarai": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vijayapura (Bijapur)": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Vijayawada": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vikarabad": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Vikasnagar": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ustaad Bhagat Singh",
+            "rank3": "Ishqan De Lekhe",
+            "rank4": "Hoppers",
+            "rank5": "Tere Naam",
+            "rank6": "The Kerala Story 2: Goes Beyond",
+            "rank7": "Project Hail Mary",
+            "rank8": "Aadu 3"
+        },
+        "Vikravandi": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Vinukonda": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Villupuram": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Virudhachalam": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Viralimalai": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Virudhunagar": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Vissannapeta": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vithlapur": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Vita": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Vizag (Visakhapatnam)": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vizianagaram": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vuyyuru": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Vyara": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Wadakkancherry": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Wai": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Waluj": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Wanaparthy": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Wani": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Warangal": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Warora": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Wardha": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Washim": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Wayanad": {
+            "rank1": "Aadu 3",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Sambhavam Adhyayam Onnu",
+            "rank4": "Youth",
+            "rank5": "Ustaad Bhagat Singh",
+            "rank6": "Couple Friendly",
+            "rank7": "Drishyam 3",
+            "rank8": "Prathichaya"
+        },
+        "Wyra": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Yadagirigutta": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Yamunanagar": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ishqan De Lekhe",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "O' Romeo",
+            "rank8": "Border 2"
+        },
+        "Yanam": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Yavatmal": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Tighi",
+            "rank3": "Hoppers",
+            "rank4": "The Kerala Story 2: Goes Beyond",
+            "rank5": "Tere Naam",
+            "rank6": "Ustaad Bhagat Singh",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "O' Romeo"
+        },
+        "Yelburga": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Akash",
+            "rank3": "Ustaad Bhagat Singh",
+            "rank4": "Love Mocktail 3",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "Youth",
+            "rank7": "Aadu 3",
+            "rank8": "Couple Friendly"
+        },
+        "Yelagiri": {
+            "rank1": "Couple Friendly",
+            "rank2": "Youth",
+            "rank3": "Dhurandhar The Revenge",
+            "rank4": "Ustaad Bhagat Singh",
+            "rank5": "Aadu 3",
+            "rank6": "Thaai Kizhavi",
+            "rank7": "With Love",
+            "rank8": "Kolaiseval"
+        },
+        "Yeleswaram": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Yellamanchili": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Yellandu": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Yellareddy": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Yellareddypet": {
+            "rank1": "Kathale Kone",
+            "rank2": "Manmohini",
+            "rank3": "Seemanin Kobam",
+            "rank4": "Gaali Sampath",
+            "rank5": "Autograph",
+            "rank6": "22 Days",
+            "rank7": "Trainwreck",
+            "rank8": "New Zealand vs Pakistan: Super 8: T20 WC 2026"
+        },
+        "Yemmiganur": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Yeola": {
+            "rank1": "Tumko Meri Kasam",
+            "rank2": "Haunted House 12D",
+            "rank3": "Naa Autograph",
+            "rank4": "Bale Bale Magadivoy",
+            "rank5": "Khosla Ka Ghosla",
+            "rank6": "Dune: Part Two",
+            "rank7": "Kurukshethram",
+            "rank8": "Mast Kalandar"
+        },
+        "Yewat": {
+            "rank1": "Bachna Ae Haseeno",
+            "rank2": "Fear the Invisible Man",
+            "rank3": "Chhapaak",
+            "rank4": "Predator Attack And Forest Adventure",
+            "rank5": "LAW",
+            "rank6": "Bullet Train",
+            "rank7": "Dream Girl",
+            "rank8": "Abhilasham"
+        },
+        "Yerraguntla": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "Couple Friendly",
+            "rank4": "Youth",
+            "rank5": "Project Hail Mary",
+            "rank6": "Youth",
+            "rank7": "Peddi",
+            "rank8": "With Love"
+        },
+        "Zaheerabad": {
+            "rank1": "Ustaad Bhagat Singh",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "The Kerala Story 2: Goes Beyond",
+            "rank4": "Couple Friendly",
+            "rank5": "Youth",
+            "rank6": "Aadu 3",
+            "rank7": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "rank8": "Kanchana"
+        },
+        "Yuksom": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Boong",
+            "rank3": "Iron Lung",
+            "rank4": "O' Romeo",
+            "rank5": "Kanchana",
+            "rank6": "Jerry on Top",
+            "rank7": "BTS: Map Of The Soul ON:E"
+        },
+        "Ziro": {
+            "rank1": "Dhurandhar The Revenge",
+            "rank2": "Ustaad Bhagat Singh",
+            "rank3": "Aadu 3",
+            "rank4": "Ishqan De Lekhe",
+            "rank5": "The Kerala Story 2: Goes Beyond",
+            "rank6": "O' Romeo",
+            "rank7": "F1: The Movie",
+            "rank8": "Kenatha Kanom"
+        }
+    }
+}
