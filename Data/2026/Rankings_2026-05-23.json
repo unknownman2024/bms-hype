@@ -1,0 +1,67 @@
+{
+    "date": "2026-05-23",
+    "last_updated": "2026-05-23 05:05 IST",
+    "total_cities": 1901,
+    "success_cities": 6,
+    "failed_cities": 0,
+    "rankings": {
+        "Sumerpur": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Drishyam 3",
+            "rank3": "Main Tera Hero",
+            "rank4": "Karuppu",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Michael",
+            "rank7": "Bhooth Bangla",
+            "rank8": "Krishnavataram Part 1: The Heart"
+        },
+        "Sundargarh": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Karuppu",
+            "rank3": "Mantra Muugdha",
+            "rank4": "The Toxic Avenger",
+            "rank5": "Krishnavataram Part 1: The Heart",
+            "rank6": "Peddi",
+            "rank7": "Kangula: Maa Kali Ra Danda Nacha",
+            "rank8": "Michael"
+        },
+        "Surajpur": {
+            "rank1": "RCB vs KKR TATA IPL 2026",
+            "rank2": "Drishyam 3",
+            "rank3": "Main Tera Hero",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Krishnavataram Part 1: The Heart",
+            "rank6": "Michael",
+            "rank7": "Drishyam 3"
+        },
+        "Surathkal": {
+            "rank1": "Muv-Luv Alternative",
+            "rank2": "Van Der Valk Season 3",
+            "rank3": "Red and Follow",
+            "rank4": "Sasi Lalitha",
+            "rank5": "Rat on a Highway",
+            "rank6": "No Man`s Land",
+            "rank7": "Imamdasta",
+            "rank8": "Mukkam Post Devach Ghar"
+        },
+        "Surendranagar": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Drishyam 3",
+            "rank3": "Main Tera Hero",
+            "rank4": "Krishnavataram Part 1: The Heart",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "The Toxic Avenger",
+            "rank7": "Dhabkaaro",
+            "rank8": "Michael"
+        },
+        "Suri": {
+            "rank1": "The Bengal Files",
+            "rank2": "Krishnavataram Part 1: The Heart",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "Drishyam 3",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Michael",
+            "rank7": "Main Tera Hero"
+        }
+    }
+}
