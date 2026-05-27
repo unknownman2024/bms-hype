@@ -1,0 +1,29 @@
+{
+    "date": "2026-05-27",
+    "last_updated": "2026-05-27 05:06 IST",
+    "total_cities": 1901,
+    "success_cities": 2,
+    "failed_cities": 0,
+    "rankings": {
+        "Ashoknagar": {
+            "rank1": "Main Tera Hero",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Chand Mera Dil",
+            "rank4": "Drishyam 3",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Obsession",
+            "rank8": "Bhooth Bangla"
+        },
+        "Ashta": {
+            "rank1": "Main Tera Hero",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Chand Mera Dil",
+            "rank4": "Drishyam 3",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Obsession",
+            "rank8": "Bhooth Bangla"
+        }
+    }
+}
