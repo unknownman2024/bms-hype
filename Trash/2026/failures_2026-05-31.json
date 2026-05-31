@@ -1,0 +1,12 @@
+{
+    "date": "2026-05-31",
+    "last_updated": "2026-05-31 05:01 IST",
+    "total_failures": 1,
+    "failures": [
+        {
+            "region": "Bagru",
+            "code": "BAGU",
+            "error": "502 Server Error: Bad Gateway for url: https://in.bookmyshow.com/quickbook-search.bms?r=BAGU"
+        }
+    ]
+}
