@@ -1,0 +1,4696 @@
+{
+    "date": "2026-06-03",
+    "last_updated": "2026-06-03 05:37 IST",
+    "total_cities": 1901,
+    "success_cities": 485,
+    "failed_cities": 0,
+    "rankings": {
+        "Nandipet": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Nandurbar": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Nandyal": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Narasannapeta": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Narayankhed": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Narayanpet": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Narayanpur (Assam)": {
+            "rank1": "Tom & Jerry",
+            "rank2": "Singha",
+            "rank3": "Yaar Ivargal",
+            "rank4": "When the Light Breaks",
+            "rank5": "How Are You Feroz?",
+            "rank6": "The Holiday S1",
+            "rank7": "Ladies First",
+            "rank8": "Operation Portugal"
+        },
+        "Narayanpur (CH)": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Nargund": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Narnaul": {
+            "rank1": "Obsession",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Michael",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Chardikala",
+            "rank8": "Chand Mera Dil"
+        },
+        "Narsapur (Medak)": {
+            "rank1": "Is Love Enough? - SIR",
+            "rank2": "Groundhog Day",
+            "rank3": "Chhota Bheem Himalayan Adventure",
+            "rank4": "Scream",
+            "rank5": "Lucky Charlie",
+            "rank6": "Les Miserables",
+            "rank7": "Carol Doda Topless at the Condor",
+            "rank8": "Oscar Nominated Foreign Films"
+        },
+        "Narsinghpur": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Narsipatnam": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Nashik": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Natham": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Nathdwara": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Nautanwa": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Nawalgarh": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Nawanshahr": {
+            "rank1": "Chardikala",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "Drishyam 3",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Nawapara": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Nayagarh": {
+            "rank1": "Is Love Enough? - SIR",
+            "rank2": "Groundhog Day",
+            "rank3": "Chhota Bheem Himalayan Adventure",
+            "rank4": "Scream",
+            "rank5": "Lucky Charlie",
+            "rank6": "Les Miserables",
+            "rank7": "Carol Doda Topless at the Condor",
+            "rank8": "Oscar Nominated Foreign Films"
+        },
+        "Nazirpur": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Nedumbassery": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Nedumkandam": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Neemuch": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Nelakondapalli": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Nelamangala": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Nellimarla": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Nellimoodu": {
+            "rank1": "Is Love Enough? - SIR",
+            "rank2": "Groundhog Day",
+            "rank3": "Chhota Bheem Himalayan Adventure",
+            "rank4": "Scream",
+            "rank5": "Lucky Charlie",
+            "rank6": "Les Miserables",
+            "rank7": "Carol Doda Topless at the Condor",
+            "rank8": "Oscar Nominated Foreign Films"
+        },
+        "Nemmara": {
+            "rank1": "Rogue Agent",
+            "rank2": "Night of the Living Dead",
+            "rank3": "Missterious",
+            "rank4": "Annagaru Vostaru",
+            "rank5": "Baba",
+            "rank6": "Boiragi",
+            "rank7": "Nefarious",
+            "rank8": "Tiger Vishva"
+        },
+        "Nenmara": {
+            "rank1": "Rogue Agent",
+            "rank2": "Night of the Living Dead",
+            "rank3": "Missterious",
+            "rank4": "Annagaru Vostaru",
+            "rank5": "Baba",
+            "rank6": "Boiragi",
+            "rank7": "Nefarious",
+            "rank8": "Tiger Vishva"
+        },
+        "Ner Parsopant": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Nereducharla": {
+            "rank1": "Wardriver",
+            "rank2": "Around the World in 80 Days",
+            "rank3": "Minions & Monsters",
+            "rank4": "Killer Whale",
+            "rank5": "They Will Kill You",
+            "rank6": "The Wardrobe",
+            "rank7": "Copshop",
+            "rank8": "Kara"
+        },
+        "New Tehri": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Dhurandhar The Revenge",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "Backrooms",
+            "rank8": "The Drama"
+        },
+        "Neyveli": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Nichlaul": {
+            "rank1": "Amar Akbar Anthony",
+            "rank2": "Idhu Vedhalam Sollum Kathai",
+            "rank3": "Mahavatar Parshuraam",
+            "rank4": "Thariode",
+            "rank5": "Stray Kids: The dominATE Experience",
+            "rank6": "Pennu Case",
+            "rank7": "Shri Krishna",
+            "rank8": "Ragini 3"
+        },
+        "Nilagiri": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Nilakottai": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Nimapara": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Peddi",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "Mantra Muugdha",
+            "rank6": "Drishyam 3",
+            "rank7": "The Toxic Avenger",
+            "rank8": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Nimbahera": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Nindra": {
+            "rank1": "Mayan",
+            "rank2": "Samba",
+            "rank3": "Do Not Enter",
+            "rank4": "Mr. Natwarlal",
+            "rank5": "Dildaar Mor Yaar",
+            "rank6": "Hip Hip Hurray",
+            "rank7": "Mending the Line",
+            "rank8": "Lakshmikanthan Kolai Vazhakku"
+        },
+        "Niphad": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Nirjuli": {
+            "rank1": "Drishyam 3",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Tholi Prema",
+            "rank4": "Deool Band 2",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "Karuppu",
+            "rank7": "Blast",
+            "rank8": "Shelter"
+        },
+        "Nokha": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Nooranad": {
+            "rank1": "The Goldman Case",
+            "rank2": "Piranha 3D",
+            "rank3": "Crimes of the Future",
+            "rank4": "Devanobba Jadugara",
+            "rank5": "Family-Wala",
+            "rank6": "Kombuseevi",
+            "rank7": "Miller`s Girl",
+            "rank8": "One and a Half"
+        },
+        "Nuzvid": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Nyamathi": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Oddanchatram": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Okha": {
+            "rank1": "Bakrid",
+            "rank2": "Idhayam Murali",
+            "rank3": "From Darkness",
+            "rank4": "Palm Springs",
+            "rank5": "Hee Anokhi Gaath",
+            "rank6": "The Walk: A True Story",
+            "rank7": "Bugsy",
+            "rank8": "The Man On The Road"
+        },
+        "Ongole": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Orai": {
+            "rank1": "Monsoon Football",
+            "rank2": "Black Rain",
+            "rank3": "Mindo Taseeldarni",
+            "rank4": "Sasi Lalitha",
+            "rank5": "They Shot the Piano Player",
+            "rank6": "Godzilla vs. Kong",
+            "rank7": "The Seeding",
+            "rank8": "Sonic: The Hedgehog 2"
+        },
+        "Ottapalam": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "P. Dharmavaram": {
+            "rank1": "Bakrid",
+            "rank2": "Idhayam Murali",
+            "rank3": "From Darkness",
+            "rank4": "Palm Springs",
+            "rank5": "Hee Anokhi Gaath",
+            "rank6": "The Walk: A True Story",
+            "rank7": "Bugsy",
+            "rank8": "The Man On The Road"
+        },
+        "P.Gannavaram": {
+            "rank1": "Matchless Mulan",
+            "rank2": "Gajendra C/O Doddarasinakere",
+            "rank3": "Rayabhari",
+            "rank4": "Uljhan The Knot",
+            "rank5": "Andaz Apna Apna",
+            "rank6": "Miss Call Friend",
+            "rank7": "Indecent Proposal",
+            "rank8": "The Dresser"
+        },
+        "Padrauna": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Padubidri": {
+            "rank1": "Dhakke",
+            "rank2": "One Night Only",
+            "rank3": "Tuner",
+            "rank4": "Jigsaw",
+            "rank5": "Panchama Adhyaya",
+            "rank6": "Renfield",
+            "rank7": "Turbulence",
+            "rank8": "Dune: Part Three"
+        },
+        "Pala": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Palakkad": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Palakonda": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Palakurthy": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Palamaner": {
+            "rank1": "Zack Snyder's Justice League",
+            "rank2": "Kiss Kiss Bang Bang",
+            "rank3": "Qurbaan Hua",
+            "rank4": "The Expendables 2",
+            "rank5": "Senapati",
+            "rank6": "Ke Tui Bol",
+            "rank7": "Kattalan",
+            "rank8": "Family Romance, LLC"
+        },
+        "Palani": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Palanpur": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Palapetty": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Palghar": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Palia Kalan": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Palitana": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Pallipalayam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Palwancha": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Pamarru": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pamuru": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Panachamoodu": {
+            "rank1": "Oru Pakka Kathai",
+            "rank2": "Hunterrr",
+            "rank3": "Pongala",
+            "rank4": "Furiosa: A Mad Max Saga and Mad Max: Fury Road 2-Film Collection",
+            "rank5": "I Am Nevenka",
+            "rank6": "Spiral: From the Book of Saw",
+            "rank7": "Behindd",
+            "rank8": "Mercy Killing"
+        },
+        "Panaji": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Umesh",
+            "rank6": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Panchgani": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Pandalam": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Pandavapura": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Pandhana": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Pandharkawada": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Pandua": {
+            "rank1": "The Power",
+            "rank2": "Chennai Love Story",
+            "rank3": "Mumbaikar",
+            "rank4": "Black Adam",
+            "rank5": "Salt",
+            "rank6": "Kiss the Girls",
+            "rank7": "I Still Know What You Did Last Summer",
+            "rank8": "Blind Date"
+        },
+        "Panipat": {
+            "rank1": "Obsession",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Michael",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Chardikala",
+            "rank8": "Chand Mera Dil"
+        },
+        "Panruti": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Paonta Sahib": {
+            "rank1": "The Sleeping Woman",
+            "rank2": "M3GAN 2.0",
+            "rank3": "Maai Baap",
+            "rank4": "The Good Maharaja",
+            "rank5": "Mitwaa",
+            "rank6": "Siren",
+            "rank7": "Bal Shivaji",
+            "rank8": "Sita Ek Prem Katha"
+        },
+        "Papanasam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Paradeep": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Peddi",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "Mantra Muugdha",
+            "rank6": "Drishyam 3",
+            "rank7": "The Toxic Avenger",
+            "rank8": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Paralakhemundi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Peddi",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "Mantra Muugdha",
+            "rank6": "Drishyam 3",
+            "rank7": "The Toxic Avenger",
+            "rank8": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Paratwada": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Parbhani": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Parchur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Parli": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Parvathipuram": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Parwanoo": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Shimanto",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Rangoli"
+        },
+        "Pasighat": {
+            "rank1": "Vishwanath and Sons",
+            "rank2": "Janmadaathe",
+            "rank3": "Korean Kanakaraju",
+            "rank4": "Bharata Varsha: Saga of Shula",
+            "rank5": "Bhamardo",
+            "rank6": "War of Shera",
+            "rank7": "Out Come the Wolves",
+            "rank8": "Entrapment"
+        },
+        "Patan (CG)": {
+            "rank1": "Talvar 2",
+            "rank2": "Ram Rajya",
+            "rank3": "Alpha",
+            "rank4": "The Paradise",
+            "rank5": "Gangnam Zombie",
+            "rank6": "Thamma",
+            "rank7": "Ghar Vapsi",
+            "rank8": "Screw Dheela"
+        },
+        "Patan (Satara)": {
+            "rank1": "Talvar 2",
+            "rank2": "Ram Rajya",
+            "rank3": "Alpha",
+            "rank4": "The Paradise",
+            "rank5": "Gangnam Zombie",
+            "rank6": "Thamma",
+            "rank7": "Ghar Vapsi",
+            "rank8": "Screw Dheela"
+        },
+        "Pathanamthitta": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Pathankot": {
+            "rank1": "Chardikala",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "Drishyam 3",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Pathapatnam": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pathsala": {
+            "rank1": "Homework",
+            "rank2": "Obsession",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Drishyam 3",
+            "rank6": "Roi Roi Binale",
+            "rank7": "Michael"
+        },
+        "Patiala": {
+            "rank1": "Chardikala",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "Drishyam 3",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Patna": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Aashiqui 2",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Obsession",
+            "rank7": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank8": "Dhurandhar The Revenge"
+        },
+        "Patratu": {
+            "rank1": "Talvar 2",
+            "rank2": "Ram Rajya",
+            "rank3": "Alpha",
+            "rank4": "The Paradise",
+            "rank5": "Gangnam Zombie",
+            "rank6": "Thamma",
+            "rank7": "Ghar Vapsi",
+            "rank8": "Screw Dheela"
+        },
+        "Pattambi": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Pavagada": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Payyanur": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Payyoli": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Pazhayannur": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Pebbair": {
+            "rank1": "Raavi De Kande",
+            "rank2": "Video Parlour",
+            "rank3": "Matthias & Maxime",
+            "rank4": "Murder By Death",
+            "rank5": "Teri Baaton Mein Aisa Uljha Jiya",
+            "rank6": "Taam",
+            "rank7": "Uthami",
+            "rank8": "The Legend of Ochi"
+        },
+        "Pedana": {
+            "rank1": "Awaara",
+            "rank2": "50 First Dates",
+            "rank3": "Bhoot Ji",
+            "rank4": "Ek Andar Do Bahar",
+            "rank5": "The Shawshank Redemption",
+            "rank6": "Total Recall",
+            "rank7": "Uncharted",
+            "rank8": "An Officer and a Gentleman"
+        },
+        "Pedapadu": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Peddapuram": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pendra": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Pennagaram": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Penuganchiprolu": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Penugonda": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Peralam": {
+            "rank1": "Raavi De Kande",
+            "rank2": "Video Parlour",
+            "rank3": "Matthias & Maxime",
+            "rank4": "Murder By Death",
+            "rank5": "Teri Baaton Mein Aisa Uljha Jiya",
+            "rank6": "Taam",
+            "rank7": "Uthami",
+            "rank8": "The Legend of Ochi"
+        },
+        "Peravoor": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Peringottukurissi": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Periyapatna": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Pernambut": {
+            "rank1": "Green Zone",
+            "rank2": "Middle Class",
+            "rank3": "Reminders of Him",
+            "rank4": "Resident Evil: The Final Chapter",
+            "rank5": "Sense And Sensibility",
+            "rank6": "Visiting Hours",
+            "rank7": "Projapati 2",
+            "rank8": "The Purge: Anarchy"
+        },
+        "Perundurai": {
+            "rank1": "The Pope`s Exorcist",
+            "rank2": "Daali",
+            "rank3": "Godzilla x Kong: The New Empire",
+            "rank4": "Rosie: The Saffron Chapter",
+            "rank5": "Iravaakaalam",
+            "rank6": "Mastering Suspense: Sriram Raghavan on the Detective Genre",
+            "rank7": "Casino",
+            "rank8": "The Extortion"
+        },
+        "Petlad": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Phalodi": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Piduguralla": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pilani": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pileru": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pilibhit": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Pimpalner": {
+            "rank1": "Raavi De Kande",
+            "rank2": "Video Parlour",
+            "rank3": "Matthias & Maxime",
+            "rank4": "Murder By Death",
+            "rank5": "Teri Baaton Mein Aisa Uljha Jiya",
+            "rank6": "Taam",
+            "rank7": "Uthami",
+            "rank8": "The Legend of Ochi"
+        },
+        "Pinjore": {
+            "rank1": "Obsession",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Michael",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Chardikala",
+            "rank8": "Chand Mera Dil"
+        },
+        "Pipraich": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Pithampur": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Pithora": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Pithoragarh": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Pitlam": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Podalakur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Polavaram": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pondicherry": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Ponduru": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Ponkunnam": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Ponnamaravathi": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Ponneri": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Poovar": {
+            "rank1": "Like a Boss",
+            "rank2": "Up In The Air",
+            "rank3": "Hope And Glory",
+            "rank4": "Magnum Opus",
+            "rank5": "Satsang",
+            "rank6": "The Blue Lagoon",
+            "rank7": "Yesterday",
+            "rank8": "Aponjon"
+        },
+        "Port Blair": {
+            "rank1": "Karuppu",
+            "rank2": "Athiradi",
+            "rank3": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Porumamilla": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pratapgarh (UP)": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Prayagraj (Allahabad)": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Proddatur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pulgaon": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Puliampatti": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Pulivendula": {
+            "rank1": "Kung Fu Panda",
+            "rank2": "Assassin Club",
+            "rank3": "Veeramadevi",
+            "rank4": "Memoir of a Snail",
+            "rank5": "Mission: Impossible",
+            "rank6": "Mr. Smith Goes to Washington",
+            "rank7": "The Song of Names",
+            "rank8": "Goodfellas"
+        },
+        "Pulluvila": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Pulpally": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Punalur": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Punganur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Puranpur": {
+            "rank1": "Jananam: 1947 Pranayam Thudarunnu",
+            "rank2": "New",
+            "rank3": "Bird",
+            "rank4": "47 Dhansukh Bhawan",
+            "rank5": "Orchestra Mysuru",
+            "rank6": "The Godfather",
+            "rank7": "2 Fast 2 Furious",
+            "rank8": "Raat Jaga Tara"
+        },
+        "Purnea": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Aashiqui 2",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Obsession",
+            "rank7": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank8": "Dhurandhar The Revenge"
+        },
+        "Purulia": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pusapatirega": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Pushkar": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Puthenvelikkara": {
+            "rank1": "Jananam: 1947 Pranayam Thudarunnu",
+            "rank2": "New",
+            "rank3": "Bird",
+            "rank4": "47 Dhansukh Bhawan",
+            "rank5": "Orchestra Mysuru",
+            "rank6": "The Godfather",
+            "rank7": "2 Fast 2 Furious",
+            "rank8": "Raat Jaga Tara"
+        },
+        "Puthoor": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Puttur (Andhra Pradesh)": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Rabkavi Banhatti": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Radhamoni": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Raghopur": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Aashiqui 2",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Obsession",
+            "rank7": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank8": "Dhurandhar The Revenge"
+        },
+        "Raghunathganj": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Rahimatpur": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Rahuri": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Raibag": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Raichur": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Raiganj": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Raikal": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Raikot": {
+            "rank1": "Padai Thalaivan",
+            "rank2": "Insidious: Out of The Further",
+            "rank3": "Amarakavyam",
+            "rank4": "Children of God",
+            "rank5": "Kill Bill: The Whole Bloody Affair",
+            "rank6": "Andaz Apna Apna",
+            "rank7": "Aakasamlo Oka Tara",
+            "rank8": "Cocktail 2"
+        },
+        "Raipur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Raipuriya": {
+            "rank1": "Sainyam",
+            "rank2": "Sorry, Baby",
+            "rank3": "Una Famiglia Sottosopra",
+            "rank4": "Ragini 3",
+            "rank5": "Hunterrr",
+            "rank6": "Kursk",
+            "rank7": "Lilo & Stitch",
+            "rank8": "Muqabla"
+        },
+        "Raisinghnagar": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Raja Ka Bagh": {
+            "rank1": "Thalaivaa",
+            "rank2": "Needhikku Thalaivanangu",
+            "rank3": "Rode College",
+            "rank4": "Yajamana",
+            "rank5": "Yajaman",
+            "rank6": "Memories",
+            "rank7": "Shirley",
+            "rank8": "Dominique"
+        },
+        "Rajam": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Rajapalayam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Rajapur": {
+            "rank1": "The Seeding",
+            "rank2": "The 100th",
+            "rank3": "The Interpreter",
+            "rank4": "Carol Doda Topless at the Condor",
+            "rank5": "Dead Talents Society",
+            "rank6": "Fahrenheit 11/9",
+            "rank7": "Burial",
+            "rank8": "On Swift Horses"
+        },
+        "Rajarampalli": {
+            "rank1": "Pratyabartan",
+            "rank2": "Kairee",
+            "rank3": "Six Minutes to Midnight",
+            "rank4": "Khatarnaak Safar Hard Ride",
+            "rank5": "Gangs of New York",
+            "rank6": "Badh",
+            "rank7": "Killer Cover Up",
+            "rank8": "Antha Naal"
+        },
+        "Rajgangpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Peddi",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "Mantra Muugdha",
+            "rank6": "Drishyam 3",
+            "rank7": "The Toxic Avenger",
+            "rank8": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Rajgurunagar": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Rajiana": {
+            "rank1": "Chardikala",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "Drishyam 3",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Rajkot": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Rajpur": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Rajpura": {
+            "rank1": "Chardikala",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "Drishyam 3",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Rajsamand": {
+            "rank1": "Kung Fu Panda",
+            "rank2": "Assassin Club",
+            "rank3": "Veeramadevi",
+            "rank4": "Memoir of a Snail",
+            "rank5": "Mission: Impossible",
+            "rank6": "Mr. Smith Goes to Washington",
+            "rank7": "The Song of Names",
+            "rank8": "Goodfellas"
+        },
+        "Ramachandrapuram": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Ramanagara": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Ramanathapuram": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Ramayampet": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Ramdurg": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Ramgarhwa": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Aashiqui 2",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Obsession",
+            "rank7": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank8": "Dhurandhar The Revenge"
+        },
+        "Ramjibanpur": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Ramnagar": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Dhurandhar The Revenge",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "Backrooms",
+            "rank8": "The Drama"
+        },
+        "Rampur": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Ramtek": {
+            "rank1": "The Seeding",
+            "rank2": "The 100th",
+            "rank3": "The Interpreter",
+            "rank4": "Carol Doda Topless at the Condor",
+            "rank5": "Dead Talents Society",
+            "rank6": "Fahrenheit 11/9",
+            "rank7": "Burial",
+            "rank8": "On Swift Horses"
+        },
+        "Ranaghat": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Ranastalam": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Ranchi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Backrooms",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Rangia": {
+            "rank1": "Homework",
+            "rank2": "Obsession",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Drishyam 3",
+            "rank6": "Roi Roi Binale",
+            "rank7": "Michael"
+        },
+        "Ranipet": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Ranni": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Rasipuram": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Rath": {
+            "rank1": "Kung Fu Panda",
+            "rank2": "Assassin Club",
+            "rank3": "Veeramadevi",
+            "rank4": "Memoir of a Snail",
+            "rank5": "Mission: Impossible",
+            "rank6": "Mr. Smith Goes to Washington",
+            "rank7": "The Song of Names",
+            "rank8": "Goodfellas"
+        },
+        "Ratlam": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Ratnagiri": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Ravulapalem": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Rayachoti": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Rayakottai": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Rayavaram": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Razole": {
+            "rank1": "The Seeding",
+            "rank2": "The 100th",
+            "rank3": "The Interpreter",
+            "rank4": "Carol Doda Topless at the Condor",
+            "rank5": "Dead Talents Society",
+            "rank6": "Fahrenheit 11/9",
+            "rank7": "Burial",
+            "rank8": "On Swift Horses"
+        },
+        "Rentachintala": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Repalle": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Revdanda": {
+            "rank1": "Wish You Were Here",
+            "rank2": "Patch Adams",
+            "rank3": "Shahu Chhatrapati",
+            "rank4": "17 Again",
+            "rank5": "Black Rose",
+            "rank6": "Bansara",
+            "rank7": "Gujjubhai 3",
+            "rank8": "Stealth"
+        },
+        "Rewari": {
+            "rank1": "Obsession",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Michael",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Chardikala",
+            "rank8": "Chand Mera Dil"
+        },
+        "RiBhoi": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Obsession",
+            "rank3": "Backrooms",
+            "rank4": "Cocktail 2",
+            "rank5": "The Devil Wears Prada 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Rishikesh": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Dhurandhar The Revenge",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "Backrooms",
+            "rank8": "The Drama"
+        },
+        "Rishra": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Robertsganj": {
+            "rank1": "Kung Fu Panda",
+            "rank2": "Assassin Club",
+            "rank3": "Veeramadevi",
+            "rank4": "Memoir of a Snail",
+            "rank5": "Mission: Impossible",
+            "rank6": "Mr. Smith Goes to Washington",
+            "rank7": "The Song of Names",
+            "rank8": "Goodfellas"
+        },
+        "Ron": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Rongjeng": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Obsession",
+            "rank3": "Backrooms",
+            "rank4": "Cocktail 2",
+            "rank5": "The Devil Wears Prada 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Roorkee": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Dhurandhar The Revenge",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "Backrooms",
+            "rank8": "The Drama"
+        },
+        "Rudauli": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Rudrapur": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Dhurandhar The Revenge",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "Backrooms",
+            "rank8": "The Drama"
+        },
+        "Rupnagar": {
+            "rank1": "Chardikala",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "Drishyam 3",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Sabbavaram": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Safidon": {
+            "rank1": "Obsession",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Michael",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Chardikala",
+            "rank8": "Chand Mera Dil"
+        },
+        "Sagar": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Saharanpur": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Saharsa": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Aashiqui 2",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Obsession",
+            "rank7": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank8": "Dhurandhar The Revenge"
+        },
+        "Sahjanwa": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Sakleshpur": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Sakti": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Saligrama": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Salihundam": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Samalkota": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Sambalpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Peddi",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "Mantra Muugdha",
+            "rank6": "Drishyam 3",
+            "rank7": "The Toxic Avenger",
+            "rank8": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Sambhal": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Sambhar": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Samsi": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sanawad": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Sangareddy": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Sangli": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Sangola": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Sangrur": {
+            "rank1": "Chardikala",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "Drishyam 3",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Sankarankoil": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Sankeshwar": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Sankri": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Dhurandhar The Revenge",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "Backrooms",
+            "rank8": "The Drama"
+        },
+        "Sanwer": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Saraipali": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Sarangarh": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Sarangpur": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Sarapaka": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Sardhana": {
+            "rank1": "Padai Thalaivan",
+            "rank2": "Insidious: Out of The Further",
+            "rank3": "Amarakavyam",
+            "rank4": "Children of God",
+            "rank5": "Kill Bill: The Whole Bloody Affair",
+            "rank6": "Andaz Apna Apna",
+            "rank7": "Aakasamlo Oka Tara",
+            "rank8": "Cocktail 2"
+        },
+        "Sarnath": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Sarni": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Sasaram": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Aashiqui 2",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Obsession",
+            "rank7": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank8": "Dhurandhar The Revenge"
+        },
+        "Satara": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Sathankulam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Sathupally": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Satmile": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Satna": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Sattenapalle": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Sawai Madhopur": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Sayan": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Secunderabad": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Seethanagaram": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Sehore": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Selu": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Semiliguda": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Peddi",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "Mantra Muugdha",
+            "rank6": "Drishyam 3",
+            "rank7": "The Toxic Avenger",
+            "rank8": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Sendhwa": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Sengottai": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Seoni": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Seoni Malwa": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Serampore": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Shahada": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Shahapur": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Shahdol": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Shahpur": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Shajapur": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Shamgarh": {
+            "rank1": "The Seeding",
+            "rank2": "The 100th",
+            "rank3": "The Interpreter",
+            "rank4": "Carol Doda Topless at the Condor",
+            "rank5": "Dead Talents Society",
+            "rank6": "Fahrenheit 11/9",
+            "rank7": "Burial",
+            "rank8": "On Swift Horses"
+        },
+        "Shamli": {
+            "rank1": "Pratyabartan",
+            "rank2": "Kairee",
+            "rank3": "Six Minutes to Midnight",
+            "rank4": "Khatarnaak Safar Hard Ride",
+            "rank5": "Gangs of New York",
+            "rank6": "Badh",
+            "rank7": "Killer Cover Up",
+            "rank8": "Antha Naal"
+        },
+        "Shankarpally": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Shankarpur": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sheopur": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Shikaripur": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Shikarpur": {
+            "rank1": "Flow"
+        },
+        "Shikrapur": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Shillong": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Obsession",
+            "rank3": "Backrooms",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "The Devil Wears Prada 2",
+            "rank6": "Cocktail 2",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Shindkheda": {
+            "rank1": "Padai Thalaivan",
+            "rank2": "Insidious: Out of The Further",
+            "rank3": "Amarakavyam",
+            "rank4": "Children of God",
+            "rank5": "Kill Bill: The Whole Bloody Affair",
+            "rank6": "Andaz Apna Apna",
+            "rank7": "Aakasamlo Oka Tara",
+            "rank8": "Cocktail 2"
+        },
+        "Shirahatti": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Shirali": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Shirur": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Shivamogga": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Shivpuri": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Shoranur": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Shrigonda": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Shujalpur": {
+            "rank1": "Pratyabartan",
+            "rank2": "Kairee",
+            "rank3": "Six Minutes to Midnight",
+            "rank4": "Khatarnaak Safar Hard Ride",
+            "rank5": "Gangs of New York",
+            "rank6": "Badh",
+            "rank7": "Killer Cover Up",
+            "rank8": "Antha Naal"
+        },
+        "Siddharthnagar": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Siddhpur": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Siddipet": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Sidlaghatta": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Sikar": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Silchar": {
+            "rank1": "Homework",
+            "rank2": "Obsession",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Drishyam 3",
+            "rank6": "Roi Roi Binale",
+            "rank7": "Michael"
+        },
+        "Siliguri": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sindhudurg": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Singapore": {
+            "rank1": "Flow"
+        },
+        "Singarayakonda": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Singrauli": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Sira": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Sircilla": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Sirmaur": {
+            "rank1": "Padai Thalaivan",
+            "rank2": "Insidious: Out of The Further",
+            "rank3": "Amarakavyam",
+            "rank4": "Children of God",
+            "rank5": "Kill Bill: The Whole Bloody Affair",
+            "rank6": "Andaz Apna Apna",
+            "rank7": "Aakasamlo Oka Tara",
+            "rank8": "Cocktail 2"
+        },
+        "Sirsi": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Siruguppa": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Sitamarhi": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Aashiqui 2",
+            "rank5": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank6": "Obsession",
+            "rank7": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank8": "Dhurandhar The Revenge"
+        },
+        "Sitapur": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Sivaganga": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Sivasagar": {
+            "rank1": "Homework",
+            "rank2": "Obsession",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Drishyam 3",
+            "rank6": "Roi Roi Binale",
+            "rank7": "Michael"
+        },
+        "Siwan": {
+            "rank1": "Padai Thalaivan",
+            "rank2": "Insidious: Out of The Further",
+            "rank3": "Amarakavyam",
+            "rank4": "Children of God",
+            "rank5": "Kill Bill: The Whole Bloody Affair",
+            "rank6": "Andaz Apna Apna",
+            "rank7": "Aakasamlo Oka Tara",
+            "rank8": "Cocktail 2"
+        },
+        "Solapur": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Sompeta": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Sonari": {
+            "rank1": "Pratyabartan",
+            "rank2": "Kairee",
+            "rank3": "Six Minutes to Midnight",
+            "rank4": "Khatarnaak Safar Hard Ride",
+            "rank5": "Gangs of New York",
+            "rank6": "Badh",
+            "rank7": "Killer Cover Up",
+            "rank8": "Antha Naal"
+        },
+        "Songadh": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Sonipat": {
+            "rank1": "Obsession",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Michael",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Chardikala",
+            "rank8": "Chand Mera Dil"
+        },
+        "Soron": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "South 24 Parganas": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sri Ganganagar": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Srinagar": {
+            "rank1": "Chardikala",
+            "rank2": "Dhurandhar The Revenge",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Obsession",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Backrooms",
+            "rank8": "Shah Shani"
+        },
+        "Srirangapatna": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Srivaikuntam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Srivilliputhur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Station Ghanpur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Sujangarh": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Sukma": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Sultanpur": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Sumerpur": {
+            "rank1": "Dilwale Dulhania Le Jayenge",
+            "rank2": "Aashiqui 2",
+            "rank3": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank4": "Ram Teri Ganga Maili",
+            "rank5": "Obsession",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Sundar Nagar": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Shimanto",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Rangoli"
+        },
+        "Sundargarh": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Peddi",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "Mantra Muugdha",
+            "rank6": "Drishyam 3",
+            "rank7": "The Toxic Avenger",
+            "rank8": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Supaul": {
+            "rank1": "Pratyabartan",
+            "rank2": "Kairee",
+            "rank3": "Six Minutes to Midnight",
+            "rank4": "Khatarnaak Safar Hard Ride",
+            "rank5": "Gangs of New York",
+            "rank6": "Badh",
+            "rank7": "Killer Cover Up",
+            "rank8": "Antha Naal"
+        },
+        "Surajpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Surathkal": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Suri": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Suryapet": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Tadepalligudem": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Tadikalapudi": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Tadipatri": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Talcher": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Taliparamba": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Tallarevu": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Tamluk": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Tanda": {
+            "rank1": "Chardikala",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "Drishyam 3",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "IPL 2026 Final - RCB Vs GT"
+        },
+        "Tandur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Tangutur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Tanuku": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Tarapur": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Tarikere": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Tawang": {
+            "rank1": "Drishyam 3",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Tholi Prema",
+            "rank4": "Deool Band 2",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "Karuppu",
+            "rank7": "Blast",
+            "rank8": "Shelter"
+        },
+        "Tekkali": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Tembhurni": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Tenkasi": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Terdal": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Tezpur": {
+            "rank1": "Homework",
+            "rank2": "Obsession",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Drishyam 3",
+            "rank6": "Roi Roi Binale",
+            "rank7": "Michael"
+        },
+        "Tezu": {
+            "rank1": "Kung Fu Panda",
+            "rank2": "Assassin Club",
+            "rank3": "Veeramadevi",
+            "rank4": "Memoir of a Snail",
+            "rank5": "Mission: Impossible",
+            "rank6": "Mr. Smith Goes to Washington",
+            "rank7": "The Song of Names",
+            "rank8": "Goodfellas"
+        },
+        "Thalayolaparambu": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Thallada": {
+            "rank1": "The Seeding",
+            "rank2": "The 100th",
+            "rank3": "The Interpreter",
+            "rank4": "Carol Doda Topless at the Condor",
+            "rank5": "Dead Talents Society",
+            "rank6": "Fahrenheit 11/9",
+            "rank7": "Burial",
+            "rank8": "On Swift Horses"
+        },
+        "Thamarassery": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Thanjavur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tharad": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Theni": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Thimmapuram (Addu Road)": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Thirubuvanai": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Thiruttani": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Thiruvalla": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Thodupuzha": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Thoothukudi": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Thorrur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Thottiyam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Thriprayar": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Thullur": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Tilda Neora": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "RCB vs KKR TATA IPL 2026",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "Obsession",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "Drishyam 3",
+            "rank7": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank8": "Chand Mera Dil"
+        },
+        "Tinsukia": {
+            "rank1": "Homework",
+            "rank2": "Obsession",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Drishyam 3",
+            "rank6": "Roi Roi Binale",
+            "rank7": "Michael"
+        },
+        "Tiptur": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Tiruchendur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tirukoilur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tirumakudalu Narasipura": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Tirupattur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tirupur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tiruvallur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tiruvannamalai": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tiruvarur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tiruvuru": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Titagarh": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Titlagarh": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Toopran": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Trichy": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Tumakuru (Tumkur)": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Tumsar": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Tura": {
+            "rank1": "The Seeding",
+            "rank2": "The 100th",
+            "rank3": "The Interpreter",
+            "rank4": "Carol Doda Topless at the Condor",
+            "rank5": "Dead Talents Society",
+            "rank6": "Fahrenheit 11/9",
+            "rank7": "Burial",
+            "rank8": "On Swift Horses"
+        },
+        "Turuvekere": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Udaynarayanpur": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Udgir": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Udumalpet": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Udupi": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Ujhani": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Ujjain": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Uluberia": {
+            "rank1": "The Bengal Files",
+            "rank2": "Obsession",
+            "rank3": "Saptadingar Guptodhon",
+            "rank4": "IPL 2026 Final - RCB Vs GT",
+            "rank5": "Chand Mera Dil",
+            "rank6": "Dhurandhar The Revenge",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Umaria": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Umbergaon": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Umbraj": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Umred": {
+            "rank1": "Wish You Were Here",
+            "rank2": "Patch Adams",
+            "rank3": "Shahu Chhatrapati",
+            "rank4": "17 Again",
+            "rank5": "Black Rose",
+            "rank6": "Bansara",
+            "rank7": "Gujjubhai 3",
+            "rank8": "Stealth"
+        },
+        "Una": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Shimanto",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Rangoli"
+        },
+        "Una (Gujarat)": {
+            "rank1": "Wish You Were Here",
+            "rank2": "Patch Adams",
+            "rank3": "Shahu Chhatrapati",
+            "rank4": "17 Again",
+            "rank5": "Black Rose",
+            "rank6": "Bansara",
+            "rank7": "Gujjubhai 3",
+            "rank8": "Stealth"
+        },
+        "Uppada": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Uthamapalayam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Uthangarai": {
+            "rank1": "Paandi Muni",
+            "rank2": "Danob",
+            "rank3": "Ocean`s Eleven",
+            "rank4": "Rangoon",
+            "rank5": "Dead and Buried S1",
+            "rank6": "Fantastic Beasts: The Crimes of Grindelwald",
+            "rank7": "Subhadra",
+            "rank8": "China Piece"
+        },
+        "Uthukottai": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Utraula": {
+            "rank1": "Aashiqui 2",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Obsession",
+            "rank4": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "GT vs RCB - TATA IPL 2026 QUALIFIER 1"
+        },
+        "Uttara Kannada": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Uttarkashi": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Dhurandhar The Revenge",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "Backrooms",
+            "rank8": "The Drama"
+        },
+        "Vadakkencherry": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Vadanappally": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Vadodara": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Vaduj": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Valanchery": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Valaparla": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Valigonda": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Valsad": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Vaniyambadi": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Varadaiahpalem": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Varadiyam": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Varkala": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Vasind": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Vatsavai": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Vedasandur": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Veeraghattam": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Velanja": {
+            "rank1": "Wish You Were Here",
+            "rank2": "Patch Adams",
+            "rank3": "Shahu Chhatrapati",
+            "rank4": "17 Again",
+            "rank5": "Black Rose",
+            "rank6": "Bansara",
+            "rank7": "Gujjubhai 3",
+            "rank8": "Stealth"
+        },
+        "Velanthavalam": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Vellampalli": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Vellore": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Velugodu": {
+            "rank1": "Kung Fu Panda",
+            "rank2": "Assassin Club",
+            "rank3": "Veeramadevi",
+            "rank4": "Memoir of a Snail",
+            "rank5": "Mission: Impossible",
+            "rank6": "Mr. Smith Goes to Washington",
+            "rank7": "The Song of Names",
+            "rank8": "Goodfellas"
+        },
+        "Vempalli": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Vengurla": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Veraval": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Vetapalem": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Vettavalam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Vidisha": {
+            "rank1": "Obsession",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Drishyam 3",
+            "rank7": "Chand Mera Dil"
+        },
+        "Vijapur": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Vijayapura (Bijapur)": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Vijayarai": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Vikarabad": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Vikasnagar": {
+            "rank1": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank2": "Obsession",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Dhurandhar The Revenge",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "IPL 2026 Final - RCB Vs GT",
+            "rank7": "Backrooms",
+            "rank8": "The Drama"
+        },
+        "Villupuram": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Vinukonda": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Viralimalai": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Virudhunagar": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Visnagar": {
+            "rank1": "IPL 2026 Final - RCB Vs GT",
+            "rank2": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank3": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank4": "Obsession",
+            "rank5": "GT vs RR - TATA IPL 2026 Qualifier 2",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Blast"
+        },
+        "Vita": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Vithlapur": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        },
+        "Vizianagaram": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Vrindavan": {
+            "rank1": "Kung Fu Panda",
+            "rank2": "Assassin Club",
+            "rank3": "Veeramadevi",
+            "rank4": "Memoir of a Snail",
+            "rank5": "Mission: Impossible",
+            "rank6": "Mr. Smith Goes to Washington",
+            "rank7": "The Song of Names",
+            "rank8": "Goodfellas"
+        },
+        "Vuyyuru": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Wadakkancherry": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Wai": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Wanaparthy": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Warangal": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Wardha": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Warora": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Washim": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Wayanad": {
+            "rank1": "Blast",
+            "rank2": "Drishyam 3",
+            "rank3": "Obsession",
+            "rank4": "Karuppu",
+            "rank5": "Athiradi",
+            "rank6": "Kattalan",
+            "rank7": "Jana Nayagan",
+            "rank8": "Michael"
+        },
+        "Wyra": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Athidhi",
+            "rank7": "Drishyam 3",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Yadagirigutta": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Yanam": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Yavatmal": {
+            "rank1": "Deool Band 2",
+            "rank2": "Obsession",
+            "rank3": "IPL 2026 Final - RCB Vs GT",
+            "rank4": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank5": "Dhurandhar The Revenge",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "Raja Shivaji",
+            "rank8": "Drishyam 3"
+        },
+        "Yelagiri": {
+            "rank1": "Karuppu",
+            "rank2": "Blast",
+            "rank3": "Jana Nayagan",
+            "rank4": "Obsession",
+            "rank5": "Drishyam 3",
+            "rank6": "Parimala and Co",
+            "rank7": "29",
+            "rank8": "Athiradi"
+        },
+        "Yelburga": {
+            "rank1": "Peddi",
+            "rank2": "IPL 2026 Final - RCB Vs GT",
+            "rank3": "Obsession",
+            "rank4": "Blast",
+            "rank5": "GT vs RCB - TATA IPL 2026 QUALIFIER 1",
+            "rank6": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank7": "KD"
+        },
+        "Yellamanchili": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Yellandu": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Yellareddypet": {
+            "rank1": "The Seeding",
+            "rank2": "The 100th",
+            "rank3": "The Interpreter",
+            "rank4": "Carol Doda Topless at the Condor",
+            "rank5": "Dead Talents Society",
+            "rank6": "Fahrenheit 11/9",
+            "rank7": "Burial",
+            "rank8": "On Swift Horses"
+        },
+        "Yeola": {
+            "rank1": "Daawat-E-Ishq",
+            "rank2": "Aaru",
+            "rank3": "Vivo",
+            "rank4": "Janmadaathe",
+            "rank5": "Once Upon a Time in Gaza",
+            "rank6": "Nungshi Maithong",
+            "rank7": "Dalgliesh",
+            "rank8": "Thariode"
+        },
+        "Yerragondapalem": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Yerraguntla": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "1 Nenokkadine",
+            "rank4": "Athidhi",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Raja Rani",
+            "rank7": "SRH VS RR - TATA IPL 2026 ELIMINATOR",
+            "rank8": "Drishyam 3"
+        },
+        "Yewat": {
+            "rank1": "Daawat-E-Ishq",
+            "rank2": "Aaru",
+            "rank3": "Vivo",
+            "rank4": "Janmadaathe",
+            "rank5": "Once Upon a Time in Gaza",
+            "rank6": "Nungshi Maithong",
+            "rank7": "Dalgliesh",
+            "rank8": "Thariode"
+        },
+        "Zaheerabad": {
+            "rank1": "Peddi",
+            "rank2": "Obsession",
+            "rank3": "Blast",
+            "rank4": "1 Nenokkadine",
+            "rank5": "IPL 2026 Final - RCB Vs GT",
+            "rank6": "Drishyam 3",
+            "rank7": "Athidhi",
+            "rank8": "SRH VS RR - TATA IPL 2026 ELIMINATOR"
+        },
+        "Zarap": {
+            "rank1": "Scream VI",
+            "rank2": "Kallapart",
+            "rank3": "Naadu",
+            "rank4": "Filmlovers!",
+            "rank5": "Classmates",
+            "rank6": "Fly Me to the Moon",
+            "rank7": "Idhayam Murali",
+            "rank8": "Palm Springs"
+        }
+    }
+}
