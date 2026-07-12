@@ -1,0 +1,4016 @@
+{
+    "date": "2026-07-12",
+    "last_updated": "2026-07-12 04:44 IST",
+    "total_cities": 1901,
+    "success_cities": 408,
+    "failed_cities": 0,
+    "rankings": {
+        "Mysuru (Mysore)": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Nabadwip": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "P.Gannavaram": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Padrauna": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Padubidri": {
+            "rank1": "Street Fighter",
+            "rank2": "Top Cop",
+            "rank3": "Eddelu Guru",
+            "rank4": "Laddo",
+            "rank5": "Focker-In-Law",
+            "rank6": "Kla Kla Klee Klee Nazriya Thirinjunookki",
+            "rank7": "Janarinda Nanu Mele Bande",
+            "rank8": "Gatto"
+        },
+        "Pakala": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pala": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Palakollu": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Palakurthy": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Palani": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Palanpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Palapetty": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Palasa": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pali": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Palia Kalan": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Pallickathodu": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Pallipalayam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Palluruthy": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Palwal": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "Palwancha": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Pamidi": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Pamuru": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Panachamoodu": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Panapakkam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Panchkula": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "Pandalam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Pandavapura": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Pandharkawada": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Pandharpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Panipat": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "Panruti": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Pansemal": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Paonta Sahib": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Papanasam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Paralakhemundi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Mahaprabhu Jagannath",
+            "rank8": "Evil Dead Burn"
+        },
+        "Parappanangadi": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Paratwada": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Parigi (Telangana)": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Parkal": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Parli": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Parvathipuram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pasighat": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Patan": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Patan (Satara)": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Pathanamthitta": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Pathanapuram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Pathankot": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Pathsala": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Koka Deuta Nati Aru Hati 2",
+            "rank4": "Cocktail 2",
+            "rank5": "Moana",
+            "rank6": "The Odyssey",
+            "rank7": "Dhamaal 4"
+        },
+        "Patiala": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Patna": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Cocktail 2",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "The Odyssey",
+            "rank6": "Dhamaal 4",
+            "rank7": "Alpha",
+            "rank8": "Obsession"
+        },
+        "Patran": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Pattambi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Pavagada": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Payakaraopeta": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Payyanur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Pazhayannur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Pebbair": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Pedana": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Pedapadu": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Peddapuram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pen": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Pennagaram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Penuganchiprolu": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Penugonda": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Perambalur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Peringottukurissi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Periyapatna": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Perundurai": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Petlad": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Phagwara": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Phaltan": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Piduguralla": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pilani": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Pilibhit": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Pimpri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Pinjore": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "Pipraich": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Pithapuram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pithora": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Baby Do Die Do",
+            "rank4": "The Odyssey",
+            "rank5": "Minions & Monsters",
+            "rank6": "Moana",
+            "rank7": "Lenin",
+            "rank8": "M.S. Dhoni: The Untold Story"
+        },
+        "Pitlam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Pochampally": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Podalakur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Polavaram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pondicherry": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Ponduru": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Ponnamaravathi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Ponnani": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Ponneri": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Poovar": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Port Blair": {
+            "rank1": "Gatta Kusthi 2",
+            "rank2": "Alpha"
+        },
+        "Pratapgarh (Rajasthan)": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Prayagraj (Allahabad)": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Proddatur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Pudukkottai": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Pulgaon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Pulivendula": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Puliyangudi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Pulpally": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Punganur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Puranpur": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Purnea": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Cocktail 2",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "The Odyssey",
+            "rank6": "Dhamaal 4",
+            "rank7": "Alpha",
+            "rank8": "Obsession"
+        },
+        "Pusad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Pushkar": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Puthenvelikara": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Puthoor": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Radhamoni": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Raebareli": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Raghunathganj": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Rahata": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Rahimatpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Rahuri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Raibag": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Raigad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Raigarh": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Baby Do Die Do",
+            "rank4": "The Odyssey",
+            "rank5": "Minions & Monsters",
+            "rank6": "Moana",
+            "rank7": "Lenin",
+            "rank8": "M.S. Dhoni: The Untold Story"
+        },
+        "Raikot": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Railway Koduru": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Raipur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Baby Do Die Do",
+            "rank4": "The Odyssey",
+            "rank5": "Minions & Monsters",
+            "rank6": "Moana",
+            "rank7": "Lenin",
+            "rank8": "M.S. Dhoni: The Untold Story"
+        },
+        "Raipuriya": {
+            "rank1": "Street Fighter",
+            "rank2": "Top Cop",
+            "rank3": "Eddelu Guru",
+            "rank4": "Laddo",
+            "rank5": "Focker-In-Law",
+            "rank6": "Kla Kla Klee Klee Nazriya Thirinjunookki",
+            "rank7": "Janarinda Nanu Mele Bande",
+            "rank8": "Gatto"
+        },
+        "Raja Ka Bagh": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Rajam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Rajapalayam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Rajapur": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Rajarampalli": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Rajgangpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Mahaprabhu Jagannath",
+            "rank8": "Evil Dead Burn"
+        },
+        "Rajgurunagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Rajiana": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Rajpipla": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Rajpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Rajpura": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Rajula": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Ramanagara": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Ramanathapuram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Rameswarpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Ramgarh": {
+            "rank1": "Street Fighter",
+            "rank2": "Top Cop",
+            "rank3": "Eddelu Guru",
+            "rank4": "Laddo",
+            "rank5": "Focker-In-Law",
+            "rank6": "Kla Kla Klee Klee Nazriya Thirinjunookki",
+            "rank7": "Janarinda Nanu Mele Bande",
+            "rank8": "Gatto"
+        },
+        "Ramgarhwa": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Cocktail 2",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "The Odyssey",
+            "rank6": "Dhamaal 4",
+            "rank7": "Alpha",
+            "rank8": "Obsession"
+        },
+        "Ramjibanpur": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Ramnagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Main Vaapas Aaunga",
+            "rank7": "Carry on Jatta 4"
+        },
+        "Rampur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Ranaghat": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Ranchi": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "M.S. Dhoni: The Untold Story",
+            "rank4": "Cocktail 2",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Minions & Monsters",
+            "rank7": "Obsession",
+            "rank8": "Awarapan 2"
+        },
+        "Ranebennur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Rangia": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Koka Deuta Nati Aru Hati 2",
+            "rank4": "Cocktail 2",
+            "rank5": "Moana",
+            "rank6": "The Odyssey",
+            "rank7": "Dhamaal 4"
+        },
+        "Raniganj": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Ranni": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Rasipuram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Ratlam": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Ratnagiri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Ratnagiri (Odisha)": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Mahaprabhu Jagannath",
+            "rank8": "Evil Dead Burn"
+        },
+        "Ravulapalem": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Rayachoti": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Rayagada": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Mahaprabhu Jagannath",
+            "rank8": "Evil Dead Burn"
+        },
+        "Rentachintala": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Renukoot": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Repalle": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Revdanda": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Rewari": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "RiBhoi": {
+            "rank1": "The Odyssey",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Evil Dead Burn"
+        },
+        "Rishra": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Robertsganj": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Rohtak": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "Ron": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Rongjeng": {
+            "rank1": "The Odyssey",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Evil Dead Burn"
+        },
+        "Routhulapudi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Rudrapur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Main Vaapas Aaunga",
+            "rank7": "Carry on Jatta 4"
+        },
+        "Rupnagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Sabbavaram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sadasivpet": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Safidon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "Sagwara": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Sahibganj": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Sahjanwa": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Sakleshpur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Sakti": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Baby Do Die Do",
+            "rank4": "The Odyssey",
+            "rank5": "Minions & Monsters",
+            "rank6": "Moana",
+            "rank7": "Lenin",
+            "rank8": "M.S. Dhoni: The Untold Story"
+        },
+        "Salem": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Saligrama": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Salur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sambalpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Mahaprabhu Jagannath",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sambhal": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Sambhar": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Samsi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Sanand": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Sanawad": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Sangaria": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Sangola": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Sangrur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Sankarankoil": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Sankarapuram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Sankeshwar": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Sankri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Main Vaapas Aaunga",
+            "rank7": "Carry on Jatta 4"
+        },
+        "Saoner": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Sarangarh": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Baby Do Die Do",
+            "rank4": "The Odyssey",
+            "rank5": "Minions & Monsters",
+            "rank6": "Moana",
+            "rank7": "Lenin",
+            "rank8": "M.S. Dhoni: The Untold Story"
+        },
+        "Sarangpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Sarapaka": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Sardhana": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Sardulgarh": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Sarni": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Satana": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Satara": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Sathankulam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Sathupally": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Sathyamangalam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Sattenapalle": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sawai Madhopur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Sawantwadi": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Sayan": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Secunderabad": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Seethanagaram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Semiliguda": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Mahaprabhu Jagannath",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sendhwa": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Sengottai": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Seoni": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Seoni Malwa": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Serampore": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Shahapur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Shahjahanpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Shahpura": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Shajapur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Shamgarh": {
+            "rank1": "Street Fighter",
+            "rank2": "Top Cop",
+            "rank3": "Eddelu Guru",
+            "rank4": "Laddo",
+            "rank5": "Focker-In-Law",
+            "rank6": "Kla Kla Klee Klee Nazriya Thirinjunookki",
+            "rank7": "Janarinda Nanu Mele Bande",
+            "rank8": "Gatto"
+        },
+        "Shankarampet": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Shela": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Sheopur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Sheorinarayan": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Baby Do Die Do",
+            "rank4": "The Odyssey",
+            "rank5": "Minions & Monsters",
+            "rank6": "Moana",
+            "rank7": "Lenin",
+            "rank8": "M.S. Dhoni: The Untold Story"
+        },
+        "Shikaripur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Shikarpur": {
+            "rank1": "Lenin",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Idhayam Murali"
+        },
+        "Shikrapur": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Shillong": {
+            "rank1": "The Odyssey",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Evil Dead Burn"
+        },
+        "Shirali": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Shirur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Shivamogga": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Shivpuri": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Shopian": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Shoranur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Shuklaganj": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Siddharthnagar": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Siddhpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Siddipet": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Sidlaghatta": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Sihora": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Siliguri": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Silvassa": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Sindhudurg": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Singapore": {
+            "rank1": "Lenin",
+            "rank2": "Idhayam Murali",
+            "rank3": "Spider-Man: Brand New Day"
+        },
+        "Singarayakonda": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Singrauli": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "M.S. Dhoni: The Untold Story",
+            "rank5": "Nagabandham - The Secret Treasure",
+            "rank6": "Obsession",
+            "rank7": "Minions & Monsters",
+            "rank8": "Baby Do Die Do"
+        },
+        "Sircilla": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Sirohi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Sirsa": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "Sirsi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Siruguppa": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Sitamarhi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Cocktail 2",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "The Odyssey",
+            "rank6": "Dhamaal 4",
+            "rank7": "Alpha",
+            "rank8": "Obsession"
+        },
+        "Sitapur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Sivakasi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Siwan": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Solapur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Solukhumbu": {
+            "rank1": "Lenin",
+            "rank2": "Idhayam Murali",
+            "rank3": "Spider-Man: Brand New Day"
+        },
+        "Sompeta": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Sonari": {
+            "rank1": "Street Fighter",
+            "rank2": "Top Cop",
+            "rank3": "Eddelu Guru",
+            "rank4": "Laddo",
+            "rank5": "Focker-In-Law",
+            "rank6": "Kla Kla Klee Klee Nazriya Thirinjunookki",
+            "rank7": "Janarinda Nanu Mele Bande",
+            "rank8": "Gatto"
+        },
+        "Sonipat": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Main Vaapas Aaunga",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Baby Do Die Do",
+            "rank5": "The Odyssey",
+            "rank6": "Cocktail 2",
+            "rank7": "The Invite",
+            "rank8": "Obsession"
+        },
+        "Soron": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Sri Ganganagar": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Sri Sathya Sai": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Srikakulam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Srinagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Dhamaal 4",
+            "rank6": "Minions & Monsters",
+            "rank7": "Alpha",
+            "rank8": "Baby Do Die Do"
+        },
+        "Srivaikuntam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Station Ghanpur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Sujangarh": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Sukma": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Sultanpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Sulthan Bathery": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Sundar Nagar": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Moana",
+            "rank3": "The Odyssey",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Obsession",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Cocktail 2",
+            "rank8": "Carry on Jatta 4"
+        },
+        "Supaul": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Surat": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Surendranagar": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Suri": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Suryapet": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Tadikalapudi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Talcher": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Taliparamba": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Tallapudi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Tallarevu": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Talwandi Bhai": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Sarpanch",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Baby Do Die Do",
+            "rank6": "Lenin",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Dhamaal 4"
+        },
+        "Tamluk": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Tangla": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Koka Deuta Nati Aru Hati 2",
+            "rank4": "Cocktail 2",
+            "rank5": "Moana",
+            "rank6": "The Odyssey",
+            "rank7": "Dhamaal 4"
+        },
+        "Tanuku": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Tarapur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Tarikere": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Tasgaon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Tatipaka": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Tekkali": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Tenkasi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Terdal": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Tezpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Koka Deuta Nati Aru Hati 2",
+            "rank4": "Cocktail 2",
+            "rank5": "Moana",
+            "rank6": "The Odyssey",
+            "rank7": "Dhamaal 4"
+        },
+        "Thalassery": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Thalikulam": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Thamarassery": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Thanjavur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Tharad": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Theni": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Thirubuvanai": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Thiruthuraipoondi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Thiruvalla": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Thiruvarur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Thodupuzha": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Thoothukudi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Thorrur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Thrissur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Thullur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Tilda Neora": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Baby Do Die Do",
+            "rank4": "The Odyssey",
+            "rank5": "Minions & Monsters",
+            "rank6": "Moana",
+            "rank7": "Lenin",
+            "rank8": "M.S. Dhoni: The Untold Story"
+        },
+        "Tindivanam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Tinsukia": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Koka Deuta Nati Aru Hati 2",
+            "rank4": "Cocktail 2",
+            "rank5": "Moana",
+            "rank6": "The Odyssey",
+            "rank7": "Dhamaal 4"
+        },
+        "Tiptur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Tiruchendur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Tirunelveli": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Tirupati": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Tirupur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Tirur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Tiruvallur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Tiruvannamalai": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Tiruvarur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Titlagarh": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Tonk": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Toopran": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Trichy": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Trivandrum": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Tumakuru (Tumkur)": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Tura": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Udaipur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Cocktail 2",
+            "rank5": "M.S. Dhoni: The Untold Story",
+            "rank6": "The Invite",
+            "rank7": "Baby Do Die Do",
+            "rank8": "Lenin"
+        },
+        "Udaynarayanpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Aajo Ardhangini",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Obsession",
+            "rank7": "Awarapan 2",
+            "rank8": "Alpha"
+        },
+        "Udgir": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Udhampur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Nagabandham - The Secret Treasure",
+            "rank5": "Dhamaal 4",
+            "rank6": "Minions & Monsters",
+            "rank7": "Alpha",
+            "rank8": "Baby Do Die Do"
+        },
+        "Udumalpet": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Ujhani": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Ulikkal": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Ulundurpet": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Umaria": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Umbergaon": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Umbraj": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Umerkote": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Una": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Moana",
+            "rank3": "The Odyssey",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Obsession",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Cocktail 2",
+            "rank8": "Carry on Jatta 4"
+        },
+        "Undavalli": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Unnao": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Uthamapalayam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Uthangarai": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Uthiramerur": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Uthukottai": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Utraula": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Uttarkashi": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Cocktail 2",
+            "rank6": "Main Vaapas Aaunga",
+            "rank7": "Carry on Jatta 4"
+        },
+        "Vadakkencherry": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Vadanappally": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Vadodara": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Vaduj": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Vaijapur": {
+            "rank1": "Forgotten Island",
+            "rank2": "Bloody Romeo",
+            "rank3": "Boiragi",
+            "rank4": "Panchama Adhyaya",
+            "rank5": "Dastaar",
+            "rank6": "Gabru",
+            "rank7": "Tina And Lolo",
+            "rank8": "Keu Bole Biplobi Keu Bole Dakat"
+        },
+        "Valigonda": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Valsad": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Vapi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Varadaiahpalem": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Varadiyam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Varanasi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "Cocktail 2",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "The Odyssey",
+            "rank8": "Baby Do Die Do"
+        },
+        "Vasind": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Vatsavai": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Veeraghattam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Velangi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Velanja": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Velanthavalam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Vellampalli": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Vempalli": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vemulawada": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Vengurla": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Venkatapuram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Vetapalem": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vettavalam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Vijayapura (Bengaluru Rural)": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Vijayapura (Bijapur)": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Vijayarai": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vijayawada": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vikarabad": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Vikravandi": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Villupuram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Virudhachalam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Virudhunagar": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Visnagar": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Nagabandham - The Secret Treasure",
+            "rank4": "The Odyssey",
+            "rank5": "Baby Do Die Do",
+            "rank6": "M.S. Dhoni: The Untold Story",
+            "rank7": "Dhamaal 4",
+            "rank8": "Lenin"
+        },
+        "Vissannapeta": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vithlapur": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Vizianagaram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vuyyuru": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Vyara": {
+            "rank1": "Khatra",
+            "rank2": "Devanobba Jadugara",
+            "rank3": "Jeevan Bheema Yojana",
+            "rank4": "Chupa Chupi",
+            "rank5": "Manmadha",
+            "rank6": "Jana Nayakudu",
+            "rank7": "GDN",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Wadakkancherry": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "Wai": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Wanaparthy": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Wani": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Wardha": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Washim": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Wayanad": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Kireedam",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "FIFA World Cup 2026 - Argentina Vs Switzerland",
+            "rank5": "Idhayam Murali",
+            "rank6": "Balan: The Boy",
+            "rank7": "I, Nobody"
+        },
+        "West Kameng": {
+            "rank1": "Lenin",
+            "rank2": "Dhamaal 4",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Alpha",
+            "rank5": "Evil Dead Burn",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "The Odyssey"
+        },
+        "Yadagirigutta": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Yanam": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Yavatmal": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "M.S. Dhoni: The Untold Story",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Obsession",
+            "rank6": "Baby Do Die Do",
+            "rank7": "Cocktail 2",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Yelagiri": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Jana Nayagan",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Idhayam Murali",
+            "rank5": "Run",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "The Odyssey",
+            "rank8": "Lenin"
+        },
+        "Yelburga": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Lenin",
+            "rank5": "Jana Nayagan",
+            "rank6": "The Odyssey",
+            "rank7": "Nagabandham - The Secret Treasure",
+            "rank8": "Mother Promise"
+        },
+        "Yeleswaram": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Yellandu": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Yellareddypet": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Yemmiganur": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Yerragondapalem": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Yerraguntla": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Lenin",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Rao Bahadur",
+            "rank7": "Maa Inti Bangaaram",
+            "rank8": "Toxic: A Fairy Tale for Grown-ups"
+        },
+        "Yewat": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        },
+        "Zaheerabad": {
+            "rank1": "M.S. Dhoni: The Untold Story",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Lenin",
+            "rank4": "The Odyssey",
+            "rank5": "Peddi",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Moana",
+            "rank8": "Nagabandham - The Secret Treasure"
+        },
+        "Zarap": {
+            "rank1": "Saumya Ganesh",
+            "rank2": "Teju",
+            "rank3": "Debi",
+            "rank4": "Gandhi Memorabilia",
+            "rank5": "Rythu",
+            "rank6": "Dikri Che Mahan",
+            "rank7": "Aadarsha Kutumbam House No: 47",
+            "rank8": "Me with the King Kempegowda"
+        }
+    }
+}
