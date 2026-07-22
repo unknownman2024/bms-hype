@@ -1,0 +1,5429 @@
+{
+    "date": "2026-07-22",
+    "last_updated": "2026-07-22 04:54 IST",
+    "total_cities": 1901,
+    "success_cities": 553,
+    "failed_cities": 0,
+    "rankings": {
+        "Nandipet": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Nandurbar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Nandyal": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Nanjanagudu": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Narasannapeta": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Narayanpet": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Narayanpur (Assam)": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Narayanpur (CH)": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Nargund": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Narnaul": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ishqnama",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Main Vaapas Aaunga"
+        },
+        "Narsampet": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Narsinghpur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Narsipatnam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Nashik": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Natham": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Nathdwara": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Nautanwa": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Nawada": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Nawanshahr": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Nayagarh": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Nazira": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Jan Neta",
+            "rank8": "Dhamaal 4"
+        },
+        "Nazirpur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Nedumbassery": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Neelapalli": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Neemuch": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Nelakondapalli": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Nellimarla": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Nellore": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Nemmara": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Nepalgunj": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Neral": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "New Tehri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Awarapan 2",
+            "rank6": "Ramayana",
+            "rank7": "Dhamaal 4",
+            "rank8": "Jana Nayagan"
+        },
+        "Neyveli": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Nichlaul": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Nidadavolu": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Nilagiri": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Nilakottai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Nilgiris": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Nimbahera": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Nipani": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Niphad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Nirjuli": {
+            "rank1": "Jana Nayagan",
+            "rank2": "The Odyssey",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Dhamaal 4",
+            "rank5": "Lenin",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Evil Dead Burn"
+        },
+        "Nizamabad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Nokha": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Nurpur": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Nuzvid": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Oddanchatram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Ojhar": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Ongole": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Ooty": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Orchha": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "P.Gannavaram": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Padrauna": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Pakala": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pala": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Palakkad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Palakollu": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Palakurthy": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Palamaner": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Palani": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Palapetty": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Palasa": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Palghar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Pali": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Palia Kalan": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Palladam": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Pallipalayam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Palluruthy": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Palwancha": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Pamarru": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pamuru": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Panaji": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "The Odyssey",
+            "rank5": "Alpha",
+            "rank6": "Nagabandham - The Secret Treasure"
+        },
+        "Panchgani": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Panchkula": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ishqnama",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Main Vaapas Aaunga"
+        },
+        "Pandavapura": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Pandhana": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Pandharkawada": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Pandua": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Panna": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Panruti": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Papanasam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Paradeep": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Jan Neta",
+            "rank5": "Ramayana",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Parappanangadi": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Parbhani": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Parchur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Parkal": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Parli": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Parvathipuram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Parwanoo": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Ramayana",
+            "rank6": "Welcome To The Jungle",
+            "rank7": "Ishqnama"
+        },
+        "Patan": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Patan (Satara)": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Pathalgaon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Pathanapuram": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Pathankot": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Pathapatnam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pathsala": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Jan Neta",
+            "rank8": "Dhamaal 4"
+        },
+        "Patiala": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Patna": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Pattambi": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Pattukkottai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Pavagada": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Payyoli": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Payyanur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Pebbair": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Pazhayannur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Pedana": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Pedanandipadu": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pedapadu": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Peddapalli": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Pen": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Pendra": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Penuganchiprolu": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pennagaram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Peralam": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Perambalur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Peringamala": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Peravoor": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Peringottukurissi": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Perinthalmanna": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Periyapatna": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Pernambut": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Petlad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Phagwara": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Phaltan": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Phulbani": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Piduguralla": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pileru": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pilibhit": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Pimpri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Pinjore": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ishqnama",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Main Vaapas Aaunga"
+        },
+        "Pipariya": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Ramayana",
+            "rank8": "Cocktail 2"
+        },
+        "Pipraich": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Pithampur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Pithapuram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pithora": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Pitlam": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Pochampally": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Polavaram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Podalakur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pollachi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Pondicherry": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Ponduru": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Ponnamaravathi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Ponnani": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Ponneri": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Poovar": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Porbandar": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Port Blair": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Assi"
+        },
+        "Pratapgarh (UP)": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Pratapgarh (Rajasthan)": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Proddatur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Pudukkottai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Pulgaon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Puliampatti": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Pulivendula": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Puliyangudi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Pulluvila": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Pulpally": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Pulwama": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Punalur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Punganur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Puri": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Jan Neta",
+            "rank5": "Ramayana",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Purnea": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Purulia": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Pusad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Pushkar": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Puthenvelikara": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Puthenvelikkara": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Puthoor": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Puttur (Andhra Pradesh)": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Puttur (Karnataka)": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Rabkavi Banhatti": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Raebareli": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Radhamoni": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Raghunathganj": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Raghopur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Rahimatpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Rahuri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Raichur": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Raigad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Raiganj": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Raigarh": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Raikal": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Raikot": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Railway Koduru": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Raipur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Raipuriya": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Raisinghnagar": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Raja Ka Bagh": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Rajam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Rajamahendravaram (Rajahmundry)": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Rajapalayam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Rajapur": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Rajgangpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Jan Neta",
+            "rank5": "Ramayana",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Rajavommangi": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Rajgurunagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Rajiana": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Rajkot": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Rajnandgaon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Rajpipla": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Rajpur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Rajpura": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Ramachandrapuram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Rajula": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Ramanagara": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Ramanathapuram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Ramdurg": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Rameswarpur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Ramgarh": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Ramgarhwa": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Ramnagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "Ramayana",
+            "rank8": "Jana Nayagan"
+        },
+        "Rampur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Ranaghat": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Ramtek": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Ranebennur": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Ranchi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Ramayana",
+            "rank5": "Awarapan 2",
+            "rank6": "Jana Nayagan",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Ranipet": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Raniganj": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Rapur": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Ranni": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Rasipuram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Rath": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Ratlam": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Ratnagiri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Ratnagiri (Odisha)": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Jan Neta",
+            "rank5": "Ramayana",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Ravulapalem": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Raxaul": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Rayachoti": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Rayakottai": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Rayavaram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Rentachintala": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Repalle": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Rewa": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Rewari": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ishqnama",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Main Vaapas Aaunga"
+        },
+        "RiBhoi": {
+            "rank1": "Spider-Man: Brand New Day"
+        },
+        "Ringas": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Rishikesh": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "Ramayana",
+            "rank8": "Jana Nayagan"
+        },
+        "Rishra": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Rongjeng": {
+            "rank1": "Spider-Man: Brand New Day"
+        },
+        "Ron": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Roorkee": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "Ramayana",
+            "rank8": "Jana Nayagan"
+        },
+        "Routhulapudi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Rudrapur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "Ramayana",
+            "rank8": "Jana Nayagan"
+        },
+        "Rupnagar": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Sabbavaram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Sadasivpet": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Safidon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ishqnama",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Main Vaapas Aaunga"
+        },
+        "Sagar": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Ramayana",
+            "rank8": "Cocktail 2"
+        },
+        "Sagwara": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Saharanpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Sahibganj": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Sakti": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Sakleshpur": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Salihundam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Saligrama": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Salur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Samalkota": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Samastipur": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Sambalpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Jan Neta",
+            "rank5": "Ramayana",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Sambhal": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Sambhar": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Samsi": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Sanand": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Sangamner": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Sangaria": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Sangareddy": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Sangli": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Sangrur": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Sankarankoil": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Sankarapuram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Sankeshwar": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sankri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Awarapan 2",
+            "rank6": "Ramayana",
+            "rank7": "Dhamaal 4",
+            "rank8": "Jana Nayagan"
+        },
+        "Santhebennur": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sanwer": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Ramayana",
+            "rank8": "Cocktail 2"
+        },
+        "Saoner": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Sarangpur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Saraipali": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Sarapaka": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sarni": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Sarnath": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Sarsiwa": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Sasaram": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Satara": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Satana": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Sathupally": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sathankulam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Sathyamangalam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Satmile": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Sattenapalle": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Saundatti": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sawai Madhopur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Sawantwadi": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Seethanagaram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Secunderabad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Sehore": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Sehmalpur": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Selu": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Semiliguda": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Jan Neta",
+            "rank5": "Ramayana",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Senapati": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Sengottai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayakudu",
+            "rank4": "The Odyssey",
+            "rank5": "Gatta Kusthi 2",
+            "rank6": "Idhayam Murali",
+            "rank7": "Anbe Diana",
+            "rank8": "Jan Neta"
+        },
+        "Sendurai": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Seoni": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Ramayana",
+            "rank8": "Cocktail 2"
+        },
+        "Seoni Malwa": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Serampore": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "The Odyssey",
+            "rank4": "Aajo Ardhangini",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Evil Dead Burn",
+            "rank8": "Awarapan 2"
+        },
+        "Shahada": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Shahdol": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Ramayana",
+            "rank8": "Cocktail 2"
+        },
+        "Shahapur": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Shahjahanpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Shajapur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Ramayana",
+            "rank8": "Cocktail 2"
+        },
+        "Shahpura": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Shamgarh": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Shamli": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Shankarampet": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Shankarpally": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Shela": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Sheopur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Shikaripur": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Shikarpur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey"
+        },
+        "Shikrapur": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Shillong": {
+            "rank1": "Spider-Man: Brand New Day"
+        },
+        "Shindkheda": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Shimla": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Ramayana",
+            "rank6": "Welcome To The Jungle",
+            "rank7": "Ishqnama"
+        },
+        "Shirahatti": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Shirali": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Shirpur": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Shirur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Shivamogga": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Shrigonda": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Shoranur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Shrirampur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Siddharthnagar": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Siddhpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Siddipet": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sidlaghatta": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sikar": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Silchar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Jan Neta",
+            "rank8": "Dhamaal 4"
+        },
+        "Siliguri": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Silvassa": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Sindhanur": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Singarayakonda": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Singapore": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey"
+        },
+        "Singrauli": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Sinnar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Sircilla": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Sirmaur": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Sirohi": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Sirsa": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ishqnama",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Main Vaapas Aaunga"
+        },
+        "Sirsi": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Siruguppa": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Sitamarhi": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Sitapur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Sivaganga": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Sivakasi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Sivasagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Jan Neta",
+            "rank8": "Dhamaal 4"
+        },
+        "Solan": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "The Odyssey",
+            "rank4": "Ramayana",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Welcome To The Jungle",
+            "rank7": "Ishqnama"
+        },
+        "Solapur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Solukhumbu": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey"
+        },
+        "Sonari": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Songadh": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Sonipat": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ishqnama",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Main Vaapas Aaunga"
+        },
+        "Soron": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Sonkatch": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Ramayana",
+            "rank8": "Cocktail 2"
+        },
+        "Sri Ganganagar": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "South 24 Parganas": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Sri Sathya Sai": {
+            "rank1": "Tumbbad 2",
+            "rank2": "Bhuiyan",
+            "rank3": "Nriti",
+            "rank4": "Aasish",
+            "rank5": "Madhuramee Jeevitham",
+            "rank6": "Pinjar",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Srikakulam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Srinagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Main Vaapas Aaunga",
+            "rank4": "Ishqnama",
+            "rank5": "Ramayana",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Jana Nayagan",
+            "rank8": "Baby Do Die Do"
+        },
+        "Srirangapatna": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Srivaikuntam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Srivilliputhur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Sugauli": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ramayana",
+            "rank5": "Jan Neta",
+            "rank6": "Jana Nayagan",
+            "rank7": "Awarapan 2",
+            "rank8": "Dhamaal 4"
+        },
+        "Sultanpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Sulthan Bathery": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Sumerpur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Sundar Nagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "The Odyssey",
+            "rank4": "Ramayana",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Welcome To The Jungle",
+            "rank7": "Ishqnama"
+        },
+        "Sundargarh": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Jan Neta",
+            "rank5": "Ramayana",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Surajpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "The Odyssey",
+            "rank7": "Jan Neta",
+            "rank8": "Awarapan 2"
+        },
+        "Surat": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Surendranagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Suryapet": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Suri": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Tadepalligudem": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tadikalapudi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Talcher": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Tallapudi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tallarevu": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tamluk": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Talwandi Bhai": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Tanda": {
+            "rank1": "Ishqnama",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Jana Nayagan",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Ramayana",
+            "rank7": "Dastaar"
+        },
+        "Tandur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Tangla": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Jan Neta",
+            "rank8": "Dhamaal 4"
+        },
+        "Tangutur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tanuku": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tarapur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Tasgaon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Tarikere": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Tekkali": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tembhurni": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Tenali": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tenkasi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Terdal": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Tezpur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Jan Neta",
+            "rank8": "Dhamaal 4"
+        },
+        "Tezu": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Thalayolaparambu": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Thalassery": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Thalikulam": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Thallada": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Thamarassery": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Thanipadi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Thimmapuram (Addu Road)": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Thanjavur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Thirumalagiri": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Evil Dead Burn"
+        },
+        "Thirubuvanai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Thiruthuraipoondi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Thiruttani": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Thiruvarur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Thiruvalla": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Thodupuzha": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Thoothukudi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Thorrur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Thottiyam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Thriprayar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Thrissur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Thullur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tindivanam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tinsukia": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Jan Neta",
+            "rank8": "Dhamaal 4"
+        },
+        "Tiptur": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Tiruchendur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tirukoilur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tirumakudalu Narasipura": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Tirunelveli": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tirupati": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Tirupur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tirupattur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tiruvallur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tirur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Tiruvannamalai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tiruvarur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Tiruvuru": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Titlagarh": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Tonk": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Toopran": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Trichy": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Trivandrum": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Tumakuru (Tumkur)": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Tumsar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Tura": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Turuvekere": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Udaipur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Jana Nayagan",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Jan Neta",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana"
+        },
+        "Udaynarayanpur": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Udgir": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Udumalpet": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Udupi": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Ujjain": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Ramayana",
+            "rank8": "Cocktail 2"
+        },
+        "Ulikkal": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Uluberia": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "The Odyssey",
+            "rank5": "Jana Nayagan",
+            "rank6": "Jan Neta",
+            "rank7": "Aajo Ardhangini"
+        },
+        "Ulundurpet": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Umaria": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Umbergaon": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Umbraj": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Umerkote": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Umred": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Una": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "The Odyssey",
+            "rank4": "Ramayana",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Welcome To The Jungle",
+            "rank7": "Ishqnama"
+        },
+        "Una (Gujarat)": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Unnao": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Uppada": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Uthiramerur": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Uthukottai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Utraula": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Uttara Kannada": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Uttarkashi": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "Ramayana",
+            "rank8": "Jana Nayagan"
+        },
+        "Vadakara": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Vadakkencherry": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Vadalur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Vadanappally": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Vadodara": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Vaduj": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Valaparla": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Valanchery": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Valigonda": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Valsad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Vaniyambadi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Vapi": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Varadiyam": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Varadaiahpalem": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Varanasi": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Awarapan 2",
+            "rank5": "The Odyssey",
+            "rank6": "Ramayana",
+            "rank7": "Jana Nayagan",
+            "rank8": "Dhamaal 4"
+        },
+        "Varkala": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Vatsavai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Vasind": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Vedasandur": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Veeraghattam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Velangi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Velanja": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Vellampalli": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Vellakoil": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Velugodu": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Vellore": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Vempalli": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Vemulawada": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Vengurla": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Venkatapuram": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Veraval": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Vetapalem": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Vettavalam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Vidisha": {
+            "rank1": "Avengers: Doomsday",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Awarapan 2",
+            "rank7": "Cocktail 2",
+            "rank8": "Ramayana"
+        },
+        "Vijapur": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Vijayapura (Bengaluru Rural)": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Vijayarai": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Vijayawada": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Vikarabad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Vikasnagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Avengers: Doomsday",
+            "rank3": "The Odyssey",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Awarapan 2",
+            "rank6": "Dhamaal 4",
+            "rank7": "Ramayana",
+            "rank8": "Jana Nayagan"
+        },
+        "Vikravandi": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Villupuram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Vinukonda": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Virudhachalam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Viralimalai": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Virudhunagar": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Visnagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Ramayana",
+            "rank6": "Mein to Palavade Bandhi Preet",
+            "rank7": "The Odyssey",
+            "rank8": "Dhamaal 4"
+        },
+        "Vita": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Vithlapur": {
+            "rank1": "Antha Naal",
+            "rank2": "Vibho",
+            "rank3": "Gabru",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Srinivasa Mangapuram",
+            "rank6": "Eetha",
+            "rank7": "Guruji Namaskar",
+            "rank8": "Maharaja Hostel"
+        },
+        "Vizag (Visakhapatnam)": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Vizianagaram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Vyara": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Vuyyuru": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Wadakkancherry": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "Wai": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Waluj": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Wanaparthy": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Warangal": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Wani": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Wardha": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Washim": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Wayanad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "Varavu",
+            "rank6": "Evil Dead Burn",
+            "rank7": "Toxic: A Fairy Tale for Grown-ups",
+            "rank8": "Balan: The Boy"
+        },
+        "West Kameng": {
+            "rank1": "Jana Nayagan",
+            "rank2": "The Odyssey",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Dhamaal 4",
+            "rank5": "Lenin",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Evil Dead Burn"
+        },
+        "Wyra": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Yamunanagar": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "The Odyssey",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Ishqnama",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Dhamaal 4",
+            "rank7": "Main Vaapas Aaunga"
+        },
+        "Yanam": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Yangon": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey"
+        },
+        "Yavatmal": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Jana Nayagan",
+            "rank5": "The Odyssey",
+            "rank6": "Jan Neta",
+            "rank7": "Awarapan 2",
+            "rank8": "Ramayana"
+        },
+        "Yelagiri": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "The Odyssey",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Jana Nayakudu",
+            "rank6": "Gatta Kusthi 2",
+            "rank7": "Idhayam Murali",
+            "rank8": "Jan Neta"
+        },
+        "Yeleswaram": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Yelburga": {
+            "rank1": "Karavali",
+            "rank2": "Jana Nayagan",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "The Odyssey",
+            "rank7": "Ramayana",
+            "rank8": "Evil Dead Burn"
+        },
+        "Yellandu": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Yellamanchili": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Yellareddypet": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Yellareddy": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Yeola": {
+            "rank1": "Adraa Raja Adidaa Nature Is Watching",
+            "rank2": "O",
+            "rank3": "Kaam Chalu Hai",
+            "rank4": "Vaan",
+            "rank5": "Dil Hamar Mane Na",
+            "rank6": "Two Zero One Four",
+            "rank7": "Bhoot Ji",
+            "rank8": "Adventure of Jetcat 7D - Combo"
+        },
+        "Yerragondapalem": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Yerraguntla": {
+            "rank1": "Jana Nayagan",
+            "rank2": "Chennai Love Story",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Jana Nayakudu",
+            "rank5": "Lenin",
+            "rank6": "The Odyssey",
+            "rank7": "Avengers: Doomsday",
+            "rank8": "Peddi"
+        },
+        "Yewat": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Zaheerabad": {
+            "rank1": "Spider-Man: Brand New Day",
+            "rank2": "Jana Nayagan",
+            "rank3": "Chennai Love Story",
+            "rank4": "The Odyssey",
+            "rank5": "Avengers: Doomsday",
+            "rank6": "Jana Nayakudu",
+            "rank7": "Lenin",
+            "rank8": "Main Vaapas Aaunga"
+        },
+        "Zarap": {
+            "rank1": "Agadha",
+            "rank2": "Shivam Shaivam: The 1989 File Case",
+            "rank3": "Bhogi",
+            "rank4": "Violent Night 2",
+            "rank5": "The Great Beyond",
+            "rank6": "Baaaz In State",
+            "rank7": "Sense and Sensibility",
+            "rank8": "Lurk"
+        },
+        "Ziro": {
+            "rank1": "Jana Nayagan",
+            "rank2": "The Odyssey",
+            "rank3": "Spider-Man: Brand New Day",
+            "rank4": "Dhamaal 4",
+            "rank5": "Lenin",
+            "rank6": "Koka Deuta Nati Aru Hati 2",
+            "rank7": "Evil Dead Burn"
+        }
+    }
+}
