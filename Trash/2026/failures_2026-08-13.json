@@ -1,0 +1,12 @@
+{
+    "date": "2026-08-13",
+    "last_updated": "2026-08-13 04:36 IST",
+    "total_failures": 1,
+    "failures": [
+        {
+            "region": "Angadipuram",
+            "code": "ANDM",
+            "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        }
+    ]
+}
