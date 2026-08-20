@@ -1,0 +1,17 @@
+{
+    "date": "2026-08-20",
+    "last_updated": "2026-08-20 04:16 IST",
+    "total_cities": 1901,
+    "success_cities": 1,
+    "failed_cities": 0,
+    "rankings": {
+        "Agartala": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Spider-Man: Brand New Day",
+            "rank3": "Ramayana",
+            "rank4": "Insidious: Out of The Further",
+            "rank5": "Awarapan 2",
+            "rank6": "Cocktail 2"
+        }
+    }
+}
