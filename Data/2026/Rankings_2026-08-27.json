@@ -1,0 +1,52 @@
+{
+    "date": "2026-08-27",
+    "last_updated": "2026-08-27 08:53 IST",
+    "total_cities": 1901,
+    "success_cities": 5,
+    "failed_cities": 0,
+    "rankings": {
+        "Manawar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Spider-Man: Brand New Day",
+            "rank6": "Mahakali",
+            "rank7": "Insidious: Out of The Further"
+        },
+        "Medak": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Irumudi",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Panjaa",
+            "rank5": "The Paradise",
+            "rank6": "Vishwanath and Sons",
+            "rank7": "Bethlehem Kudumba Unit"
+        },
+        "Shimla": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Gunmaaster G9",
+            "rank3": "Modha Rathri",
+            "rank4": "Mutiny",
+            "rank5": "Toxic: A Fairy Tale for Grown-ups",
+            "rank6": "Spider-Man: Brand New Day"
+        },
+        "Sundargarh": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Hanuman Ansh",
+            "rank3": "The Paradise",
+            "rank4": "Mahakali",
+            "rank5": "Irumudi",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Ramayana",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Vadalur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Jana Nayagan",
+            "rank3": "Bethlehem Kudumba Unit",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Irumudi"
+        }
+    }
+}
