@@ -1,0 +1,196 @@
+{
+    "date": "2026-08-28",
+    "last_updated": "2026-08-28 11:41 IST",
+    "total_cities": 1901,
+    "success_cities": 20,
+    "failed_cities": 0,
+    "rankings": {
+        "Asansol": {
+            "rank1": "Avengers Endgame: Encore",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Spider-Man: Brand New Day",
+            "rank6": "Awarapan 2",
+            "rank7": "Mirzapur: The Movie",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Ashta": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Spider-Man: Brand New Day",
+            "rank7": "120 Bahadur"
+        },
+        "Ashta (Maharashtra)": {
+            "rank1": "Victim",
+            "rank2": "10 Nahi 40",
+            "rank3": "Ayushman Bhava",
+            "rank4": "Chittam Maharani",
+            "rank5": "Vinnaithaandi Varuvaayaa 2",
+            "rank6": "Pachhattar Ka Chhora",
+            "rank7": "Sangeen",
+            "rank8": "Luv Ki Arrange Marriage"
+        },
+        "Asika": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "The Paradise",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Spider-Man: Brand New Day",
+            "rank8": "Ramayana"
+        },
+        "Aswaraopeta": {
+            "rank1": "Panjaa",
+            "rank2": "Irumudi",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Spider-Man: Brand New Day",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Atmakur (Nellore)": {
+            "rank1": "Panjaa",
+            "rank2": "Irumudi",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Vishwanath and Sons",
+            "rank7": "Spider-Man: Brand New Day"
+        },
+        "Atraulia": {
+            "rank1": "Marham: Poetry & Music - Live on Stage",
+            "rank2": "Super Kaand",
+            "rank3": "Behindd",
+            "rank4": "Amartha",
+            "rank5": "GodaKaath",
+            "rank6": "Nenu Naa Lalli",
+            "rank7": "Khaali",
+            "rank8": "Video"
+        },
+        "Attibele": {
+            "rank1": "Victim",
+            "rank2": "10 Nahi 40",
+            "rank3": "Ayushman Bhava",
+            "rank4": "Chittam Maharani",
+            "rank5": "Vinnaithaandi Varuvaayaa 2",
+            "rank6": "Pachhattar Ka Chhora",
+            "rank7": "Sangeen",
+            "rank8": "Luv Ki Arrange Marriage"
+        },
+        "Attili": {
+            "rank1": "Panjaa",
+            "rank2": "Irumudi",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Vishwanath and Sons",
+            "rank7": "Spider-Man: Brand New Day"
+        },
+        "Jamshedpur": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Spider-Man: Brand New Day"
+        },
+        "Jamui": {
+            "rank1": "Point Range",
+            "rank2": "Tyson",
+            "rank3": "Police Channel: Raman Raghav, A City, A Killer",
+            "rank4": "Vachinavaadu Gautam",
+            "rank5": "Backpackers",
+            "rank6": "Tyson Naidu",
+            "rank7": "Ghannu Bhai",
+            "rank8": "Black Bud"
+        },
+        "Jangaon": {
+            "rank1": "Panjaa",
+            "rank2": "Irumudi",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Spider-Man: Brand New Day",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Jangareddy Gudem": {
+            "rank1": "Panjaa",
+            "rank2": "Irumudi",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Vishwanath and Sons",
+            "rank7": "Spider-Man: Brand New Day"
+        },
+        "Kallakurichi": {
+            "rank1": "Avengers Endgame: Encore",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Once More",
+            "rank5": "Jana Nayagan",
+            "rank6": "Vishwanath and Sons",
+            "rank7": "Spider-Man: Brand New Day"
+        },
+        "Kalna": {
+            "rank1": "Kuttrapayirchi",
+            "rank2": "Chaser",
+            "rank3": "Sangeen",
+            "rank4": "Gelupu Geetha Datithe",
+            "rank5": "Sawa Ser Gehun",
+            "rank6": "Luv Ki Arrange Marriage",
+            "rank7": "Point Range",
+            "rank8": "#MUTE"
+        },
+        "Kalol (Gandhinagar)": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Spider-Man: Brand New Day",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Awarapan 2",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Kalwakurthy": {
+            "rank1": "Panjaa",
+            "rank2": "Irumudi",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Spider-Man: Brand New Day",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Kalyani": {
+            "rank1": "Avengers Endgame: Encore",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Spider-Man: Brand New Day",
+            "rank6": "Awarapan 2",
+            "rank7": "Mirzapur: The Movie",
+            "rank8": "Insidious: Out of The Further"
+        },
+        "Kamalaapur": {
+            "rank1": "Panjaa",
+            "rank2": "Irumudi",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Spider-Man: Brand New Day",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Kamareddy": {
+            "rank1": "Panjaa",
+            "rank2": "Irumudi",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Spider-Man: Brand New Day",
+            "rank7": "Avengers: Doomsday"
+        }
+    }
+}
