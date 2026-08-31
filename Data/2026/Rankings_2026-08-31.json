@@ -1,0 +1,73 @@
+{
+    "date": "2026-08-31",
+    "last_updated": "2026-08-31 06:10 IST",
+    "total_cities": 1901,
+    "success_cities": 7,
+    "failed_cities": 0,
+    "rankings": {
+        "Shopian": {
+            "rank1": "Karaar Premacha",
+            "rank2": "Section 108",
+            "rank3": "Ayushman Bhava",
+            "rank4": "Nassebaaz",
+            "rank5": "Pyaar Taan Hai Na",
+            "rank6": "Tesla",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Shrigonda": {
+            "rank1": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Khalnayak Returns",
+            "rank4": "Kallapart",
+            "rank5": "Kaaka",
+            "rank6": "Verity",
+            "rank7": "The Great Beyond",
+            "rank8": "Kadaknath"
+        },
+        "Shrirampur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Awarapan 2"
+        },
+        "Siddharthnagar": {
+            "rank1": "Chappad Phaad Ke",
+            "rank2": "Kettavannu Peredutha Nallavanda",
+            "rank3": "Bedhab",
+            "rank4": "Kuttrapayirchi",
+            "rank5": "Breed",
+            "rank6": "Baby Kajal",
+            "rank7": "Aham Brahmasmi",
+            "rank8": "Vaathiyar Kuppam"
+        },
+        "Siddhpur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Awarapan 2",
+            "rank7": "Insidious: Out of The Further",
+            "rank8": "Batwara 1947"
+        },
+        "Siddipet": {
+            "rank1": "Irumudi",
+            "rank2": "Panjaa",
+            "rank3": "Toxic: A Fairy Tale for Grown-ups",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Spider-Man: Brand New Day",
+            "rank7": "Vishwanath and Sons"
+        },
+        "Sidlaghatta": {
+            "rank1": "Toxic: A Fairy Tale for Grown-ups",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Irumudi",
+            "rank4": "Spider-Man: Brand New Day",
+            "rank5": "Khalifa-The Ruler"
+        }
+    }
+}
