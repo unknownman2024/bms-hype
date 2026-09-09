@@ -1,0 +1,49 @@
+{
+    "date": "2026-09-09",
+    "last_updated": "2026-09-09 05:52 IST",
+    "total_cities": 1901,
+    "success_cities": 4,
+    "failed_cities": 0,
+    "rankings": {
+        "Thiruttani": {
+            "rank1": "Mandaadi",
+            "rank2": "Sardar 2",
+            "rank3": "Gladiators: In Pursuit of Challenges",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Demonte Colony 3",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Mirzapur: The Movie",
+            "rank8": "Once More"
+        },
+        "Thoothukudi": {
+            "rank1": "Mandaadi",
+            "rank2": "Sardar 2",
+            "rank3": "Gladiators: In Pursuit of Challenges",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Demonte Colony 3",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Mirzapur: The Movie",
+            "rank8": "Once More"
+        },
+        "Thorrur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Irumudi",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Sahaa - Life of Sanju",
+            "rank5": "The Paradise",
+            "rank6": "Toxic: A Fairy Tale for Grown-ups",
+            "rank7": "Sardar 2",
+            "rank8": "Immortal"
+        },
+        "Thottiyam": {
+            "rank1": "Mandaadi",
+            "rank2": "Sardar 2",
+            "rank3": "Gladiators: In Pursuit of Challenges",
+            "rank4": "Toxic: A Fairy Tale for Grown-ups",
+            "rank5": "Demonte Colony 3",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Mirzapur: The Movie",
+            "rank8": "Once More"
+        }
+    }
+}
