@@ -1,0 +1,3685 @@
+{
+    "date": "2026-09-29",
+    "last_updated": "2026-09-29 07:35 IST",
+    "total_cities": 1901,
+    "success_cities": 380,
+    "failed_cities": 0,
+    "rankings": {
+        "Hapur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Harda": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Ichchapuram": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Idappadi": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Jalandhar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "VIBE"
+        },
+        "Jamner": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Jamui": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Jangareddy Gudem": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Jhajjar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "VIBE",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "The Vvaan - Force of the Forrest"
+        },
+        "Kandamangalam": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Kankroli": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Kanpur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Karanjia": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Kargi Road": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Karimganj": {
+            "rank1": "NRC - Nalparar Ramchandra",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "Mirzapur: The Movie"
+        },
+        "Kharsia": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Khed": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Kheda": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Kodakara": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Koderma": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Kunda": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Kunigal": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Kunkuri": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Kunnamkulam": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Kuravilangad": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Loni": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Lucknow": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Lunawada": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "MUNNAR": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Mahalingpur": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Mahasamund": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Marthandam": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Mau": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Mayannur": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Medak": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Medchal": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Medininagar": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Meerut": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Mehsana": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Melattur": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Mundra": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Murshidabad": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Muniguda": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Musiri": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Mussoorie": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Heart of the Beast",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "The Vvaan - Force of the Forrest",
+            "rank8": "Spider-Man: Brand New Day"
+        },
+        "Muzaffarnagar": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Mydukur": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Mylavaram": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Mysuru (Mysore)": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Muzaffarpur": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Nabha": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "VIBE"
+        },
+        "Nabarangpur": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Nadia": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Nadiad": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Nagapattinam": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Nagaon": {
+            "rank1": "NRC - Nalparar Ramchandra",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "Mirzapur: The Movie"
+        },
+        "Nagari": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Nagaur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Nagayalanka": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Nagercoil": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Nagothane": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Naharlagun": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Naihati": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Nainital": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Heart of the Beast",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "The Vvaan - Force of the Forrest",
+            "rank8": "Spider-Man: Brand New Day"
+        },
+        "Najafgarh": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Nakhatrana": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Nakodar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "VIBE"
+        },
+        "Nalbari": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Nallajerla": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Namakkal": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Namchi": {
+            "rank1": "The Sheep Detectives"
+        },
+        "Namkhana": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Nandakumar": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Nanded": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Nandikotkur": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Nandurbar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Nandyal": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Nanjanagudu": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Narasannapeta": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Narayankhed": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Narayanpur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Narayanpur (CH)": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Nargund": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Narnaul": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "VIBE",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "The Vvaan - Force of the Forrest"
+        },
+        "Narsapur": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Narsapur (Medak)": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Narsipatnam": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Nashik": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Natham": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Nathdwara": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Resident Evil"
+        },
+        "Navsari": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Nawalgarh": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Nawanshahr": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "VIBE"
+        },
+        "Nawapara": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Nazira": {
+            "rank1": "NRC - Nalparar Ramchandra",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "Mirzapur: The Movie"
+        },
+        "Nazirpur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Nedumbassery": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Neelapalli": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Neemrana": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Nelakondapalli": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Nelamangala": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Nellimoodu": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Nellimarla": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Nellore": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Nenmara": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Ner Parsopant": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Neral": {
+            "rank1": "Tom and Jerry: Forbidden Compass",
+            "rank2": "Lag Ja Gale",
+            "rank3": "Khoonta",
+            "rank4": "Wicker",
+            "rank5": "Swarajya 1942",
+            "rank6": "The Uprising",
+            "rank7": "Fafda Jalebi",
+            "rank8": "The Magic Faraway Tree"
+        },
+        "Nereducharla": {
+            "rank1": "Tom and Jerry: Forbidden Compass",
+            "rank2": "Lag Ja Gale",
+            "rank3": "Khoonta",
+            "rank4": "Wicker",
+            "rank5": "Swarajya 1942",
+            "rank6": "The Uprising",
+            "rank7": "Fafda Jalebi",
+            "rank8": "The Magic Faraway Tree"
+        },
+        "Neyveli": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Nichlaul": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Nilagiri": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Nidadavolu": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Nilakottai": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Nimapara": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Nimbahera": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Nipani": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Niphad": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Nilgiris": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Nirjuli": {
+            "rank1": "Insidious: Out of The Further",
+            "rank2": "Ice Age: Boiling Point"
+        },
+        "Nokha": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Resident Evil"
+        },
+        "Nurpur": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Nooranad": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Nuzvid": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Oddanchatram": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Nyamathi": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Okha": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Ongole": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Ooty": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Orai": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Orchha": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Ottapalam": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "P. Dharmavaram": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "P.Gannavaram": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Padampur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Resident Evil"
+        },
+        "Padubidri": {
+            "rank1": "Tom and Jerry: Forbidden Compass",
+            "rank2": "Lag Ja Gale",
+            "rank3": "Khoonta",
+            "rank4": "Wicker",
+            "rank5": "Swarajya 1942",
+            "rank6": "The Uprising",
+            "rank7": "Fafda Jalebi",
+            "rank8": "The Magic Faraway Tree"
+        },
+        "Padrauna": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Pakala": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Palakkad": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Pala": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Palakollu": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Palakurthy": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Palampur": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Heart of the Beast",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "VIBE"
+        },
+        "Palamaner": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Palanpur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Palapetty": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Palani": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Palasa": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Pali": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Resident Evil"
+        },
+        "Palghar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Palia Kalan": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Palitana": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Palladam": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Pallickathodu": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Pallipalayam": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Palluruthy": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Palwal": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "VIBE",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "The Vvaan - Force of the Forrest"
+        },
+        "Palwancha": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Pamidi": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Pamuru": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Panachamoodu": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Panaji": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dorothy",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore"
+        },
+        "Panchgani": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Panapakkam": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Panchkula": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "VIBE",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "The Vvaan - Force of the Forrest"
+        },
+        "Pandalam": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Pandavapura": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Pandharkawada": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Pandhana": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Pandharpur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Panipat": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "VIBE",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "The Vvaan - Force of the Forrest"
+        },
+        "Pandua": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Panna": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Pansemal": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Panruti": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Paradeep": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Papanasam": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Paralakhemundi": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Parappanangadi": {
+            "rank1": "Tom and Jerry: Forbidden Compass",
+            "rank2": "Lag Ja Gale",
+            "rank3": "Khoonta",
+            "rank4": "Wicker",
+            "rank5": "Swarajya 1942",
+            "rank6": "The Uprising",
+            "rank7": "Fafda Jalebi",
+            "rank8": "The Magic Faraway Tree"
+        },
+        "Parbhani": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Paratwada": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Parchur": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Parigi (Telangana)": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Parli": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Parkal": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Parvathipuram": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Parwanoo": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Heart of the Beast",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "VIBE"
+        },
+        "Pasighat": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Patan": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Patan (Satara)": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Patan (CG)": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Pathalgaon": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Pathankot": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "The Paradise"
+        },
+        "Pathanamthitta": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Pathapatnam": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Patiala": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "The Paradise"
+        },
+        "Patna": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Patran": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "The Paradise"
+        },
+        "Patratu": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Pattambi": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Pattukkottai": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Pavagada": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Payakaraopeta": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Payyanur": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Payyoli": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Pedana": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Pebbair": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Pedapadu": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Peddapalli": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Peddapuram": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Pen": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Pendra": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Pennagaram": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Penuganchiprolu": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Penugonda": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Perambalur": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Peralam": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Peringottukurissi": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Peringamala": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Periyapatna": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Pernambut": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Perundurai": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Petlad": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Phagwara": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "The Paradise"
+        },
+        "Phalodi": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Resident Evil"
+        },
+        "Phaltan": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Phulbani": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Piduguralla": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Pileru": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Pilani": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Pimpri": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Pimpalner": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Pipariya": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Pipraich": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Pithampur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Pithapuram": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Pithora": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Pithoragarh": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Pitlam": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Podili": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Podalakur": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Polavaram": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Ponduru": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Pondicherry": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Ponkunnam": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Ponnamaravathi": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Ponnani": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Poovar": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Ponneri": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Porbandar": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Port Blair": {
+            "rank1": "Bethlehem Kudumba Unit",
+            "rank2": "Azaad Singh",
+            "rank3": "Mahaprabhu Jagannath"
+        },
+        "Pratapgarh (Rajasthan)": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Pratapgarh (UP)": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Prayagraj (Allahabad)": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Proddatur": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Pulgaon": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Puliampatti": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Pulivendula": {
+            "rank1": "Tom and Jerry: Forbidden Compass",
+            "rank2": "Lag Ja Gale",
+            "rank3": "Khoonta",
+            "rank4": "Wicker",
+            "rank5": "Swarajya 1942",
+            "rank6": "The Uprising",
+            "rank7": "Fafda Jalebi",
+            "rank8": "The Magic Faraway Tree"
+        },
+        "Pulluvila": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Puliyangudi": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Pulpally": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Pulwama": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Punalur": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Punganur": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Purnea": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Puri": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Purulia": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Pusad": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Pushkar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Puthenvelikara": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Puthenvelikkara": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Puthoor": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Puttur (Karnataka)": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Puttur (Andhra Pradesh)": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Rabkavi Banhatti": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Radhamoni": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Raghopur": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Raghunathganj": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Rahimatpur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Rahata": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Raichur": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Raibag": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Raigad": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Raigarh": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Raiganj": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Raikal": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Railway Koduru": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Raikot": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Raipuriya": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Raipur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Raja Ka Bagh": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Rajakumari": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Rajam": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Rajamahendravaram (Rajahmundry)": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Rajapur": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Rajarampalli": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Rajavommangi": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Rajgangpur": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Rajgurunagar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Rajiana": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "VIBE"
+        },
+        "Rajkot": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Rajnandgaon": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Drishyam: The Conclusion",
+            "rank8": "Heart of the Beast"
+        },
+        "Rajpur": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Rajpura": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "The Paradise"
+        },
+        "Rajula": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Rajsamand": {
+            "rank1": "Tom and Jerry: Forbidden Compass",
+            "rank2": "Lag Ja Gale",
+            "rank3": "Khoonta",
+            "rank4": "Wicker",
+            "rank5": "Swarajya 1942",
+            "rank6": "The Uprising",
+            "rank7": "Fafda Jalebi",
+            "rank8": "The Magic Faraway Tree"
+        },
+        "Ramanagara": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Ramanathapuram": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Ramayampet": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Ramdurg": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Rameswarpur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Ramgarh": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Ramgarhwa": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Ramnagar": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Heart of the Beast",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "The Vvaan - Force of the Forrest",
+            "rank8": "Spider-Man: Brand New Day"
+        },
+        "Rampur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Rampachodavaram": {
+            "rank1": "Pyar Bhari Madhoshiyan",
+            "rank2": "Satyabhama: A Forgotten Saga",
+            "rank3": "Chappad Phaad Ke",
+            "rank4": "Varchasva",
+            "rank5": "Dhehi",
+            "rank6": "Gurubrahma",
+            "rank7": "Rayabhari",
+            "rank8": "Rachel"
+        },
+        "Ramtek": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Ranaghat": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Ranchi": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "The Vvaan - Force of the Forrest",
+            "rank3": "The Paradise",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mirzapur: The Movie"
+        },
+        "Rangia": {
+            "rank1": "NRC - Nalparar Ramchandra",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "Mirzapur: The Movie"
+        },
+        "Ranebennur": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Raniganj": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Ranipet": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Ranni": {
+            "rank1": "Dorothy",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Meesaya Murukku 2",
+            "rank4": "Heart of the Beast",
+            "rank5": "Bethlehem Kudumba Unit",
+            "rank6": "Resident Evil",
+            "rank7": "Pradhama Drishtiya Kuttakkar",
+            "rank8": "Dhoomakethu"
+        },
+        "Rapur": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Rasipuram": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Ratlam": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Ratnagiri": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Ratnagiri (Odisha)": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Ravulapalem": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Raxaul": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Rayagada": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Rayakottai": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Rayavaram": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Rentachintala": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Razole": {
+            "rank1": "Tom and Jerry: Forbidden Compass",
+            "rank2": "Lag Ja Gale",
+            "rank3": "Khoonta",
+            "rank4": "Wicker",
+            "rank5": "Swarajya 1942",
+            "rank6": "The Uprising",
+            "rank7": "Fafda Jalebi",
+            "rank8": "The Magic Faraway Tree"
+        },
+        "Renukoot": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Revdanda": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Rewa": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Rewari": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "VIBE",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "The Vvaan - Force of the Forrest"
+        },
+        "RiBhoi": {
+            "rank1": "Doraemon: Castle of the Undersea Devil"
+        },
+        "Ringas": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Resident Evil"
+        },
+        "Rishikesh": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Heart of the Beast",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "The Vvaan - Force of the Forrest",
+            "rank8": "Spider-Man: Brand New Day"
+        },
+        "Robertsganj": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Rohtak": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "VIBE",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "The Vvaan - Force of the Forrest"
+        },
+        "Ron": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Rongjeng": {
+            "rank1": "Doraemon: Castle of the Undersea Devil"
+        },
+        "Roorkee": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Heart of the Beast",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "The Vvaan - Force of the Forrest",
+            "rank8": "Spider-Man: Brand New Day"
+        },
+        "Rourkela": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Rudauli": {
+            "rank1": "Kallapart",
+            "rank2": "",
+            "rank3": "The Incomplete Man",
+            "rank4": "Widow Colony",
+            "rank5": "Sheer Qorma",
+            "rank6": "Dhehi",
+            "rank7": "Rachel",
+            "rank8": "Colorful Stage! The Movie: A Miku Who Can`t Sing"
+        },
+        "Rudrapur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Heart of the Beast",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "The Vvaan - Force of the Forrest",
+            "rank8": "Spider-Man: Brand New Day"
+        },
+        "Rupnagar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Vvaan - Force of the Forrest",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Mitti De Putt",
+            "rank7": "The Paradise"
+        },
+        "Sabbavaram": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Safidon": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "VIBE",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "The Vvaan - Force of the Forrest"
+        },
+        "Sadasivpet": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Saharanpur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Sagwara": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Resident Evil"
+        },
+        "Saharsa": {
+            "rank1": "The Vvaan - Force of the Forrest",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Drishyam: The Conclusion"
+        },
+        "Sahibganj": {
+            "rank1": "Vairii",
+            "rank2": "The Fountainhead",
+            "rank3": "Sheer Qorma",
+            "rank4": "Dhehi",
+            "rank5": "Kallapart",
+            "rank6": "",
+            "rank7": "Focus",
+            "rank8": "Kettavannu Peredutha Nallavanda"
+        },
+        "Sahjanwa": {
+            "rank1": "Digger",
+            "rank2": "ENE Repeat",
+            "rank3": "Kaaviya Kaadhal",
+            "rank4": "Tumbbad 2",
+            "rank5": "Delivery Boy",
+            "rank6": "Doctor 24/7",
+            "rank7": "Bharata Varsha: Saga of Shula",
+            "rank8": "Shrek 5"
+        },
+        "Sakleshpur": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Salem": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Saligrama": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Salihundam": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Salur": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Samalkota": {
+            "rank1": "The Paradise",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Heart of the Beast",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Irumudi",
+            "rank6": "Meesaya Murukku 2",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Sambhal": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Drishyam: The Conclusion",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Avengers: Doomsday"
+        },
+        "Sambalpur": {
+            "rank1": "Jadi: The Untold Side of If",
+            "rank2": "The Paradise",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Dahaan: The Evil Within",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Ramayana",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Sambhar": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Samsi": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "The Vvaan - Force of the Forrest",
+            "rank6": "Avengers: Doomsday",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam: The Conclusion"
+        },
+        "Sanand": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Resident Evil",
+            "rank6": "The Vvaan - Force of the Forrest",
+            "rank7": "Mitrata"
+        },
+        "Sangamner": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Sangareddy": {
+            "rank1": "The Paradise",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Heart of the Beast",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Irumudi",
+            "rank6": "Dorothy",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Meesaya Murukku 2"
+        },
+        "Sangaria": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "The Paradise",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Heart of the Beast",
+            "rank7": "Primetime"
+        },
+        "Sangli": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Sangola": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        },
+        "Sankarankoil": {
+            "rank1": "Meesaya Murukku 2",
+            "rank2": "Mandaadi",
+            "rank3": "Dorothy",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Modha Rathri",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Heart of the Beast",
+            "rank8": "The Dark Heaven"
+        },
+        "Sankeshwar": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Sankri": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Heart of the Beast",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "Drishyam: The Conclusion",
+            "rank7": "The Vvaan - Force of the Forrest",
+            "rank8": "Spider-Man: Brand New Day"
+        },
+        "Santhebennur": {
+            "rank1": "Premada Oorali",
+            "rank2": "Toxic: A Fairy Tale for Grown-ups",
+            "rank3": "Citylights",
+            "rank4": "Hanuman Ansh",
+            "rank5": "The Paradise",
+            "rank6": "Heart of the Beast",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Toss"
+        },
+        "Saoner": {
+            "rank1": "Hanuman Ansh",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "Mirzapur: The Movie",
+            "rank4": "Jayanti 2",
+            "rank5": "Avengers Endgame: Encore",
+            "rank6": "The Paradise",
+            "rank7": "Heart of the Beast",
+            "rank8": "VIBE"
+        }
+    }
+}
