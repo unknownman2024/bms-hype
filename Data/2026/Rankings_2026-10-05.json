@@ -1,0 +1,39 @@
+{
+    "date": "2026-10-05",
+    "last_updated": "2026-10-05 06:33 IST",
+    "total_cities": 1901,
+    "success_cities": 3,
+    "failed_cities": 0,
+    "rankings": {
+        "Vithlapur": {
+            "rank1": "Rohini Aarane Taragathi",
+            "rank2": "Khalnayak Returns",
+            "rank3": "Parijaat",
+            "rank4": "Dune: Part Three",
+            "rank5": "ENE Repeat",
+            "rank6": "Bouma",
+            "rank7": "The Black Gold",
+            "rank8": "Bohurupi: The Golden Daku"
+        },
+        "Vizag (Visakhapatnam)": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Thella Kaagitham",
+            "rank3": "The Paradise",
+            "rank4": "Aadarsha Kutumbam House No: 47",
+            "rank5": "Verity",
+            "rank6": "Avengers Endgame: Encore",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Dorothy"
+        },
+        "Vrindavan": {
+            "rank1": "Masood Khan Part-1: The Rage",
+            "rank2": "Dha Dha",
+            "rank3": "Nriti",
+            "rank4": "Pyar Bhari Madhoshiyan",
+            "rank5": "V. Shantaram",
+            "rank6": "Chittam Maharani",
+            "rank7": "Bhootham Praytham",
+            "rank8": "Maanus Naavaacha Vaadal"
+        }
+    }
+}
