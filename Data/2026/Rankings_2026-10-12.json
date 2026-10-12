@@ -1,0 +1,4299 @@
+{
+    "date": "2026-10-12",
+    "last_updated": "2026-10-12 06:55 IST",
+    "total_cities": 1901,
+    "success_cities": 442,
+    "failed_cities": 0,
+    "rankings": {
+        "Kurud": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Kurundwad": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Kushalnagar": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Kushinagar": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Manamadurai": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Mananthavady": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Manapparai": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Mancherial": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Mandapeta": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Mandarmoni": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Mandav": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Mandi": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Street Fighter",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Jailer 2",
+            "rank6": "Verity",
+            "rank7": "Mirzapur: The Movie",
+            "rank8": "The Vvaan - Force of the Forrest"
+        },
+        "Mandi Dabwali": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Verity",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Udta Teer",
+            "rank6": "Other Mommy"
+        },
+        "Mandi Gobindgarh": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Mandsaur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Mandvi": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Mandya": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Manendragarh": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Bhed",
+            "rank8": "Udta Teer"
+        },
+        "Mangaldoi": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Mangaluru (Mangalore)": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Mangalwedha": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Manikonda (AP)": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Manipal": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Manjeri": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Mannargudi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Mannur": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Mansa": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Manthani": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Manuguru": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Maraimalai Nagar": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Marayur": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Margherita": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Marpalle": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Marripeda": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Martur": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Maslandapur": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Mathabhanga": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Mathura": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Mau": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Mavelikkara": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Mayannur": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Medak": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Medarametla": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Medininagar": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Mehkar": {
+            "rank1": "Cactus",
+            "rank2": "Jailer",
+            "rank3": "Mujhse Bura Na Koi",
+            "rank4": "De Dana Dan",
+            "rank5": "6 Lying University Students",
+            "rank6": "The Dark Matter 2",
+            "rank7": "Gurubrahma",
+            "rank8": "Nriti"
+        },
+        "Mehsana": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Melattur": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "Pidha Pachhi",
+            "rank4": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank5": "Ragini 3",
+            "rank6": "SlumDog - 33 Temple Road",
+            "rank7": "Baba",
+            "rank8": "Tera Sai"
+        },
+        "Melli": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Metpally": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Mettur": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Mhow": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Miraj": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Mirganj": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "Pidha Pachhi",
+            "rank4": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank5": "Ragini 3",
+            "rank6": "SlumDog - 33 Temple Road",
+            "rank7": "Baba",
+            "rank8": "Tera Sai"
+        },
+        "Miryalaguda": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Mirzapur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Mohali": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Mokama": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "Pidha Pachhi",
+            "rank4": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank5": "Ragini 3",
+            "rank6": "SlumDog - 33 Temple Road",
+            "rank7": "Baba",
+            "rank8": "Tera Sai"
+        },
+        "Mominpet": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Moradabad": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Moranhat": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Morbi": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Morigaon": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Morinda": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Motihari": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Avengers: Doomsday"
+        },
+        "Mudalagi": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Muddebihal": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Mudhol": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Mudigere": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Mukerian": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Mukkam": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Mulbagal": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Mulkanoor": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Mullanpur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Mulleria": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Mulugu Ghanpur": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Mummidivaram": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Mundargi": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Mundra": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Muniguda": {
+            "rank1": "Jailer 2",
+            "rank2": "Jadi: The Untold Side of If",
+            "rank3": "Rajini: The Jailer 2",
+            "rank4": "Ramayana",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mahani",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Street Fighter"
+        },
+        "Muradnagar": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Murshidabad": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Murtizapur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Mussoorie": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Street Fighter",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Jailer 2"
+        },
+        "Muvattupuzha": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Muzaffarpur": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Avengers: Doomsday"
+        },
+        "Mylavaram": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Mysuru (Mysore)": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Nabadwip": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Nabarangpur": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Nabha": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Nadia": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Nagamangala": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Nagapattinam": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Nagari": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Nagarkurnool": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Nagaur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Nagda": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Nagothane": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Nagpur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Naharlagun": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Naihati": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Nainital": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Street Fighter",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Jailer 2"
+        },
+        "Najafgarh": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Najibabad": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Nakodar": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Nalbari": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Nalgonda": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Namakkal": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Namkhana": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Namsai": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Nanded": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Nandikotkur": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Nandipet": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Nandurbar": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Nellimarla": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Nemmara": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Nepalgunj": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Ner Parsopant": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Neral": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "New Tehri": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Street Fighter",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Jailer 2",
+            "rank8": "Hanuman Ansh"
+        },
+        "Nichlaul": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Pathsala": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Patna": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Avengers: Doomsday"
+        },
+        "Patran": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Patratu": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Pattambi": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Pavagada": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Payyanur": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Payyoli": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Pebbair": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Pedana": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Pedanandipadu": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Pedapadu": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Peddapalli": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Ponneri": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Rayagada": {
+            "rank1": "Jailer 2",
+            "rank2": "Jadi: The Untold Side of If",
+            "rank3": "Rajini: The Jailer 2",
+            "rank4": "Ramayana",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mahani",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Street Fighter"
+        },
+        "Rayakottai": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Razole": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Rayachoti": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Renukoot": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Repalle": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Revdanda": {
+            "rank1": "Magazine",
+            "rank2": "Daktar Kaku",
+            "rank3": "Dear Husband",
+            "rank4": "Cousin Isha",
+            "rank5": "Devghar On Rent",
+            "rank6": "Good Time",
+            "rank7": "Brindavihari",
+            "rank8": "Ram Bola"
+        },
+        "Rewa": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Rewari": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Verity",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Udta Teer",
+            "rank6": "Other Mommy"
+        },
+        "RiBhoi": {
+            "rank1": "Baa Baa Black Sheep",
+            "rank2": "Doraemon: Castle of the Undersea Devil"
+        },
+        "Ringas": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Rishikesh": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Street Fighter",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Jailer 2",
+            "rank8": "Hanuman Ansh"
+        },
+        "Rishra": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Robertsganj": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Rohtak": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Verity",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Udta Teer",
+            "rank6": "Other Mommy"
+        },
+        "Rongjeng": {
+            "rank1": "Baa Baa Black Sheep",
+            "rank2": "Doraemon: Castle of the Undersea Devil"
+        },
+        "Roorkee": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Street Fighter",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Jailer 2",
+            "rank8": "Hanuman Ansh"
+        },
+        "Rourkela": {
+            "rank1": "Jailer 2",
+            "rank2": "Jadi: The Untold Side of If",
+            "rank3": "Rajini: The Jailer 2",
+            "rank4": "Ramayana",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mahani",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Street Fighter"
+        },
+        "Rudrapur": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Street Fighter",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Jailer 2",
+            "rank8": "Hanuman Ansh"
+        },
+        "Rudauli": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Sabbavaram": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Rupnagar": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Sangareddy": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Sangaria": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Sangli": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Sardulgarh": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Sarnath": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Sarni": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Sarsiwa": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Bhed",
+            "rank8": "Udta Teer"
+        },
+        "Satana": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Satara": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Sathyamangalam": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Satmile": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Satna": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Sattenapalle": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Saundatti": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Sawantwadi": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Sayan": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Secunderabad": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Seethanagaram": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Selu": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Semiliguda": {
+            "rank1": "Jailer 2",
+            "rank2": "Jadi: The Untold Side of If",
+            "rank3": "Rajini: The Jailer 2",
+            "rank4": "Ramayana",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mahani",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Street Fighter"
+        },
+        "Senapati": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Sendurai": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Sengottai": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Seoni": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Seoni Malwa": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Shahada": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Shahapur": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Shahdol": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Shahjahanpur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Shahpura": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Shajapur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Shamgarh": {
+            "rank1": "Magazine",
+            "rank2": "Daktar Kaku",
+            "rank3": "Dear Husband",
+            "rank4": "Cousin Isha",
+            "rank5": "Devghar On Rent",
+            "rank6": "Good Time",
+            "rank7": "Brindavihari",
+            "rank8": "Ram Bola"
+        },
+        "Shankarpally": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Shankarampet": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Shankarpur": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Sheopur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Shikaripur": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Shikrapur": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Shimla": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Street Fighter",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Jailer 2",
+            "rank6": "Verity",
+            "rank7": "Mirzapur: The Movie",
+            "rank8": "The Vvaan - Force of the Forrest"
+        },
+        "Shindkheda": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Shirahatti": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Shirali": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Shirpur": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank4": "Ragini 3",
+            "rank5": "SlumDog - 33 Temple Road",
+            "rank6": "Baba",
+            "rank7": "Tera Sai",
+            "rank8": "Bike Ambulance Dada"
+        },
+        "Shirur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Shivamogga": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Shopian": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Shoranur": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Shrigonda": {
+            "rank1": "Magazine",
+            "rank2": "Daktar Kaku",
+            "rank3": "Dear Husband",
+            "rank4": "Cousin Isha",
+            "rank5": "Devghar On Rent",
+            "rank6": "Good Time",
+            "rank7": "Brindavihari",
+            "rank8": "Ram Bola"
+        },
+        "Shrirampur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Shujalpur": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Shuklaganj": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Siddhpur": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Sidlaghatta": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Siddipet": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Sikar": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Sihora": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Silchar": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Siliguri": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Silvassa": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Sindhanur": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Singarayakonda": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Singrauli": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Sinnar": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Sira": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Sirmaur": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Sirohi": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Sirsi": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Sirsa": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Hanuman Ansh",
+            "rank3": "Verity",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Udta Teer",
+            "rank6": "Other Mommy"
+        },
+        "Siruguppa": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Sitamarhi": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Avengers: Doomsday"
+        },
+        "Sitapur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Sircilla": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Sivaganga": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Sivasagar": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Sivakasi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Siwan": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Solapur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Sonari": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Sompeta": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Songadh": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Sonkatch": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Soron": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank4": "Ragini 3",
+            "rank5": "SlumDog - 33 Temple Road",
+            "rank6": "Baba",
+            "rank7": "Tera Sai",
+            "rank8": "Bike Ambulance Dada"
+        },
+        "South 24 Parganas": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Sri Ganganagar": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Sri Sathya Sai": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Srinagar": {
+            "rank1": "Ramayana",
+            "rank2": "Street Fighter",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Verity",
+            "rank6": "Udta Teer",
+            "rank7": "Drishyam The Conclusion"
+        },
+        "Srikakulam": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Srirangapatna": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Srivaikuntam": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Station Ghanpur": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Sugauli": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Avengers: Doomsday"
+        },
+        "Sujangarh": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Sukma": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Sultanabad": {
+            "rank1": "Magazine",
+            "rank2": "Daktar Kaku",
+            "rank3": "Dear Husband",
+            "rank4": "Cousin Isha",
+            "rank5": "Devghar On Rent",
+            "rank6": "Good Time",
+            "rank7": "Brindavihari",
+            "rank8": "Ram Bola"
+        },
+        "Sultanpur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Sumerpur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Sundar Nagar": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Street Fighter",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Jailer 2",
+            "rank6": "Verity",
+            "rank7": "The Vvaan - Force of the Forrest",
+            "rank8": "Mirzapur: The Movie"
+        },
+        "Sulthan Bathery": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Sundargarh": {
+            "rank1": "Jailer 2",
+            "rank2": "Jadi: The Untold Side of If",
+            "rank3": "Rajini: The Jailer 2",
+            "rank4": "Ramayana",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mahani",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Street Fighter"
+        },
+        "Supaul": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Surajpur": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Bhed",
+            "rank8": "Udta Teer"
+        },
+        "Surat": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Surendranagar": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Surathkal": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Suryapet": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Suri": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "T.Narasapuram": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank4": "Ragini 3",
+            "rank5": "SlumDog - 33 Temple Road",
+            "rank6": "Baba",
+            "rank7": "Tera Sai",
+            "rank8": "Bike Ambulance Dada"
+        },
+        "Tadipatri": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Talcher": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Tadikalapudi": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Taliparamba": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Talwandi Bhai": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Tallapudi": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Tallarevu": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Tamluk": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Tanda": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "Premada Oorali",
+            "rank5": "Avengers Endgame: Encore"
+        },
+        "Tandur": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Tangla": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Tangutur": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Tanuku": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Tarikere": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Tarapur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Tasgaon": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Tatipaka": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Tekkali": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Tembhurni": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Tawang": {
+            "rank1": "Two Zero One Four"
+        },
+        "Tenkasi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Terdal": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Tezpur": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Tezu": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Thalayolaparambu": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Thalassery": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Thalikulam": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Thallada": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Thamarassery": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Tharad": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Thanjavur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Thanipadi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Theni": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Thimmapuram (Addu Road)": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Thirubuvanai": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Thiruttani": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Thiruthuraipoondi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Thirumalagiri": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Thiruvarur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Thiruvalla": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Thodupuzha": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Thorrur": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Thottiyam": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Thrissur": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Thriprayar": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Thullur": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Thuraiyur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tilda Neora": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Ramayana",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Bhed",
+            "rank8": "Udta Teer"
+        },
+        "Tindivanam": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tinsukia": {
+            "rank1": "Prem XL",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Jailer 2",
+            "rank4": "NRC - Nalparar Ramchandra",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Baazingg Khwatai",
+            "rank7": "Street Fighter",
+            "rank8": "Dipholu"
+        },
+        "Tiruchendur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tiptur": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Tirukoilur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tirumakudalu Narasipura": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Tirunelveli": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tirupati": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Tirupattur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tirur": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Tirupur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tiruvallur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tiruvannamalai": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tiruvuru": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Tiruvarur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Titlagarh": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Tittakudi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tonk": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Toopran": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Trichy": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Tumakuru (Tumkur)": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Trivandrum": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Tumsar": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Tura": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Turputallu": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Turuvekere": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Udaynarayanpur": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Udgir": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Udaipur": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Hanuman Ansh",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Udta Teer",
+            "rank6": "Ramayana",
+            "rank7": "Doraemon: Castle of the Undersea Devil",
+            "rank8": "Avengers Endgame: Encore"
+        },
+        "Udhampur": {
+            "rank1": "Ramayana",
+            "rank2": "Street Fighter",
+            "rank3": "Avengers Endgame: Encore",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Verity",
+            "rank6": "Udta Teer",
+            "rank7": "Drishyam The Conclusion"
+        },
+        "Udumalpet": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Ujhani": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Udupi": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Ulikkal": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank4": "Ragini 3",
+            "rank5": "SlumDog - 33 Temple Road",
+            "rank6": "Baba",
+            "rank7": "Tera Sai",
+            "rank8": "Bike Ambulance Dada"
+        },
+        "Ujjain": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Mirzapur: The Movie",
+            "rank5": "Jailer 2",
+            "rank6": "Udta Teer"
+        },
+        "Uluberia": {
+            "rank1": "DeSu7",
+            "rank2": "The Eken: Kerala-e-Kurukshetra",
+            "rank3": "Bohurupi: The Golden Daku",
+            "rank4": "Jailer 2",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Doraemon: Castle of the Undersea Devil",
+            "rank7": "Rajini: The Jailer 2",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Umbraj": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Umaria": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Umbergaon": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Umred": {
+            "rank1": "Kettavannu Peredutha Nallavanda",
+            "rank2": "Atharva",
+            "rank3": "Hawa Singh",
+            "rank4": "Nicotine",
+            "rank5": "Legally Blonde 3",
+            "rank6": "Enough is Enough",
+            "rank7": "Firrkie",
+            "rank8": "Rayabhari"
+        },
+        "Umerkote": {
+            "rank1": "Magazine",
+            "rank2": "Daktar Kaku",
+            "rank3": "Dear Husband",
+            "rank4": "Cousin Isha",
+            "rank5": "Devghar On Rent",
+            "rank6": "Good Time",
+            "rank7": "Brindavihari",
+            "rank8": "Ram Bola"
+        },
+        "Una": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Street Fighter",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Verity",
+            "rank6": "Jailer 2",
+            "rank7": "Mirzapur: The Movie",
+            "rank8": "The Vvaan - Force of the Forrest"
+        },
+        "Undavalli": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Una (Gujarat)": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Unnao": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Uppada": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank4": "Ragini 3",
+            "rank5": "SlumDog - 33 Temple Road",
+            "rank6": "Baba",
+            "rank7": "Tera Sai",
+            "rank8": "Bike Ambulance Dada"
+        },
+        "Uthamapalayam": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Uthangarai": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank4": "Ragini 3",
+            "rank5": "SlumDog - 33 Temple Road",
+            "rank6": "Baba",
+            "rank7": "Tera Sai",
+            "rank8": "Bike Ambulance Dada"
+        },
+        "Utraula": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Uthukottai": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Uthiramerur": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Uttara Kannada": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Vadakara": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Uttarkashi": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Street Fighter",
+            "rank4": "Avengers: Doomsday",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Jailer 2"
+        },
+        "Vadalur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Vadodara": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Vadanappally": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Vadakkencherry": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Vaduj": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Valaparla": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank4": "Ragini 3",
+            "rank5": "SlumDog - 33 Temple Road",
+            "rank6": "Baba",
+            "rank7": "Tera Sai",
+            "rank8": "Bike Ambulance Dada"
+        },
+        "Valigonda": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Valanchery": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Valluru": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Valsad": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Vaniyambadi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Varadaiahpalem": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Varadiyam": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Vapi": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Varanasi": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Mirzapur: The Movie",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Jailer 2",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Ramayana",
+            "rank7": "Udta Teer",
+            "rank8": "Avengers: Doomsday"
+        },
+        "Varkala": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Vasind": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Vatsavai": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vedasandur": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Vazhapadi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Veeraghattam": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Velanja": {
+            "rank1": "Rekkai Mulaithen",
+            "rank2": "Lakadbagggha 2: The Monkey Business",
+            "rank3": "4 Rivers 6 Ranges Chushi Gangdruk",
+            "rank4": "Ragini 3",
+            "rank5": "SlumDog - 33 Temple Road",
+            "rank6": "Baba",
+            "rank7": "Tera Sai",
+            "rank8": "Bike Ambulance Dada"
+        },
+        "Velanthavalam": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Velangi": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vellampalli": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Vempalli": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vemulawada": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Vengurla": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Venkatapuram": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Veraval": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Vetapalem": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vettaikaranpudur": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Vijapur": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Vijayapura (Bengaluru Rural)": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Vijayapura (Bijapur)": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Vijayarai": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vikarabad": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Vijayawada": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vikasnagar": {
+            "rank1": "Doraemon: Castle of the Undersea Devil",
+            "rank2": "Avengers Endgame: Encore",
+            "rank3": "Avengers: Doomsday",
+            "rank4": "Street Fighter",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Mirzapur: The Movie",
+            "rank7": "Hanuman Ansh",
+            "rank8": "Jailer 2"
+        },
+        "Vikravandi": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Vinukonda": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Villupuram": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Viralimalai": {
+            "rank1": "The Education of Jane Cumming",
+            "rank2": "Khashaba",
+            "rank3": "Raidas - Ek Vichar",
+            "rank4": "19",
+            "rank5": "Sanchari Jeevana",
+            "rank6": "Shrek 5",
+            "rank7": "Amar Akbar Anthony",
+            "rank8": "Jaan"
+        },
+        "Virudhachalam": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Visnagar": {
+            "rank1": "Jailer 2",
+            "rank2": "Drishyam The Conclusion",
+            "rank3": "Mitrata",
+            "rank4": "Avengers Endgame: Encore",
+            "rank5": "Doraemon: Castle of the Undersea Devil",
+            "rank6": "Udta Teer",
+            "rank7": "Hanuman Ansh"
+        },
+        "Vissannapeta": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vithlapur": {
+            "rank1": "The Black Gold",
+            "rank2": "Rohini Aarane Taragathi",
+            "rank3": "Chauhaan",
+            "rank4": "PAW Patrol: The Dino Movie",
+            "rank5": "Narnia: The Magician's Nephew",
+            "rank6": "Bokshi",
+            "rank7": "Lakshmiputhra",
+            "rank8": "Lenin Pandiyan"
+        },
+        "Vita": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Vrindavan": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Vizianagaram": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vuyyuru": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Vyara": {
+            "rank1": "Cactus",
+            "rank2": "Jailer",
+            "rank3": "Mujhse Bura Na Koi",
+            "rank4": "De Dana Dan",
+            "rank5": "6 Lying University Students",
+            "rank6": "The Dark Matter 2",
+            "rank7": "Gurubrahma",
+            "rank8": "Nriti"
+        },
+        "Wai": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Wadakkancherry": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "Wanaparthy": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Wani": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Warangal": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Wardha": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Warora": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Wayanad": {
+            "rank1": "Jailer 2",
+            "rank2": "Baththa",
+            "rank3": "Thenmavin Kombath",
+            "rank4": "Rajini: The Jailer 2",
+            "rank5": "Dorothy",
+            "rank6": "Drishyam The Conclusion",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Bethlehem Kudumba Unit"
+        },
+        "West Kameng": {
+            "rank1": "Two Zero One Four"
+        },
+        "Wyra": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Yadagirigutta": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Yavatmal": {
+            "rank1": "Drishyam The Conclusion",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Mirzapur: The Movie",
+            "rank6": "Premada Oorali",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Dhappa"
+        },
+        "Yelagiri": {
+            "rank1": "Jailer 2",
+            "rank2": "Doraemon: Castle of the Undersea Devil",
+            "rank3": "96",
+            "rank4": "Dorothy",
+            "rank5": "Mandaadi",
+            "rank6": "Baththa",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Anbil Avan"
+        },
+        "Yelburga": {
+            "rank1": "Premada Oorali",
+            "rank2": "Jailer 2",
+            "rank3": "Doraemon: Castle of the Undersea Devil",
+            "rank4": "Hanuman Ansh",
+            "rank5": "Drishyam The Conclusion",
+            "rank6": "Citylights",
+            "rank7": "Avengers Endgame: Encore",
+            "rank8": "Comrade Kalyan"
+        },
+        "Yeleswaram": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Yellamanchili": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Yellareddy": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Yellareddypet": {
+            "rank1": "Senapati",
+            "rank2": "Aval Appadithan 2",
+            "rank3": "3E",
+            "rank4": "Kantho",
+            "rank5": "Oka Sextant Katha",
+            "rank6": "Arrtham",
+            "rank7": "Pisasu 2",
+            "rank8": "Shudhu Jaaoya Asa"
+        },
+        "Yerragondapalem": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Yerraguntla": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Doraemon: Castle of the Undersea Devil",
+            "rank5": "Comrade Kalyan",
+            "rank6": "Baththa",
+            "rank7": "Hanuman Ansh",
+            "rank8": "The Paradise"
+        },
+        "Yewat": {
+            "rank1": "Daayra",
+            "rank2": "Operation Sundarbans",
+            "rank3": "Dhaganam",
+            "rank4": "Kanmani Paappa",
+            "rank5": "Dance Bar",
+            "rank6": "Nodi Swamy Ivanu Irode Heege",
+            "rank7": "Mughal Road",
+            "rank8": "Osey Arundhathi"
+        },
+        "Yeola": {
+            "rank1": "Vairii",
+            "rank2": "Pachhattar Ka Chhora",
+            "rank3": "Rayabhari",
+            "rank4": "Poarmugham",
+            "rank5": "March 23: Anti Corruption Day",
+            "rank6": "Point Range",
+            "rank7": "Kallapart",
+            "rank8": "ENE Repeat"
+        },
+        "Zaheerabad": {
+            "rank1": "Jailer 2",
+            "rank2": "Ranabaali",
+            "rank3": "Aadarsha Kutumbam House No: 47",
+            "rank4": "Baththa",
+            "rank5": "Hanuman Ansh",
+            "rank6": "Comrade Kalyan",
+            "rank7": "The Paradise",
+            "rank8": "Drishyam The Conclusion"
+        },
+        "Zarap": {
+            "rank1": "Daayra",
+            "rank2": "Operation Sundarbans",
+            "rank3": "Dhaganam",
+            "rank4": "Kanmani Paappa",
+            "rank5": "Dance Bar",
+            "rank6": "Nodi Swamy Ivanu Irode Heege",
+            "rank7": "Mughal Road",
+            "rank8": "Osey Arundhathi"
+        }
+    }
+}
