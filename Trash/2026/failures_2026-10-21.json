@@ -1,0 +1,17 @@
+{
+    "date": "2026-10-21",
+    "last_updated": "2026-10-21 06:11 IST",
+    "total_failures": 2,
+    "failures": [
+        {
+            "region": "Naharlagun",
+            "code": "NAHA",
+            "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        },
+        {
+            "region": "Naihati",
+            "code": "NHTA",
+            "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        }
+    ]
+}
