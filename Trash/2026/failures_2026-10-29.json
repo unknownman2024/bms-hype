@@ -1,0 +1,12 @@
+{
+    "date": "2026-10-29",
+    "last_updated": "2026-10-29 07:22 IST",
+    "total_failures": 1,
+    "failures": [
+        {
+            "region": "Bommidi",
+            "code": "BOMM",
+            "error": "HTTPSConnectionPool(host='in.bookmyshow.com', port=443): Read timed out. (read timeout=15)"
+        }
+    ]
+}
