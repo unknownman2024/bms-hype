@@ -1,0 +1,27 @@
+{
+    "date": "2026-10-30",
+    "last_updated": "2026-10-30 07:31 IST",
+    "total_failures": 4,
+    "failures": [
+        {
+            "region": "Dantewada",
+            "code": "DTWD",
+            "error": "HTTPSConnectionPool(host='in.bookmyshow.com', port=443): Read timed out. (read timeout=15)"
+        },
+        {
+            "region": "Gudiyatham",
+            "code": "GDTM",
+            "error": "HTTPSConnectionPool(host='in.bookmyshow.com', port=443): Read timed out. (read timeout=15)"
+        },
+        {
+            "region": "Honnali",
+            "code": "HONV",
+            "error": "HTTPSConnectionPool(host='in.bookmyshow.com', port=443): Read timed out. (read timeout=15)"
+        },
+        {
+            "region": "Polavaram",
+            "code": "PLAB",
+            "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+        }
+    ]
+}
